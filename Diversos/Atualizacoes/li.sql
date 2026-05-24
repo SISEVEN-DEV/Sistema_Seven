@@ -1,0 +1,1 @@
+UPDATE licenca SET data_expiracao='2026.05.22' WHERE id_licenca=6;

@@ -1,0 +1,214 @@
+10:14 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:15 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:15 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:16 - Formulário FrmCadConsumidor iniciado.
+10:16 - Pesquisou consumidor.
+10:17 - Formulário FrmCadClieCons foi finalizado.
+10:17 - Formulário FrmCadUsuario iniciado.
+10:17 - Formulário FrmCadUsuario foi finalizado.
+10:17 - Formulário FrmCadSubGrupo iniciado.
+10:17 - Pesquisou sub-grupo.
+10:17 - Formulário FrmCadSubGrupo foi finalizado.
+10:17 - Formulário FrmCadConsumidor iniciado.
+10:17 - Pesquisou consumidor.
+10:17 - Formulário FrmCadClieCons foi finalizado.
+10:17 - Formulário FrmCadContasPagar iniciado.
+10:17 - Pesquisou conta a pagar.
+10:17 - Formulário FrmCadContasPagar foi finalizado.
+10:17 - Formulário FrmCadContasReceber iniciado.
+10:17 - Formulário FrmCadContasReceber foi finalizado.
+10:17 - Formulário FrmCadEntidadeBancaria iniciado.
+10:17 - Formulário FrmCadEntidadeBancaria foi finalizado.
+10:17 - Formulário FrmRelCliente iniciado.
+10:17 - Formulário FrmInfImpressao iniciado.
+10:17 - Formulário FrmInfImpressao foi finalizado.
+10:17 - Formulário FrmInfImpressao iniciado.
+10:17 - Formulário FrmInfImpressao foi finalizado.
+10:17 - Formulário FrmDocumentos iniciado.
+10:17 - Formulário FrmRelContaReceber iniciado.
+10:17 - Formulário FrmArquivos foi finalizado.
+10:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:22 - Formulário FrmLocalizarBanco iniciado.
+10:22 - Formulário FrmLocalizarBanco foi finalizado.
+10:22 - Formulário FrmLocalizarBanco iniciado.
+10:38 - Formulário FrmDocumentos foi finalizado.
+10:38 - Formulário FrmRelClieCons foi finalizado.
+10:38 - Formulário FrmLocalizarBanco foi finalizado.
+10:40 - Formulário FrmLocalizarBanco iniciado.
+10:41 - SISTEMA Seven - Admnistração foi finalizado.
+10:42 - Formulário FrmLocalizarBanco foi finalizado.
+10:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:43 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:53 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:55 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:05 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:06 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:08 - Formulário FrmConfiguracoes iniciado.
+11:08 - Formulário FrmEsquemaComputadores iniciado.
+11:08 - Formulário FrmEsquemaComputadores foi finalizado.
+11:08 - SISTEMA Seven - Admnistração foi finalizado.
+11:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:08 - SISTEMA Seven - Admnistração foi finalizado.
+11:09 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:09 - SISTEMA Seven - Admnistração foi finalizado.
+11:09 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:14 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:23 - Formulário FrmLocalizarBanco iniciado.
+11:23 - Formulário FrmLocalizarBanco foi finalizado.
+11:24 - Formulário FrmLocalizarBanco iniciado.
+11:31 - Formulário FrmLocalizarBanco foi finalizado.
+11:31 - Formulário FrmLocalizarBanco iniciado.
+11:49 - Formulário FrmLocalizarBanco foi finalizado.
+11:49 - Formulário FrmLocalizarBanco iniciado.
+11:49 - Formulário FrmCadastroComputadores iniciado.
+11:51 - Formulário FrmCadastroComputadores foi finalizado.
+11:51 - Formulário FrmLocalizarBanco foi finalizado.
+11:52 - Formulário FrmLocalizarBanco iniciado.
+11:52 - Formulário FrmCadastroComputadores iniciado.
+15:21 - Formulário FrmCadastroComputadores foi finalizado.
+15:21 - Formulário FrmLocalizarBanco foi finalizado.
+15:21 - Formulário FrmLocalizarBanco iniciado.
+15:24 - Formulário FrmCadastroComputadores iniciado.
+15:30 - Formulário FrmCadastroComputadores foi finalizado.
+15:30 - Formulário FrmLocalizarBanco foi finalizado.
+15:31 - Formulário FrmLocalizarBanco iniciado.
+15:32 - Formulário FrmCadastroComputadores iniciado.
+15:32 - Erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index | Evento click do botão btnSalvarMini.
+15:32 - Formulário FrmCadastroComputadores foi finalizado.
+15:32 - Formulário FrmLocalizarBanco foi finalizado.
+15:32 - Formulário FrmLocalizarBanco iniciado.
+15:32 - Formulário FrmCadastroComputadores iniciado.
+15:35 - Formulário FrmCadastroComputadores foi finalizado.
+15:35 - Formulário FrmLocalizarBanco foi finalizado.
+15:44 - Formulário FrmLocalizarBanco iniciado.
+15:44 - Formulário FrmCadastroComputadores iniciado.
+15:44 - Formulário FrmCadastroComputadores foi finalizado.
+15:44 - Formulário FrmLocalizarBanco foi finalizado.
+15:44 - Formulário FrmLocalizarBanco iniciado.
+15:45 - Formulário FrmCadastroComputadores iniciado.
+15:48 - Formulário FrmCadastroComputadores foi finalizado.
+15:48 - Formulário FrmLocalizarBanco foi finalizado.
+15:48 - Formulário FrmLocalizarBanco iniciado.
+15:48 - Formulário FrmCadastroComputadores iniciado.
+15:48 - Formulário FrmCadastroComputadores foi finalizado.
+15:48 - Formulário FrmLocalizarBanco foi finalizado.
+15:48 - Formulário FrmLocalizarBanco iniciado.
+15:49 - Formulário FrmCadastroComputadores iniciado.
+15:50 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+15:50 - Formulário FrmCadastroComputadores foi finalizado.
+15:50 - Formulário FrmLocalizarBanco foi finalizado.
+15:50 - Formulário FrmLocalizarBanco iniciado.
+15:51 - Formulário FrmCadastroComputadores iniciado.
+15:51 - Erro: Unable to complete network request to host "rr". | Evento load do formulário FrmCadastroComputadores.
+15:51 - Formulário FrmCadastroComputadores foi finalizado.
+15:51 - Formulário FrmLocalizarBanco foi finalizado.
+15:51 - Formulário FrmLocalizarBanco iniciado.
+15:51 - Formulário FrmLocalizarBanco foi finalizado.
+15:55 - Formulário FrmLocalizarBanco iniciado.
+15:55 - Formulário FrmLocalizarBanco foi finalizado.
+16:00 - Formulário FrmLocalizarBanco iniciado.
+16:00 - Formulário FrmCadastroComputadores iniciado.
+16:01 - Formulário FrmCadastroComputadores foi finalizado.
+16:01 - Formulário FrmLocalizarBanco foi finalizado.
+16:09 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:10 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:10 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:10 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:10 - Formulário FrmTipoConfConexao iniciado.
+16:10 - Formulário FrmLocalizarBanco iniciado.
+16:11 - Formulário FrmCadastroComputadores iniciado.
+16:11 - Erro: Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CADASTRO_COMPUTADORES
+At line 1, column 151 | Evento load do formulário FrmCadastroComputadores.
+16:11 - Formulário FrmCadastroComputadores foi finalizado.
+16:11 - Formulário FrmLocalizarBanco foi finalizado.
+16:11 - Formulário FrmLocalizarBanco iniciado.
+16:11 - Formulário FrmCadastroComputadores iniciado.
+16:11 - Formulário FrmCadastroComputadores foi finalizado.
+16:11 - Formulário FrmLocalizarBanco foi finalizado.
+16:12 - Formulário FrmLocalizarBanco iniciado.
+16:12 - Formulário FrmCadastroComputadores iniciado.
+16:12 - Formulário FrmCadastroComputadores foi finalizado.
+16:12 - Formulário FrmLocalizarBanco foi finalizado.
+16:22 - Formulário FrmTipoConfConexao foi finalizado.
+16:22 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:22 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:23 - Formulário FrmTipoConfConexao iniciado.
+16:23 - Formulário FrmConexoes iniciado.
+16:24 - Formulário FrmConexoes foi finalizado.
+16:24 - Formulário FrmLocalizarBanco iniciado.
+16:24 - Formulário FrmLocalizarBanco foi finalizado.
+16:24 - Formulário FrmConexoes iniciado.
+16:25 - Formulário FrmConexoes foi finalizado.
+16:25 - Formulário FrmLocalizarBanco iniciado.
+16:25 - Formulário FrmLocalizarBanco foi finalizado.
+16:25 - Formulário FrmTipoConfConexao foi finalizado.
+16:27 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:27 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:31 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:32 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:32 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:32 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:34 - Formulário FrmTipoConfConexao iniciado.
+16:34 - Formulário FrmTipoConfConexao foi finalizado.
+16:34 - Formulário FrmTipoConfConexao iniciado.
+16:34 - Formulário FrmTipoConfConexao foi finalizado.
+16:39 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:39 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:39 - Formulário FrmTipoConfConexao iniciado.
+16:39 - Formulário FrmLocalizarBanco iniciado.
+16:39 - Formulário FrmCadastroComputadores iniciado.
+16:46 - Formulário FrmCadastroComputadores foi finalizado.
+16:46 - Formulário FrmLocalizarBanco foi finalizado.
+16:46 - Formulário FrmTipoConfConexao foi finalizado.
+16:46 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:46 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:46 - Formulário FrmTipoConfConexao iniciado.
+16:46 - Formulário FrmLocalizarBanco iniciado.
+16:46 - Formulário FrmLocalizarBanco foi finalizado.
+16:46 - Formulário FrmLocalizarBanco iniciado.
+16:46 - Formulário FrmCadastroComputadores iniciado.
+16:46 - Erro: violation of FOREIGN KEY constraint "FK_ABERT_FECH_CAIXA_2" on table "ABERT_FECH_CAIXA"
+Foreign key references are present for the record
+Problematic key value is ("ID_CADASTRO_COMPUTADORES" = 1) | Evento click do botão btnExcluir.
+16:47 - Formulário FrmCadastroComputadores foi finalizado.
+16:47 - Formulário FrmLocalizarBanco foi finalizado.
+16:51 - Formulário FrmLocalizarBanco iniciado.
+16:52 - Formulário FrmLocalizarBanco foi finalizado.
+16:57 - Formulário FrmTipoConfConexao foi finalizado.
+16:58 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+16:59 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+16:59 - Formulário FrmTipoConfConexao iniciado.
+16:59 - Formulário FrmLocalizarBanco iniciado.
+20:00 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+20:00 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+20:00 - Formulário FrmTipoConfConexao iniciado.
+20:00 - Formulário FrmLocalizarBanco iniciado.
+20:00 - Formulário FrmCadastroComputadores iniciado.
+21:18 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+21:18 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+21:18 - Formulário FrmTipoConfConexao iniciado.
+21:18 - Formulário FrmLocalizarBanco iniciado.
+21:18 - Formulário FrmLocalizarBanco foi finalizado.
+21:18 - Formulário FrmTipoConfConexao foi finalizado.
+21:18 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+21:19 - Formulário FrmDevolucao iniciado.
+21:19 - Formulário FrmDevolucao foi finalizado.
+21:19 - Formulário FrmOrcamento iniciado.
+21:19 - Formulário FrmOrcamento foi finalizado.
+21:24 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+21:25 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:25 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:25 - Formulário FrmRelCaixas iniciado.
+21:26 - Formulário FrmRelCaixas foi finalizado.
+21:26 - SISTEMA Seven - Admnistração foi finalizado.
+21:26 - Formulário FrmCadastroComputadores foi finalizado.
+21:26 - Formulário FrmLocalizarBanco foi finalizado.
+21:26 - Formulário FrmTipoConfConexao foi finalizado.
+21:26 - Formulário FrmLocalizarBanco foi finalizado.
+21:26 - Formulário FrmTipoConfConexao foi finalizado.

@@ -1,0 +1,37 @@
+ID_SMS_CELULAR				INTEGER NOT NULL PK
+ID_SMS					INTEGER NOT NULL FK
+CELULAR					VARCHAR(15) NOT NULL
+TIPO_DESTINATARIO			VARHCAR(12)
+ID_DESTINATARIO				INTEGER NOT NULL
+NOME_DESTINATARIO			VARCHAR(60) 
+ID_ORDEM				SMALLINT NOT NULL
+STATUS_SMS				CHAR(1) NOT NULL
+
+create generator gen_sms_celular_id;
+
+create table sms_celular (
+    id_sms_celular     integer not null,
+    id_sms             integer not null,
+    celular            varchar(15) not null,
+    tipo_destinatario  varchar(12),
+    id_destinatario    integer not null,
+    nome_destinatario  varchar(60),
+    id_ordem           smallint not null,
+    status_sms         char(1) not null
+);
+
+alter table sms_celular add constraint pk_sms_celular primary key (id_sms_celular);
+
+alter table sms_celular add constraint fk_sms_celular_1 foreign key (id_sms) references sms (id_sms);
+
+create trigger sms_celular_bi for sms_celular
+active before insert position 0
+as
+begin
+  if (new.id_sms_celular is null) then
+    new.id_sms_celular = gen_id(gen_sms_celular_id,1);
+end
+^
+
+
+set term ; ^

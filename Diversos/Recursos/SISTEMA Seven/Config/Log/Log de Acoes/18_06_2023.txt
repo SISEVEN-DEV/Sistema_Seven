@@ -1,0 +1,27 @@
+18:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+18:11 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+18:13 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+18:13 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+18:13 - Formulário FrmTipoConfConexao iniciado.
+18:13 - Formulário FrmLocalizarBanco iniciado.
+18:13 - Formulário FrmCadastroComputadores iniciado.
+18:14 - Computador alterado. Cod: 1 | Nome do Computador: DESKTOP-1K0V9Q5
+18:14 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+18:15 - Computador alterado. Cod: 1 | Nome do Computador: DESKTOP-1K0V9Q5
+18:15 - Formulário FrmCadastroComputadores foi finalizado.
+18:15 - Formulário FrmLocalizarBanco foi finalizado.
+18:15 - Formulário FrmConexoes iniciado.
+18:15 - Conexão alterada. Cod: 1 | Tipo de Conexao: LOCAL
+18:15 - Formulário FrmPesqProduto iniciado.
+18:15 - Pesquisou produto.
+18:15 - Formulário FrmPesqProduto foi finalizado.
+18:22 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+18:23 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+18:23 - Formulário FrmConfiguracoes iniciado.
+18:23 - SISTEMA Seven - PDV foi finalizado.
+18:23 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+18:31 - SISTEMA Seven - PDV foi finalizado.
+18:31 - SISTEMA Seven - Admnistração foi finalizado.
+18:34 - Formulário FrmConexoes foi finalizado.
+18:34 - Formulário FrmTipoConfConexao foi finalizado.
+18:35 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login

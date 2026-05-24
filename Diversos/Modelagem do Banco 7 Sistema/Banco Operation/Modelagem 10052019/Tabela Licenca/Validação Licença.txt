@@ -1,0 +1,15 @@
+PRIMEIRO CACARCTER: 2º CARACTER DO NOME DO MÊS:
+A > Janeiro
+E > Fevereiro
+A > Março
+B > Abril
+A > Maio
+U > Junho
+U > Julho
+G > Agosto
+E > Setembro
+U > Outubro
+O > Novembro
+E > Dezembro
+-----------------------------------------------------------------------
+SEGUNDO CARACTER: 

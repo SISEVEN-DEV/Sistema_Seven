@@ -1,0 +1,598 @@
+08:48 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:54 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:54 - Formulário FrmRelCaixas iniciado.
+08:55 - Formulário FrmRelHistoricoCaixa iniciado.
+08:55 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+08:55 - Formulário FrmRelHistoricoCaixa foi finalizado.
+08:55 - Formulário FrmRelHistoricoCaixa iniciado.
+08:55 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+08:55 - Formulário FrmRelHistoricoCaixa foi finalizado.
+08:55 - Formulário FrmRelCaixas foi finalizado.
+08:55 - SISTEMA Seven - Admnistração foi finalizado.
+08:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:55 - Formulário FrmRelCaixas iniciado.
+08:55 - Formulário FrmRelHistoricoCaixa iniciado.
+08:55 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+09:06 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:06 - Formulário FrmRelCaixas foi finalizado.
+09:06 - SISTEMA Seven - Admnistração foi finalizado.
+09:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:08 - Formulário FrmRelCaixas iniciado.
+09:08 - Formulário FrmRelHistoricoCaixa iniciado.
+09:08 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+09:08 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:08 - Formulário FrmRelHistoricoCaixa iniciado.
+09:08 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+09:09 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:09 - Formulário FrmRelCaixas foi finalizado.
+09:09 - SISTEMA Seven - Admnistração foi finalizado.
+09:09 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:10 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:10 - Formulário FrmRelCaixas iniciado.
+09:10 - Formulário FrmRelHistoricoCaixa iniciado.
+09:10 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+09:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:11 - Formulário FrmRelCaixas foi finalizado.
+09:11 - SISTEMA Seven - Admnistração foi finalizado.
+09:13 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:13 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:13 - Formulário FrmRelCaixas iniciado.
+09:13 - Formulário FrmRelHistoricoCaixa iniciado.
+09:13 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+WHERE | Evento click do botão btnPesquisar.
+09:21 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:21 - Formulário FrmRelCaixas foi finalizado.
+09:21 - SISTEMA Seven - Admnistração foi finalizado.
+09:22 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:24 - Formulário FrmRelCaixas iniciado.
+09:24 - Formulário FrmRelHistoricoCaixa iniciado.
+09:27 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+. | Evento click do botão btnPesquisar.
+09:27 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:27 - Formulário FrmRelCaixas foi finalizado.
+09:27 - SISTEMA Seven - Admnistração foi finalizado.
+09:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:27 - Formulário FrmRelCaixas iniciado.
+09:28 - Formulário FrmRelHistoricoCaixa iniciado.
+09:28 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 95
+. | Evento click do botão btnPesquisar.
+09:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:28 - Formulário FrmRelCaixas foi finalizado.
+09:28 - SISTEMA Seven - Admnistração foi finalizado.
+09:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:29 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:29 - Formulário FrmRelCaixas iniciado.
+09:29 - Formulário FrmRelHistoricoCaixa iniciado.
+09:29 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PAGAMENTO_CONTA_PAGAR.DATA_PAGAMENTO
+At line 1, column 97 | Evento click do botão btnPesquisar.
+09:29 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:29 - Formulário FrmRelHistoricoCaixa iniciado.
+09:30 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+PAGAMENTO_CONTA_PAGAR.DATA_PAGAMENTO
+At line 1, column 97 | Evento click do botão btnPesquisar.
+09:30 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:30 - Formulário FrmRelCaixas foi finalizado.
+09:30 - SISTEMA Seven - Admnistração foi finalizado.
+09:30 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:31 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:32 - Formulário FrmRelCaixas iniciado.
+09:32 - Formulário FrmRelHistoricoCaixa iniciado.
+09:33 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+CONTA_RECEBER.ID_CONTA_RECEBER
+At line 1, column 363 | Evento click do botão btnPesquisar.
+09:33 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:33 - Formulário FrmRelCaixas foi finalizado.
+09:33 - SISTEMA Seven - Admnistração foi finalizado.
+09:33 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:33 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:33 - Formulário FrmRelCaixas iniciado.
+09:34 - Formulário FrmRelHistoricoCaixa iniciado.
+09:34 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+CONTA_RECEBER.ID_CONTA_PAGAR
+At line 1, column 363 | Evento click do botão btnPesquisar.
+09:34 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:34 - Formulário FrmRelCaixas foi finalizado.
+09:34 - SISTEMA Seven - Admnistração foi finalizado.
+09:35 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:36 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:36 - Formulário FrmRelCaixas iniciado.
+09:37 - Formulário FrmRelHistoricoCaixa iniciado.
+09:37 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:37 - Formulário FrmRelCaixas foi finalizado.
+09:37 - SISTEMA Seven - Admnistração foi finalizado.
+09:39 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:39 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:39 - Formulário FrmRelCaixas iniciado.
+09:39 - Formulário FrmRelHistoricoCaixa iniciado.
+09:39 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:39 - Formulário FrmRelHistoricoCaixa iniciado.
+09:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:41 - Formulário FrmRelCaixas foi finalizado.
+09:41 - SISTEMA Seven - Admnistração foi finalizado.
+09:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:43 - Formulário FrmRelCaixas iniciado.
+09:43 - Formulário FrmRelHistoricoCaixa iniciado.
+09:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:43 - Formulário FrmRelHistoricoCaixa iniciado.
+09:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:44 - Formulário FrmRelFluxoCaixa iniciado.
+09:45 - Formulário FrmRelFluxoCaixa foi finalizado.
+09:45 - Formulário FrmRelHistoricoCaixa iniciado.
+09:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:45 - Formulário FrmRelCaixas foi finalizado.
+09:45 - Formulário FrmRelVenda iniciado.
+09:46 - Formulário FrmCancelamentoVenda iniciado.
+09:46 - Formulário FrmRelVenda foi FrmCancelamentoVenda.
+09:46 - Formulário FrmRelVenda foi finalizado.
+09:46 - Formulário FrmRelCaixas iniciado.
+09:46 - Formulário FrmRelHistoricoCaixa iniciado.
+09:48 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:48 - Formulário FrmRelCaixas foi finalizado.
+09:48 - Formulário FrmCadContasPagar iniciado.
+09:48 - Pesquisou conta a pagar.
+09:49 - Formulário FrmCadContasPagar foi finalizado.
+09:49 - Formulário FrmRelContaPagar iniciado.
+09:50 - Formulário FrmRelBaixaConta iniciado.
+09:50 - Formulário FrmRelBaixaConta foi finalizado.
+09:50 - Formulário FrmRelContaPagar foi finalizado.
+09:50 - Formulário FrmRelCaixas iniciado.
+09:50 - Formulário FrmRelHistoricoCaixa iniciado.
+09:51 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:53 - Formulário FrmRelCaixas foi finalizado.
+09:53 - SISTEMA Seven - Admnistração foi finalizado.
+09:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:58 - Formulário FrmFecharCaixa iniciado.
+09:59 - Abert/Fech de Caixa cadastrada. Cod: 14 | Descrição: FECHAMENTO DE CAIXA
+09:59 - Formulário FrmRelHistoricoCaixa iniciado.
+09:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:59 - Formulário FrmFecharCaixa foi finalizado.
+10:01 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:01 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:02 - Formulário FrmRelCaixas iniciado.
+10:02 - Formulário FrmRelHistoricoCaixa iniciado.
+10:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:10 - Formulário FrmRelHistoricoCaixa iniciado.
+10:10 - Formulário FrmAbrirCaixa iniciado.
+10:10 - Abert/Fech de Caixa cadastrada. Cod: 15 | Descrição: ABERTURA DE CAIXA
+10:10 - Formulário FrmAbrirCaixa foi finalizado.
+10:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:10 - Formulário FrmFormaPagamento iniciado.
+10:10 - Formulário FrmFormaPagamento foi finalizado.
+10:10 - Formulário FrmInformar iniciado.
+10:11 - Formulário FrmInformar foi finalizado.
+10:11 - Formulário FrmPesqCliente iniciado.
+10:11 - Pesquisou cliente.
+10:11 - Formulário FrmPesqCliente foi finalizado.
+10:11 - Formulário FrmFormaPagamento iniciado.
+10:11 - Formulário FrmFormaPagamento foi finalizado.
+10:11 - Formulário FrmRelHistoricoCaixa iniciado.
+10:11 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:11 - Formulário FrmRelCaixas foi finalizado.
+10:12 - Formulário FrmRelContaReceber iniciado.
+10:12 - Formulário FrmRelBaixaConta iniciado.
+10:12 - Formulário FrmRelBaixaConta foi finalizado.
+10:12 - Formulário FrmRelCaixas iniciado.
+10:12 - Formulário FrmRelHistoricoCaixa iniciado.
+10:22 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:22 - Formulário FrmRelCaixas foi finalizado.
+10:22 - Formulário FrmRelContaReceber foi finalizado.
+10:22 - SISTEMA Seven - Admnistração foi finalizado.
+10:24 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:24 - Formulário FrmRelCaixas iniciado.
+10:24 - Formulário FrmRelHistoricoCaixa iniciado.
+10:26 - Erro: Não é possível encontrar a coluna 1. | Evento click do botão btnPesquisar.
+10:26 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:26 - Formulário FrmRelCaixas foi finalizado.
+10:26 - SISTEMA Seven - Admnistração foi finalizado.
+10:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:27 - Formulário FrmRelCaixas iniciado.
+10:27 - Formulário FrmRelHistoricoCaixa iniciado.
+10:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:28 - Formulário FrmRelCaixas foi finalizado.
+10:28 - SISTEMA Seven - Admnistração foi finalizado.
+10:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:29 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:29 - Formulário FrmRelCaixas iniciado.
+10:29 - Formulário FrmRelHistoricoCaixa iniciado.
+10:29 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:30 - Formulário FrmRelCaixas foi finalizado.
+10:30 - Formulário FrmRelRegistroAtividade iniciado.
+10:30 - Pesquisou registro de atividades.
+10:30 - Pesquisou registro de atividades.
+10:38 - Formulário FrmRelRegistroAtividade foi finalizado.
+10:38 - SISTEMA Seven - Admnistração foi finalizado.
+10:38 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:40 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:41 - Formulário FrmRelCaixas iniciado.
+10:41 - Formulário FrmRelHistoricoCaixa iniciado.
+10:48 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:59 - Formulário FrmRelHistoricoCaixa iniciado.
+10:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:59 - Formulário FrmRelHistoricoCaixa iniciado.
+10:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:59 - Formulário FrmRelFluxoCaixa iniciado.
+10:59 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:59 - Formulário FrmRelContaReceber iniciado.
+11:00 - Formulário FrmRelBaixaConta iniciado.
+11:00 - Formulário FrmRelBaixaConta foi finalizado.
+11:00 - Formulário FrmRelFluxoCaixa iniciado.
+11:00 - Formulário FrmRelFluxoCaixa foi finalizado.
+11:00 - Formulário FrmRelHistoricoCaixa iniciado.
+11:01 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:01 - Formulário FrmRelRegistroAtividade iniciado.
+11:01 - Pesquisou registro de atividades.
+11:01 - Pesquisou registro de atividades.
+11:04 - Formulário FrmRelRegistroAtividade foi finalizado.
+11:04 - Formulário FrmRelCaixas foi finalizado.
+11:04 - Formulário FrmRelContaReceber foi finalizado.
+11:04 - SISTEMA Seven - Admnistração foi finalizado.
+11:04 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:06 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:06 - Formulário FrmRelCaixas iniciado.
+11:06 - Formulário FrmRelHistoricoCaixa iniciado.
+11:15 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:15 - Formulário FrmRelCaixas foi finalizado.
+11:15 - SISTEMA Seven - Admnistração foi finalizado.
+11:16 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:20 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:20 - Formulário FrmRelCaixas iniciado.
+11:20 - Formulário FrmRelHistoricoCaixa iniciado.
+11:20 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:20 - Formulário FrmRelCaixas foi finalizado.
+11:21 - Formulário FrmRelContaReceber iniciado.
+11:21 - Formulário FrmRelBaixaConta iniciado.
+11:22 - Formulário FrmRelBaixaConta foi finalizado.
+11:23 - Formulário FrmRelContaReceber foi finalizado.
+11:23 - Formulário FrmRelHistoricoCaixa iniciado.
+11:23 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:23 - Formulário FrmRelCaixas iniciado.
+11:24 - Formulário FrmRelHistoricoCaixa iniciado.
+11:32 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:39 - Formulário FrmRelCaixas foi finalizado.
+11:39 - SISTEMA Seven - Admnistração foi finalizado.
+11:40 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:41 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:41 - Formulário FrmRelCaixas iniciado.
+11:41 - Formulário FrmRelHistoricoCaixa iniciado.
+11:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:41 - Formulário FrmRelHistoricoCaixa iniciado.
+11:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:41 - Formulário FrmRelCaixas foi finalizado.
+11:42 - Formulário FrmRelCaixas iniciado.
+11:42 - Formulário FrmRelCaixas foi finalizado.
+11:42 - Formulário FrmRelContaReceber iniciado.
+11:42 - Formulário FrmRelBaixaConta iniciado.
+11:42 - Formulário FrmRelBaixaConta foi finalizado.
+11:42 - Formulário FrmRelContaReceber foi finalizado.
+11:42 - Formulário FrmRelCaixas iniciado.
+11:43 - Formulário FrmRelHistoricoCaixa iniciado.
+11:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:44 - Formulário FrmRelHistoricoCaixa iniciado.
+11:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:45 - Formulário FrmRelCaixas foi finalizado.
+11:45 - Formulário FrmRelContaReceber iniciado.
+14:23 - Formulário FrmRelContaReceber foi finalizado.
+14:23 - SISTEMA Seven - Admnistração foi finalizado.
+14:24 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:28 - Formulário FrmRelCaixas iniciado.
+14:28 - Formulário FrmRelHistoricoCaixa iniciado.
+14:35 - SISTEMA Seven - PDV foi finalizado.
+14:35 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:35 - Formulário FrmRelCaixas foi finalizado.
+14:35 - SISTEMA Seven - Admnistração foi finalizado.
+14:36 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:36 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:36 - Formulário FrmRelCaixas iniciado.
+14:37 - Formulário FrmRelHistoricoCaixa iniciado.
+14:40 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:40 - Formulário FrmRelCaixas foi finalizado.
+14:40 - Formulário FrmRelContaReceber iniciado.
+14:41 - Formulário FrmRelCaixas iniciado.
+14:41 - Formulário FrmRelHistoricoCaixa iniciado.
+14:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:02 - Formulário FrmRelContaReceber foi finalizado.
+15:06 - Formulário FrmRelCaixas foi finalizado.
+15:06 - Formulário FrmRelSaidasProdutos iniciado.
+15:10 - Formulário FrmRelSaidasProdutos foi finalizado.
+15:10 - SISTEMA Seven - Admnistração foi finalizado.
+15:11 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:11 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:12 - Formulário FrmRelCaixas iniciado.
+15:12 - Formulário FrmRelCaixas foi finalizado.
+15:12 - Formulário FrmRelCliente iniciado.
+15:12 - Formulário FrmRelClieCons foi finalizado.
+15:12 - Formulário FrmRelContaReceber iniciado.
+15:12 - Erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index | Evento click do botão btnPesquisar.
+20:14 - Erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index | Evento click do botão btnPesquisar.
+20:17 - Erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index | Evento click do botão btnPesquisar.
+20:21 - Formulário FrmRelContaReceber foi finalizado.
+20:21 - SISTEMA Seven - Admnistração foi finalizado.
+20:22 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+20:22 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+20:22 - Formulário FrmRelContaReceber iniciado.
+21:53 - Formulário FrmRelContaReceber foi finalizado.
+21:53 - SISTEMA Seven - Admnistração foi finalizado.
+22:05 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:05 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:05 - Formulário FrmRelContaReceber iniciado.
+22:05 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ID_PDV_COMPUTADOR
+At line 1, column 569 | Evento click do botão btnPesquisar.
+22:08 - Formulário FrmRelContaReceber foi finalizado.
+22:09 - SISTEMA Seven - Admnistração foi finalizado.
+22:11 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:12 - Formulário FrmRelContaReceber iniciado.
+22:13 - Formulário FrmRelContaReceber foi finalizado.
+22:13 - Formulário FrmCadContasReceber iniciado.
+22:13 - Formulário FrmCadContasReceber foi finalizado.
+22:16 - SISTEMA Seven - Admnistração foi finalizado.
+22:17 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:17 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:17 - Formulário FrmRelContaReceber iniciado.
+22:17 - Formulário FrmRelContaReceber foi finalizado.
+22:17 - Formulário FrmCadContasReceber iniciado.
+22:19 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ID_PDV_COMPUTADOR
+At line 1, column 569 | Evento click do botão btnPesquisar.
+22:19 - Formulário FrmCadContasReceber foi finalizado.
+22:19 - SISTEMA Seven - Admnistração foi finalizado.
+22:19 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:19 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:20 - Formulário FrmCadContasReceber iniciado.
+22:20 - Formulário FrmCadContasReceber foi finalizado.
+22:20 - Formulário FrmRelContaReceber iniciado.
+22:21 - Formulário FrmRelContaReceber foi finalizado.
+22:21 - SISTEMA Seven - Admnistração foi finalizado.
+22:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:21 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:22 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+22:22 - Formulário FrmFecharCaixa iniciado.
+22:22 - Formulário FrmFecharCaixa foi finalizado.
+22:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:23 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:23 - Formulário FrmRelContaReceber iniciado.
+22:23 - Formulário FrmRelContaReceber foi finalizado.
+22:23 - Formulário FrmRelCaixas iniciado.
+22:23 - Formulário FrmRelHistoricoCaixa iniciado.
+22:23 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:23 - Formulário FrmRelCaixas foi finalizado.
+22:23 - SISTEMA Seven - Admnistração foi finalizado.
+22:23 - SISTEMA Seven - PDV foi finalizado.
+22:56 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:56 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:57 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:57 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:57 - Formulário FrmRelCaixas iniciado.
+22:57 - Formulário FrmRelHistoricoCaixa iniciado.
+22:57 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 30
+. | Evento click do botão btnPesquisar.
+22:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:58 - Formulário FrmRelHistoricoCaixa iniciado.
+22:59 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 30
+. | Evento click do botão btnPesquisar.
+22:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:59 - Formulário FrmRelCaixas foi finalizado.
+22:59 - SISTEMA Seven - Admnistração foi finalizado.
+22:59 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:59 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:08 - SISTEMA Seven - Admnistração foi finalizado.
+23:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:09 - Formulário FrmRelContaReceber iniciado.
+23:09 - Formulário FrmRelContaReceber foi finalizado.
+23:09 - Formulário FrmRelCaixas iniciado.
+23:09 - Formulário FrmRelHistoricoCaixa iniciado.
+23:09 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 30
+. | Evento click do botão btnPesquisar.
+23:09 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:09 - Formulário FrmRelHistoricoCaixa iniciado.
+23:09 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 30
+. | Evento click do botão btnPesquisar.
+23:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:10 - Formulário FrmRelCaixas foi finalizado.
+23:10 - SISTEMA Seven - Admnistração foi finalizado.
+23:10 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:10 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:10 - Formulário FrmRelCaixas iniciado.
+23:11 - Formulário FrmRelHistoricoCaixa iniciado.
+23:11 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 30
+. | Evento click do botão btnPesquisar.
+23:11 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:11 - Formulário FrmRelCaixas foi finalizado.
+23:11 - SISTEMA Seven - Admnistração foi finalizado.
+23:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:12 - Formulário FrmRelContaReceber iniciado.
+23:12 - Formulário FrmRelContaReceber foi finalizado.
+23:12 - Formulário FrmRelCaixas iniciado.
+23:12 - Formulário FrmRelHistoricoCaixa iniciado.
+23:12 - Erro: Dynamic SQL Error
+SQL error code = -104
+Invalid expression in the select list (not contained in either an aggregate function or the GROUP BY clause) | Evento click do botão btnPesquisar.
+23:12 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:13 - Formulário FrmRelHistoricoCaixa iniciado.
+23:13 - Erro: Dynamic SQL Error
+SQL error code = -104
+Invalid expression in the select list (not contained in either an aggregate function or the GROUP BY clause) | Evento click do botão btnPesquisar.
+23:13 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:13 - Formulário FrmRelCaixas foi finalizado.
+23:13 - SISTEMA Seven - Admnistração foi finalizado.
+23:14 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:14 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:14 - Formulário FrmRelCaixas iniciado.
+23:14 - Formulário FrmRelHistoricoCaixa iniciado.
+23:14 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:14 - Formulário FrmRelCaixas foi finalizado.
+23:14 - SISTEMA Seven - Admnistração foi finalizado.
+23:17 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:17 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:17 - Formulário FrmRelCaixas iniciado.
+23:17 - Formulário FrmRelHistoricoCaixa iniciado.
+23:19 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:19 - Formulário FrmRelCaixas foi finalizado.
+23:19 - SISTEMA Seven - Admnistração foi finalizado.
+23:19 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:19 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:20 - Formulário FrmRelCaixas iniciado.
+23:20 - Formulário FrmRelHistoricoCaixa iniciado.
+23:20 - Erro: Não é possível encontrar a coluna 2. | Evento click do botão btnPesquisar.
+23:20 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:20 - Formulário FrmRelCaixas foi finalizado.
+23:20 - SISTEMA Seven - Admnistração foi finalizado.
+23:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:23 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:23 - Formulário FrmRelCaixas iniciado.
+23:23 - Formulário FrmRelHistoricoCaixa iniciado.
+23:23 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:23 - Formulário FrmRelHistoricoCaixa iniciado.
+23:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:24 - Formulário FrmRelCaixas foi finalizado.
+23:24 - SISTEMA Seven - Admnistração foi finalizado.
+23:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:27 - Formulário FrmRelContaReceber iniciado.
+23:27 - Formulário FrmRelContaReceber foi finalizado.
+23:27 - Formulário FrmRelCaixas iniciado.
+23:27 - Formulário FrmRelHistoricoCaixa iniciado.
+23:30 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:30 - Formulário FrmRelCaixas foi finalizado.
+23:32 - SISTEMA Seven - Admnistração foi finalizado.
+23:33 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:33 - Formulário FrmInformar iniciado.
+23:33 - Formulário FrmInformar foi finalizado.
+23:33 - Formulário FrmInformar iniciado.
+23:33 - Formulário FrmInformar foi finalizado.
+23:33 - Formulário FrmInformar iniciado.
+23:33 - Formulário FrmInformar foi finalizado.
+23:33 - Formulário FrmPesqCliente iniciado.
+23:33 - Formulário FrmPesqCliente foi finalizado.
+23:34 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:34 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:34 - Formulário FrmRelCaixas iniciado.
+23:35 - Formulário FrmRelHistoricoCaixa iniciado.
+23:35 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:35 - Formulário FrmFecharCaixa iniciado.
+23:35 - Abert/Fech de Caixa cadastrada. Cod: 15 | Descrição: FECHAMENTO DE CAIXA
+23:35 - Formulário FrmRelHistoricoCaixa iniciado.
+23:35 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:35 - Formulário FrmFecharCaixa foi finalizado.
+23:35 - Formulário FrmAbrirCaixa iniciado.
+23:35 - Abert/Fech de Caixa cadastrada. Cod: 16 | Descrição: ABERTURA DE CAIXA
+23:35 - Formulário FrmAbrirCaixa foi finalizado.
+23:35 - Formulário FrmInformar iniciado.
+23:35 - Formulário FrmInformar foi finalizado.
+23:35 - Formulário FrmPesqCliente iniciado.
+23:36 - Pesquisou cliente.
+23:36 - Formulário FrmPesqCliente foi finalizado.
+23:36 - Formulário FrmFormaPagamento iniciado.
+23:36 - Formulário FrmFormaPagamento foi finalizado.
+23:36 - Formulário FrmRelCaixas foi finalizado.
+23:36 - Formulário FrmRelCaixas iniciado.
+23:36 - Formulário FrmRelHistoricoCaixa iniciado.
+23:36 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:36 - Formulário FrmRelCaixas foi finalizado.
+23:36 - SISTEMA Seven - Admnistração foi finalizado.
+23:42 - Formulário FrmInformar iniciado.
+23:42 - Formulário FrmInformar foi finalizado.
+23:42 - Formulário FrmPesqCliente iniciado.
+23:42 - Pesquisou cliente.
+23:43 - Formulário FrmPesqCliente foi finalizado.
+23:43 - Formulário FrmFormaPagamento iniciado.
+23:43 - Formulário FrmFormaPagamento foi finalizado.
+23:48 - SISTEMA Seven - PDV foi finalizado.
+23:49 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:50 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:50 - SISTEMA Seven - Admnistração foi finalizado.
+23:51 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:51 - Formulário FrmDevolucao iniciado.
+23:51 - Formulário FrmDevolucao foi finalizado.
+23:51 - Formulário FrmFecharCaixa iniciado.
+23:51 - Abert/Fech de Caixa cadastrada. Cod: 16 | Descrição: FECHAMENTO DE CAIXA
+23:51 - Formulário FrmFecharCaixa foi finalizado.
+23:51 - Formulário FrmAbrirCaixa iniciado.
+23:52 - Abert/Fech de Caixa cadastrada. Cod: 17 | Descrição: ABERTURA DE CAIXA
+23:52 - Formulário FrmAbrirCaixa foi finalizado.
+23:52 - Formulário FrmInformar iniciado.
+23:52 - Formulário FrmInformar foi finalizado.
+23:52 - Formulário FrmPesqCliente iniciado.
+23:52 - Pesquisou cliente.
+23:52 - Formulário FrmPesqCliente foi finalizado.
+23:52 - Formulário FrmFormaPagamento iniciado.
+23:52 - Formulário FrmFormaPagamento foi finalizado.
+23:53 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:53 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:53 - Formulário FrmRelCaixas iniciado.
+23:53 - Formulário FrmRelHistoricoCaixa iniciado.
+23:53 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:53 - Formulário FrmRelCaixas foi finalizado.
+23:53 - Formulário FrmRelContaReceber iniciado.
+23:54 - Formulário FrmRelBaixaConta iniciado.
+23:54 - Formulário FrmRelBaixaConta foi finalizado.
+23:54 - Formulário FrmRelCaixas iniciado.
+23:54 - Formulário FrmRelFluxoCaixa iniciado.
+23:54 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:54 - Formulário FrmRelHistoricoCaixa iniciado.
+23:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:54 - Formulário FrmRelCaixas foi finalizado.
+23:54 - Formulário FrmRelBaixaConta iniciado.

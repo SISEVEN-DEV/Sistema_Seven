@@ -1,0 +1,56 @@
+Juros são cobrados toda vez que você não paga alguma despesa no prazo ou pega um dinheiro emprestado de alguma instituição – e até de um amigo que tá precisando duma grana a mais. Mas, em cada caso, eles podem ser determinados de uma maneira diferente, já que existem dois tipos: os juros simples e os juros compostos. Pra você acompanhar quanto vai pesar no seu bolso esse dinheiro que você pegou (ou o que você deixou de pagar), saber como calcular juros é uma boa estratégia! E eu to aqui pra deixar isso bem fácil de entender!
+Vem ver como calcular juros simples e compostos e conhecer algumas calculadoras que fazem isso por você:
+
+Juros simples
+Calcular os juros simples é, digamos simples! Aquela taxa definida quando você pegou a grana emprestada é aplicada, todo mês, em cima do valor que você recebeu.
+Imagina só: Você pegou emprestado do seu amigo R$ 2000 e ele vai cobrar juros simples de 8% por mês. Pra saber quanto de juros você vai pagar em cada parcela mensal é só calcular:
+
+2000 x 0,08 = 160
+
+** 0,08 = 8%, ok?
+Agora, você já sabe que, em cada mês, além de devolver uma parte daqueles R$ 2000, também vai ter que pagar R$ 160 de juros.
+Quer saber quanto de juros você vai pagar no total, até zerar toda a dívida? Dá pra calcular isso também! É só pegar esse valor de juros mensal (R$ 160, nesse caso) e multiplicar pelo número de meses que você vai levar pra devolver toda a quantia que pegou.
+Supondo que você escolheu pagar em 5 vezes, olha só como fica:
+
+160 x 5 = 800
+
+Então, você vai pagar R$ 800 só de juros pra quitar todo o seu empréstimo.
+ 
+Leia também:
++ Precisa de juros menores? Conheça o Cadastro Positivo!
++ Como calcular os juros do cheque especial?
++ O empréstimo ideal para desafogar as suas finanças!
+ 
+
+Juros compostos
+Calcular juros compostos já não é tããããão simples assim. A conta é mais chatinha! Só que eles são cobrados na maioria dos serviços dos bancos, então vale a pena entender como funcionam.
+Nos juros compostos, a taxa é sempre calculada em cima do valor inicial (aquele que você pegou emprestado) mais o valor dos juros cobrados no mês anterior. Como no primeiro mês você ainda não gastou nada com juros, então a taxa é aplicada apenas em cima do valor inicial.  
+Pra ficar mais claro, pega o mesmo exemplo de cima e pensa assim ó:
+
+Primeiro mês:
+2 000 x 0,08 = 160 ? R$ 160 é o valor dos juros que você vai pagar no primeiro mês
+Segundo mês:
+2 000 + 160 (juros do primeiro mês) = 2 160 ? é nesse valor (R$ 2 160) que você vai aplicar a taxa de juros pra pagar o segundo mês. Então fica assim:
+2 160 x 0,08 = 172,80 ? R$ 172,80 é o valor dos juros que você vai pagar no segundo mês
+Terceiro mês:
+2 000 + 172,80 (juros do segundo mês) = 2 172,80 ? é nesse valor que você vai aplicar a taxa de juros pra pagar o terceiro mês. Aí fica assim:
+2 172,80 x 0,08 = 173,82 ? R$ 173,82 é o valor dos juros que você vai pagar no terceiro mês
+E assim por diante! Sempre somando o valor inicial com os juros do mês anterior.
+
+Pra quem é de exatas e gosta de uma fórmula, pra calcular quanto você vai pagar no final do prazo, somando o valor inicial com os juros compostos, é só usar essa aqui:
+
+ 
+
+A conta que ninguém te conta!
+Cheque especial não é saldo na conta! Os bancos costumam colocar ele em saldo total, junto com a quantia que você, de fato, tem. Mas a verdade é que ele é tipo um empréstimo (bem ruim, por sinal!) e tem juros compostos altíssimos! Só pra você ter uma ideia, ele chega a cobrar mais de 300% de juros por ano, enquanto um empréstimo pessoal pode cobrar um terço disso aí.
+Concluindo: de especial mesmo ele não tem nada! Pode fugir!
+
+ 
+
+Ai, mó preguiça calcular tudo isso. Não tem nenhum site que faz isso por mim?
+TEEEM!! Existem vários sites na internet em que você pode simular o cálculo dos juros simples e compostos. Aqui eu listei alguns deles:
+Cálculo Exato: nele, você preenche os campos com valor inicial, datas de começo e fim de pagamento, taxa e tipo de juros. Aí, bem rapidinho, o site já te mostra quanto você vai ter pagado ao todo no final do prazo.
+FazAConta: esse aqui é bem parecido com o outro, mas um pouco mais completo. Além de calcular instantaneamente o valor que você vai pagar, ele também dá algumas explicações sobre os juros e as fórmulas. Ah! Não esquece que período é a quantidade de meses, tá?
+Calculadora do Cidadão: essa é uma calculadora do próprio Banco Central, mas ela só deixa calcular o valor de juros compostos e, ainda, quando as parcelas têm o mesmo valor. Apesar de oferecer algumas explicações também, ela costuma ser um pouco mais confusa que as outras.
+ 
+Calcular juros simples e compostos nem é tão monstruoso quanto parece, né? O que você achou? Divide com a gente aqui nos comentários! 🙂

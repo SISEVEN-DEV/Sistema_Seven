@@ -1,0 +1,16 @@
+ID_ORDEM		SMALINT PK
+CELULAR		 	VARCHAR(15) NOT NULL
+TIPO_DESTINATARIO	VARCHAR(12) NOT NULL
+ID_DESTINATARIO		SMALLINT NOT NULL
+NOME_DESTINATARIO	VARCHAR(60) NOT NULL
+
+
+create table sms_celular_temp (
+    id_ordem           smallint not null,
+    celular            varchar(15) not null,
+    tipo_destinatario  varchar(12) not null,
+    id_destinatario    integer not null,
+    nome_destinatario  varchar(60) not null
+);
+
+alter table sms_celular_temp add constraint pk_sms_celular_temp primary key (id_ordem);	

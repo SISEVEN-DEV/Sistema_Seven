@@ -1,0 +1,45 @@
+ID_ITEM_ORCAMENTO   INTEGER           NOT NULL PK AI
+ID_ITEM	            SMALLINT          NOT NULL
+ID_PRODUTO          INTEGER           NOT NULL FK TABELA PRODUTO
+DESCRICAO           VARCHAR(60)       NOT NULL
+VALOR_UNITARIO      DECIMAL(15,2)     NOT NULL
+VALOR_TOTAL         DECIMAL(15,2)     NOT NULL
+QUANTIDADE          DECIMAL(15,2)     NOT NULL
+UM	            CHAR(2)           NOT NULL
+VALOR_DESCONTO      DECIMAL(15,2)     NOT NULL
+VALOR_UNITARIO      DECIMAL(15,2)     NOT NULL
+DESCONTO_PORC	    DECIMAL(15,2)     NOT NULL
+ACRESCIMO_PORC      DECIMAL(15,2)     NOT NULL
+ID_ORCAMENTO        INTEGER           NOT NULL FK TABELA ORCAMENTO
+
+
+
+//ddl
+
+create table item_orcamento (
+    id_item_orcamento  integer not null,
+    id_item            smallint not null,       
+    id_produto         integer not null,
+    descricao          varchar(60) not null,
+    valor_unitario     decimal(15,2) not null,
+    valor_total        decimal(15,2) not null,
+    quantidade         decimal(15,2) not null,
+    um                 char(2) not null,
+    valor_desconto     decimal(15,2) not null,
+    valor_acrescimo    decimal(15,2) not null,
+    acrescimo_porc     decimal(15,2) not null,
+    desconto_porc      decimal(15,2) not null,
+    id_orcamento       integer not null
+);
+
+alter table item_orcamento add constraint pk_item_orcamento primary key (id_item_orcamento);
+
+AI
+
+create trigger item_orcamento_bi for item_orcamento
+active before insert position 0
+as
+begin
+  if (new.id_item_orcamento is null) then
+    new.id_item_orcamento = gen_id(gen_item_orcamento_id,1);
+end

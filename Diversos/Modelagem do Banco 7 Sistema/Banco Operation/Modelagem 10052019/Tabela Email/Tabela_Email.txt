@@ -1,0 +1,13 @@
+id_email_configuracoes char(1) not null primary key
+smtp_hotmail_outlook varchar(25)
+porta_hotmail_outlook integer
+smtp_gmail varchar(25)
+porta_gmail integer
+smtp_yahoo varchar(25)
+prioridade varchar(5)
+ssl char(1)
+ativo_hotmail_outlook char(1)
+ativo_gmail char(1)
+ativo_yahoo char(1)
+porta_yahoo integer
+html char(1)

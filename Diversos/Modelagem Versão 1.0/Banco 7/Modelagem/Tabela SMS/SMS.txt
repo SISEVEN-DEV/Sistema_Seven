@@ -1,0 +1,47 @@
+ID_SMS			INTEGER NOT NULL PK AI
+MENSAGEM		VARCHAR(160) NOT NULL
+DATA_CADASTRO		DATE
+HORA_CADASTRO		TIME
+
+create generator gen_sms_id;
+
+create table sms (
+    id_sms         integer not null,
+    mensagem       varchar(160) not null,
+    data_cadastro  date not null,
+    hora_cadastro  time not null
+);
+
+
+
+
+/******************************************************************************/
+/****                             Primary Keys                             ****/
+/******************************************************************************/
+
+alter table sms add constraint pk_sms primary key (id_sms);
+
+
+/******************************************************************************/
+/****                               Triggers                               ****/
+/******************************************************************************/
+
+
+set term ^ ;
+
+
+/******************************************************************************/
+/****                         Triggers for tables                          ****/
+/******************************************************************************/
+
+
+
+/* Trigger: SMS_BI */
+create trigger sms_bi for sms
+active before insert position 0
+as
+begin
+  if (new.id_sms is null) then
+    new.id_sms = gen_id(gen_sms_id,1);
+end
+^

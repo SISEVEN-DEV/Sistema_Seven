@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D8377F7-88B3-402C-8D40-A91B95B88A46}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL</RootNamespace>
+    <AssemblyName>DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=2.5.2.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\FirebirdClient\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Documento.cs" />
+    <Compile Include="CFOP.cs" />
+    <Compile Include="Comissao.cs" />
+    <Compile Include="ControleCheque.cs" />
+    <Compile Include="Dado_PDV_Atual.cs" />
+    <Compile Include="ClieCons.cs" />
+    <Compile Include="ConexaoStatus.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="ConfiguracaoSistema.cs" />
+    <Compile Include="Devolucao.cs" />
+    <Compile Include="DFE.cs" />
+    <Compile Include="DFE_Temp.cs" />
+    <Compile Include="EntidadeBancaria.cs" />
+    <Compile Include="Inventario.cs" />
+    <Compile Include="Item_DFe.cs" />
+    <Compile Include="Item_DFe_Pgto_Temp.cs" />
+    <Compile Include="Item_NFSe.cs" />
+    <Compile Include="Item_OS_Funcionario.cs" />
+    <Compile Include="Item_OS_Funcionario_Temp.cs" />
+    <Compile Include="Item_Parcelamento_DFe.cs" />
+    <Compile Include="Item_Ped_Anota_Ai.cs" />
+    <Compile Include="LayoutPDV.cs" />
+    <Compile Include="NFSE.cs" />
+    <Compile Include="Pagamento_OS.cs" />
+    <Compile Include="Item_OS_Pgto_Temp.cs" />
+    <Compile Include="Item_OS_Produto.cs" />
+    <Compile Include="Item_OS_Produto_Temp.cs" />
+    <Compile Include="Item_Servico.cs" />
+    <Compile Include="Item_Servico_Temp.cs" />
+    <Compile Include="OS.cs" />
+    <Compile Include="Pagamento_DFe.cs" />
+    <Compile Include="Item_DFe_Temp.cs" />
+    <Compile Include="Item_Inventario.cs" />
+    <Compile Include="MultiplosCodigoBarra_Temp.cs" />
+    <Compile Include="EnviarEmail.cs" />
+    <Compile Include="Con7BD.cs" />
+    <Compile Include="MultiplosCodigoBarra.cs" />
+    <Compile Include="Abertura_Fechamento_Caixa.cs" />
+    <Compile Include="ConOperationBD.cs" />
+    <Compile Include="ContasPagar.cs" />
+    <Compile Include="ContasReceber.cs" />
+    <Compile Include="Contato.cs" />
+    <Compile Include="EntradaProduto.cs" />
+    <Compile Include="FluxoCaixa.cs" />
+    <Compile Include="FormaPagamento.cs" />
+    <Compile Include="Fornecedor.cs" />
+    <Compile Include="Item_Conta_Receber_Pgto_Temp.cs" />
+    <Compile Include="Item_Devolucao.cs" />
+    <Compile Include="Item_Devolucao_Temp.cs" />
+    <Compile Include="Item_Dev_Prod.cs" />
+    <Compile Include="Item_Dev_Prod_Temp.cs" />
+    <Compile Include="Item_Orc_Temp.cs" />
+    <Compile Include="Item_PDV.cs" />
+    <Compile Include="Localizacao.cs" />
+    <Compile Include="Pagamento_Conta_Receber.cs" />
+    <Compile Include="Pagamento_Devolucao.cs" />
+    <Compile Include="IBPT.cs" />
+    <Compile Include="Pagamento_Ped_Anota_Ai.cs" />
+    <Compile Include="Pagamento_Venda.cs" />
+    <Compile Include="Ped_Anota_Ai.cs" />
+    <Compile Include="Precificacao.cs" />
+    <Compile Include="PSP.cs" />
+    <Compile Include="ReferenciaDFe.cs" />
+    <Compile Include="ReferenciaDFe_Temp.cs" />
+    <Compile Include="RegistroAtividades.cs" />
+    <Compile Include="Grupo.cs" />
+    <Compile Include="Item_PDV_Temp.cs" />
+    <Compile Include="Item_Orc.cs" />
+    <Compile Include="Lembrete.cs" />
+    <Compile Include="Letreiro.cs" />
+    <Compile Include="Marca.cs" />
+    <Compile Include="Item_Abertura_Fechamento_Caixa.cs" />
+    <Compile Include="Orcamento.cs" />
+    <Compile Include="Pagamento.cs" />
+    <Compile Include="Item_Conta_Pagar_Pgto_Temp.cs" />
+    <Compile Include="Produto.cs" />
+    <Compile Include="Pagamento_Conta_Pagar.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="MinhaEmpresa.cs" />
+    <Compile Include="Funcionario.cs" />
+    <Compile Include="Licenca.cs" />
+    <Compile Include="RespostaUploadDFe.cs" />
+    <Compile Include="Sangria_Suprimento.cs" />
+    <Compile Include="Servico.cs" />
+    <Compile Include="SMS.cs" />
+    <Compile Include="SMS_Celular.cs" />
+    <Compile Include="SubGrupo.cs" />
+    <Compile Include="CadastroComputadores.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transportador.cs" />
+    <Compile Include="Transportador_Temp.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="Validade.cs" />
+    <Compile Include="Venda.cs" />
+    <Compile Include="Versao.cs" />
+    <Compile Include="Whatsapp.cs" />
+    <Compile Include="XML.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

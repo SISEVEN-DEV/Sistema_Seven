@@ -1,0 +1,20 @@
+Sistema SEVEN - Instalador
+*
+*
+#####    ####     #####   #######  ##   ##  #######  ##   ##
+ ##   ##    ##     ##   ##   ##   #  ##   ##   ##   #  ###  ##
+ #          ##     #         ## #     ## ##    ## #    #### ##
+  #####     ##      #####    ####     ## ##    ####    ## ####
+      ##    ##          ##   ## #      ###     ## #    ##  ###
+ ##   ##    ##     ##   ##   ##   #    ###     ##   #  ##   ##
+  #####    ####     #####   #######     #     #######  ##   ##
+*
+*
+Basta executar o arquivo Instalador.exe para instalar o software, se preferir pode fazer manualmente porém não é recomendado.
+*
+*
+qualquer problema na instalação favor entrar em contato.
+*
+E-mail: 7sistema.suporte@gmail.com
+Instagram: https://www.instagram.com/siseven_dev/
+Tel\Whatsapp: (75) 98271-6595

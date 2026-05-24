@@ -1,0 +1,4 @@
+Previsao de compra
+
+
+com base no estoque min e estoque máx gerar uma previsão.

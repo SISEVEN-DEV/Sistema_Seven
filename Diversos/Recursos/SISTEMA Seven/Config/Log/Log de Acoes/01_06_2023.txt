@@ -1,0 +1,472 @@
+08:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:38 - Formulário FrmRelCaixas iniciado.
+08:38 - Formulário FrmRelCaixas foi finalizado.
+08:38 - Formulário FrmRelMarca iniciado.
+08:38 - Pesquisou marca.
+08:38 - Pesquisou marca.
+08:38 - Pesquisou marca.
+08:38 - Formulário FrmInfImpressao iniciado.
+08:38 - Formulário FrmInfImpressao foi finalizado.
+08:38 - Erro: System.ArgumentException: A coluna 'fax' não pertence à tabela .
+   em System.Data.DataRow.GetDataColumn(String columnName)
+   em System.Data.DataRow.get_Item(String columnName)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1077
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+08:44 - Formulário FrmRelMarca foi finalizado.
+08:44 - SISTEMA Seven - Admnistração foi finalizado.
+08:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:45 - Formulário FrmRelMarca iniciado.
+08:45 - Pesquisou marca.
+08:45 - Formulário FrmInfImpressao iniciado.
+08:45 - Formulário FrmInfImpressao foi finalizado.
+08:47 - Pesquisou marca.
+08:47 - Pesquisou marca.
+08:53 - Formulário FrmRelMarca foi finalizado.
+08:53 - SISTEMA Seven - Admnistração foi finalizado.
+08:53 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:53 - Formulário FrmRelMarca iniciado.
+08:57 - Formulário FrmRelMarca foi finalizado.
+08:57 - Formulário FrmRelMarca iniciado.
+08:57 - Pesquisou marca.
+09:10 - Formulário FrmRelMarca foi finalizado.
+09:10 - SISTEMA Seven - Admnistração foi finalizado.
+09:10 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:10 - Formulário FrmRelMarca iniciado.
+09:10 - Pesquisou marca.
+09:25 - Formulário FrmRelMarca foi finalizado.
+09:25 - SISTEMA Seven - Admnistração foi finalizado.
+09:33 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:33 - Formulário FrmRelMarca iniciado.
+09:33 - Pesquisou marca.
+09:33 - Formulário FrmInfImpressao iniciado.
+09:33 - Formulário FrmInfImpressao foi finalizado.
+09:34 - Formulário FrmInfImpressao iniciado.
+09:34 - Formulário FrmInfImpressao foi finalizado.
+09:36 - Formulário FrmInfImpressao iniciado.
+09:36 - Formulário FrmInfImpressao foi finalizado.
+09:36 - Erro: System.IO.FileNotFoundException: The file 'C:\7 Sistema\Documentos\86106981574\Logo Marca\7Sistema-ADM-Icone.png' does not exist.
+   em PdfSharp.Drawing.XImage..ctor(String path)
+   em PdfSharp.Drawing.XImage.FromFile(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1056
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+09:36 - Formulário FrmRelMarca foi finalizado.
+09:36 - Formulário FrmConfiguracoes iniciado.
+09:37 - Formulário FrmImagemOpcoes iniciado.
+09:37 - Formulário FrmImagemOpcoes foi finalizado.
+09:55 - SISTEMA Seven - Admnistração foi finalizado.
+09:56 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:56 - Formulário FrmMinhaEmpresa iniciado.
+09:56 - Formulário FrmImagemOpcoes iniciado.
+09:56 - Formulário FrmImagemOpcoes foi finalizado.
+09:56 - Minha Empresa alterada. Cod: 1 | Nome/Razão Social: ALEXANDRE FERNANDES DA COSTA SANCHES
+09:56 - Formulário FrmMinhaEmpresa foi finalizado.
+09:56 - Formulário FrmRelMarca iniciado.
+09:56 - Pesquisou marca.
+09:56 - Formulário FrmInfImpressao iniciado.
+09:56 - Formulário FrmInfImpressao foi finalizado.
+09:57 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1223
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+09:57 - Pesquisou marca.
+09:57 - Pesquisou marca.
+09:57 - Formulário FrmInfImpressao iniciado.
+09:57 - Formulário FrmInfImpressao foi finalizado.
+09:59 - Formulário FrmRelMarca foi finalizado.
+09:59 - SISTEMA Seven - Admnistração foi finalizado.
+09:59 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:59 - Formulário FrmRelGrupo iniciado.
+09:59 - Formulário FrmInfImpressao iniciado.
+09:59 - Formulário FrmInfImpressao foi finalizado.
+09:59 - Formulário FrmInfImpressao iniciado.
+09:59 - Formulário FrmInfImpressao foi finalizado.
+09:59 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Grupos\Grupos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelGrupo.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelGrupo.cs:linha 975
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+09:59 - Formulário FrmRelGrupo foi finalizado.
+09:59 - SISTEMA Seven - Admnistração foi finalizado.
+10:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:06 - Formulário FrmRelGrupo iniciado.
+10:06 - Formulário FrmRelGrupo foi finalizado.
+10:06 - Formulário FrmRelMarca iniciado.
+10:07 - Pesquisou marca.
+10:12 - Formulário FrmRelMarca foi finalizado.
+10:12 - SISTEMA Seven - Admnistração foi finalizado.
+10:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:12 - Formulário FrmRelMarca iniciado.
+10:12 - Pesquisou marca.
+10:12 - Formulário FrmInfImpressao iniciado.
+10:12 - Formulário FrmInfImpressao foi finalizado.
+10:13 - Formulário FrmInfImpressao iniciado.
+10:13 - Formulário FrmInfImpressao foi finalizado.
+10:13 - Formulário FrmInfImpressao iniciado.
+10:13 - Formulário FrmInfImpressao foi finalizado.
+10:13 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1510
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:13 - Pesquisou marca.
+10:13 - Pesquisou marca.
+10:13 - Pesquisou marca.
+10:13 - Pesquisou marca.
+10:14 - Formulário FrmRelMarca foi finalizado.
+10:14 - SISTEMA Seven - Admnistração foi finalizado.
+10:14 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:14 - Formulário FrmRelMarca iniciado.
+10:14 - Pesquisou marca.
+10:14 - Formulário FrmInfImpressao iniciado.
+10:14 - Formulário FrmInfImpressao foi finalizado.
+10:14 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1510
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:15 - Formulário FrmInfImpressao iniciado.
+10:15 - Formulário FrmInfImpressao foi finalizado.
+10:15 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1510
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:31 - Formulário FrmRelMarca foi finalizado.
+10:31 - SISTEMA Seven - Admnistração foi finalizado.
+10:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:32 - Formulário FrmRelCaixas iniciado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Abertura Fechamento Caixa\Abertura Fechamento Caixa.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelAbertFechCaixa.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelAbertFechCaixa.cs:linha 1881
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:32 - Formulário FrmRelCaixas foi finalizado.
+10:32 - Formulário FrmRelCliente iniciado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Clientes\Clientes.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelClieCons.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelClieCons.cs:linha 2239
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:32 - Formulário FrmRelContaPagar iniciado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Formulário FrmInfImpressao iniciado.
+10:32 - Formulário FrmInfImpressao foi finalizado.
+10:32 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Contas a Pagar\Contas a Pagar.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelContaPagar.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelContaPagar.cs:linha 3113
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:33 - Formulário FrmRelContaReceber iniciado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Contas a Pagar\Contas a Pagar.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelContaPagar.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelContaPagar.cs:linha 3113
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:33 - Formulário FrmRelContaPagar foi finalizado.
+10:33 - Formulário FrmRelContaReceber foi finalizado.
+10:33 - Formulário FrmRelClieCons foi finalizado.
+10:33 - Formulário FrmRelProduto iniciado.
+10:33 - Pesquisou produto.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Produtos\Produtos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelProduto.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelProduto.cs:linha 2596
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:33 - Formulário FrmRelProduto foi finalizado.
+10:33 - Formulário FrmRelOrcamento iniciado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Orcamentos\Orcamentos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelOrcamento.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelOrcamento.cs:linha 2357
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:33 - Formulário FrmRelOrcamento foi finalizado.
+10:33 - Formulário FrmRelVenda iniciado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Vendas\Vendas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 1905
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:34 - Formulário FrmRelVenda foi finalizado.
+10:34 - Formulário FrmRelDevolucao iniciado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Devolucao Troca\DevolucaoTroca.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelDevolucao.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelDevolucao.cs:linha 1731
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:34 - Formulário FrmRelDevolucao foi finalizado.
+10:34 - Formulário FrmRelGrupo iniciado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:34 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Grupos\Grupos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelGrupo.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelGrupo.cs:linha 975
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:34 - Formulário FrmRelGrupo foi finalizado.
+10:34 - Formulário FrmRelFuncionario iniciado.
+10:35 - Pesquisou funcionário.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Funcionarios\Funcionarios.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelFuncionario.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelFuncionario.cs:linha 1801
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:35 - Formulário FrmRelFormaPagamento iniciado.
+10:35 - Pesquisou forma de pagamento.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Forma de Pagamento\FormaPagamento.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelFormaPagamento.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelFormaPagamento.cs:linha 875
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:35 - Formulário FrmRelFornecedor iniciado.
+10:35 - Pesquisou fornecedor.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Fornecedores\Fornecedores.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelFornecedor.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelFornecedor.cs:linha 1981
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:35 - Formulário FrmRelFornecedor foi finalizado.
+10:35 - Formulário FrmRelFormaPagamento foi finalizado.
+10:35 - Formulário FrmRelFuncionario foi finalizado.
+10:35 - Formulário FrmRelSubGrupo iniciado.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Formulário FrmInfImpressao iniciado.
+10:35 - Formulário FrmInfImpressao foi finalizado.
+10:35 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Subgrupos\Subgrupos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelSubGrupo.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelSubGrupo.cs:linha 1180
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmRelMarca iniciado.
+10:36 - Pesquisou marca.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1199
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmRelMarca foi finalizado.
+10:36 - Formulário FrmRelSubGrupo foi finalizado.
+10:36 - Formulário FrmRelMarca iniciado.
+10:36 - Pesquisou marca.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1199
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1199
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Marcas\Marcas.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelMarca.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelMarca.cs:linha 1199
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmRelMarca foi finalizado.
+10:36 - Formulário FrmRelLocalizacao iniciado.
+10:36 - Formulário FrmRelLocalizacao iniciado.
+10:36 - Pesquisou localizacao.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Formulário FrmInfImpressao iniciado.
+10:36 - Formulário FrmInfImpressao foi finalizado.
+10:36 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Localizacao\Localizacao.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelLocalizacao.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelLocalizacao.cs:linha 1008
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:36 - Formulário FrmRelLocalizacao foi finalizado.
+10:36 - Formulário FrmRelHistoricoCaixa iniciado.
+10:36 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:36 - Formulário FrmRelFluxoCaixa iniciado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Fluxo de Caixa\Fluxo de Caixa.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelFluxoCaixa.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelFluxoCaixa.cs:linha 1528
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:37 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:37 - Formulário FrmRelHistoricoCaixa iniciado.
+10:37 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:37 - Formulário FrmRelSaidasProdutos iniciado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Saidas de Produtos\Saidas de Produtos.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelSaidasProdutos.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelSaidasProdutos.cs:linha 2056
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:37 - Formulário FrmRelSaidasProdutos foi finalizado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Formulário FrmInfImpressao iniciado.
+10:37 - Formulário FrmInfImpressao foi finalizado.
+10:37 - Formulário FrmRelSangriaSuprimento iniciado.
+10:38 - Formulário FrmInfImpressao iniciado.
+10:38 - Formulário FrmInfImpressao foi finalizado.
+10:38 - Formulário FrmInfImpressao iniciado.
+10:38 - Formulário FrmInfImpressao foi finalizado.
+10:38 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\SangriaSuprimento\SangriaSuprimento.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelSangriaSuprimento.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelSangriaSuprimento.cs:linha 1640
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:38 - Formulário FrmRelSangriaSupirmento foi finalizado.
+10:38 - Formulário FrmRelUsuario iniciado.
+10:38 - Pesquisou usuário.
+10:38 - Formulário FrmInfImpressao iniciado.
+10:38 - Formulário FrmInfImpressao foi finalizado.
+10:38 - Formulário FrmInfImpressao iniciado.
+10:38 - Formulário FrmInfImpressao foi finalizado.
+10:38 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Usuarios\Usuarios.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelUsuario.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelUsuario.cs:linha 878
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:38 - Formulário FrmRelUsuario foi finalizado.
+10:46 - SISTEMA Seven - Admnistração foi finalizado.

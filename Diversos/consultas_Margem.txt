@@ -1,0 +1,39 @@
+1=> SELECT (SELECT SUM(pedliq) FROM pedval WHERE pedval.peddata=CURRENT_DATE) AS valor, sum(produtos.custmprod) as custo_cmv, sum(pedsai.pedtotliq)-(sum(pedsai.pedqtd)*(produtos.custmprod)) as LUCRO from pedval, pedsai, produtos WHERE pedval.peddata=CURRENT_DATE and pedsai.pedord=pedval.pedord and produtos.codprod=pedsai.codprod group by produtos.custmprod;
+//
+2=> SELECT (SUM(pedliq)/COUNT(*)) as media FROM pedval WHERE peddata='<data>';
+//
+3=> SELECT CAST(COUNT(pedsai.pedord) as FLOAT)/CAST((SELECT COUNT(pedval.pedord) FROM pedval WHERE pedval.pedsitnfce='Transmitida' AND pedval.peddata='<data>') AS FLOAT) FROM pedsai, pedval WHERE pedsai.pedord=pedval.pedord AND pedval.pedsitnfce='Transmitida' AND pedval.peddata='<data>';
+//
+4=> SELECT COUNT(pedord) as Quantidade FROM pedval WHERE pedsitnfce='Transmitida' AND peddata='2020.03.18';
+//
+5=> SELECT COUNT(pedord) as Quantidade FROM pedval WHERE pedsitnfce='Cancelada' AND peddata='2020.03.18';
+//
+6=> SELECT COUNT(pedsai.pedord) AS QUANTIDADE_ITENS, (SELECT CAST((SUM(pedliq)/COUNT(*)) as float) as VALOR_MEDIO_CUPOM FROM pedval WHERE pedval.pedsitnfce='Transmitida' AND pedval.peddata='2020.03.18'), CAST(COUNT(pedsai.pedord) as FLOAT)/CAST((SELECT COUNT(pedval.pedord) FROM pedval WHERE pedval.pedsitnfce='Transmitida' AND pedval.peddata='2020.03.18') AS FLOAT) AS MEDIA_ITENS_VENDIDOS, (SELECT COUNT(pedval.pedliq) AS QUANTIDAE_CUPOM FROM pedval WHERE pedsitnfce='Transmitida' AND AND peddata='2020.03.18'), (SELECT CAST(SUM(pedval.pedliq) AS FLOAT) AS TOTAL_VENDIDO FROM pedval WHERE pedsitnfce='Transmitida' AND peddata='2020.03.18') FROM pedsai, pedval WHERE pedsai.pedord=pedval.pedord AND pedsitnfce='Transmitida' AND peddata='2020.03.18';
+//
+7=> select produtos.barraprod as EAN, produtos.descprod as DESCRICAO, produtos.prec1prod as VALOR_UNITARIO, sum(pedsai.pedqtd) as QUANTIDADE,
+       sum(pedsai.pedtotliq) as TOTAL, produtos.custmprod as CUSTO, sum(pedsai.pedtotliq)-
+       (sum(pedsai.pedqtd)*(produtos.custmprod)) as LUCRO from pedsai,pedval,produtos
+where pedsai.pedord=pedval.pedord and pedSai.codprod=produtos.codprod and pedval.peddata=CURRENT_DATE and pedval.pedsit='A' and pedsai.pedsit='N'
+group by produtos.barraprod, produtos.descprod, produtos.prec1prod, produtos.custmprod Order by sum(pedsai.pedtotliq) desc rows 100
+//
+8=> select produtos.barraprod as EAN, produtos.descprod as DESCRICAO, produtos.prec1prod as VALOR_UNITARIO, sum(pedsai.pedqtd) as QUANTIDADE,
+       sum(pedsai.pedtotliq) as TOTAL, produtos.custmprod as CUSTO, sum(pedsai.pedtotliq)-
+       (sum(pedsai.pedqtd)*(produtos.custmprod)) as LUCRO from pedsai,pedval,produtos
+where pedsai.pedord=pedval.pedord and pedSai.codprod=produtos.codprod and pedval.peddata=CURRENT_DATE and pedval.pedsit='A' and pedsai.pedsit='N'
+group by produtos.barraprod, produtos.descprod, produtos.prec1prod, produtos.custmprod Order by sum(pedsai.pedtotliq) desc rows 5000
+//
+9=> SELECT f_pagto.codigo AS codigo, pgto.pgtoforma AS descricao, COUNT(pgto.pgtoforma) AS quantidade, SUM(pgto.pgtoval) AS total from pedval, f_pagto, pgto, a_vista WHERE pedval.peddata=current_date and a_vista.pedord=pedval.pedord and pgto.pgtoord=a_vista.pgtoord and f_pagto.f_pagto=pgto.pgtoforma group by f_pagto.codigo, pgto.pgtoforma;
+//
+10=> SELECT pedval.npdv as pdv, pedval.peddata as data, pedval.pedhoranfce as hora, funcionario.usuariofunc as operador, pedval.pedliq as valor, pedval.pednumcupom as cupom FROM pedval, funcionario WHERE funcionario.codfunc=pedval.pedatend AND pedval.peddata=CURRENT_DATE AND pedval.pedsitnfce='Cancelada';
+//
+11=> SELECT pedval.peddata as DATA, pedval.pedhoranfce AS HORA, funcionario.usuariofunc AS OPERADOR, funcionario.nomefunc AS SUPERVISOR, pedsai.peddesc AS VALOR, pedval.pednumcupom AS CUPOM, pedsai.peditens AS ITEM, produtos.barraprod AS EAN, produtos.descprod AS DESCRICAO FROM pedval, funcionario, produtos, pedsai WHERE
+pedsai.peddesc > 0 AND funcionario.codfunc=pedval.pedatend AND pedval.peddata='2020.06.04' AND pedsai.pedord=pedval.pedord AND
+produtos.codprod=pedsai.codprod GROUP BY pedval.peddata, funcionario.usuariofunc, pedval.pedhoranfce, funcionario.nomefunc, pedsai.peddesc, pedval.pednumcupom, pedsai.peditens, produtos.barraprod, produtos.descprod;
+//
+12=> SELECT grupo.codgrupo AS codigo, grupo.descgrupo AS descricao, SUM(pedsai.pedqtd) as quantidade, SUM(pedsai.pedtotliq) AS valor, SUM(produtos.custmprod) as CUSTO, sum(pedsai.pedtotliq)-(sum(pedsai.pedqtd)*(produtos.custmprod)) as LUCRO FROM grupo, pedsai, pedval, produtos WHERE pedsai.pedord=pedval.pedord AND produtos.codprod=pedsai.codprod AND grupo.codgrupo=produtos.codgrupo AND pedval.peddata BETWEEN '2020.06.14' AND '2021.07.30' group by grupo.codgrupo, grupo.descgrupo, produtos.custmprod;
+//
+13=> SELECT COUNT(pedval.pedord) as qtd_cupons, funcionario.usuariofunc AS operador, SUM(pedval.pedliq) as valor FROM pedval, funcionario WHERE funcionario.codfunc=pedval.pedatend AND pedval.peddata=current_date AND pedval.pedsitnfce='Transmitida' GROUP BY funcionario.usuariofunc order by qtd_cupons;
+//
+14=> SELECT pedval.peddata as DATA, funcionario.usuariofunc as VENDEDOR, SUM(pedval.pedliq) as TOTAL, COUNT(pedval.pedord) as CUPONS, COUNT(pedsai.pedord) as ITEM, COUNT(pedval.pedord)/COUNT(pedsai.pedord) AS MEDIA_ITENS, SUM(pedval.pedliq)/COUNT(pedval.pedord) AS MEDIA_VALOR FROM pedval, funcionario, pedsai WHERE funcionario.codfunc=pedval.pedatend AND pedval.peddata='2020.06.04' AND pedsai.pedord=pedval.pedord AND pedval.pedsitnfce='Transmitida' GROUP BY pedval.peddata, funcionario.usuariofunc;
+//
+15=> SELECT pedval.peddata as data, funcionario.usuariofunc as operador, f_pagto.codigo AS cod_pagto, pgto.pgtoforma AS descricao, COUNT(pgto.pgtoforma) AS QTD, SUM(pgto.pgtoval) AS VALOR FROM pedval, f_pagto, pgto, a_vista, funcionario WHERE funcionario.codfunc=pedval.pedatend AND pedval.peddata=CURRENT_DATE AND a_vista.pedord=pedval.pedord AND pgto.pgtoord=a_vista.pgtoord and f_pagto.f_pagto=pgto.pgtoforma group by pedval.peddata, funcionario.usuariofunc, f_pagto.codigo, pgto.pgtoforma;

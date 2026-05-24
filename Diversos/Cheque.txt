@@ -1,0 +1,11 @@
+Tipos de cheques
+A forma de preenchimento do cheque determina algumas regras sobre seu pagamento.
+Um cheque ao portador é aquele em que não é indicado o nome de nenhum beneficiário. Esse tipo de cheque pode ser sacado ou depositado por qualquer pessoa. Só é possível emitir cheques ao portador com valores de até R$ 100. Acima disso, é preciso que o cheque seja nominal.
+Um cheque nominal é aquele em que o emissor escreve o nome do beneficiário no documento. Se o beneficiário quiser transferir o cheque para outra pessoa sacar ou depositar, precisará endossar o documento, assinando-o na parte de trás da folha.
+O emissor pode impedir que o beneficiário possa transferir o cheque para terceiros. Nesse caso, quem preenche o cheque deverá escrever “não à ordem” após o nome do beneficiário. Esse tipo de cheque é chamado de nominal não à ordem, enquanto o cheque nominal comum é chamado de nominal à ordem.
+Um cheque cruzado apresenta duas linhas paralelas sobre a sua face. Essa marca indica que o cheque só poderá ser depositado em uma conta bancária, e não sacado na boca do caixa. A medida dá mais segurança, uma vez que aumenta o prazo para sustar o cheque em caso de roubo ou furto.
+
+Como funciona o cheque especial?
+O cheque especial é uma modalidade de crédito oferecida pelos bancos a seus clientes. Nela, a instituição financeira garante a cobertura do cheque até um determinado valor, mesmo se o cliente não tiver dinheiro suficiente em sua conta. Ao fazer isso, porém, os bancos costumam cobrar juros.
+Saiba mais sobre cheque cruzado e cheque nominal.
+Você também pode ter interesse em como preencher um cheque, motivos para um cheque ser devolvido, e ainda, o que é um cheque sem fundo.

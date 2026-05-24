@@ -1,0 +1,10 @@
+id_lembrete integer not null primary key
+descricao varchar(60) not null
+data date not null
+hora time not null
+observacao varchar(400)
+som_alarme varchar(10) not null
+palavra_chave varchar(10)
+id_usuario smallint not null foreign key
+nome_usuario varchar(10) not null
+situacao varchar(7) not null

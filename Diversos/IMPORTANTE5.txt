@@ -1,0 +1,26 @@
+Exemplificando calculo para cada item:
+
+ 
+
+ BaseCalculo := (Qtde * (ValorUnitario + Seguro + Frete + Despesas - Desconto) );
+
+ 
+
+(...)
+
+TotalItem := ( BaseCalculo + v_ICMS_ST + v_IPI );
+
+ 
+
+ // Calcula o valor Aproximado dos tributos
+ ValorAproxTrib := (BaseCalculo * AliqNac / 100);
+
+ 
+
+ou
+
+ 
+
+ ValorAproxTrib := (TotalItem * AliqNac / 100);
+
+ 

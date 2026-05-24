@@ -1,0 +1,311 @@
+08:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:31 - SISTEMA Seven - Admnistração foi finalizado.
+08:33 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:33 - Formulário FrmRelLocalizacao iniciado.
+08:33 - Formulário FrmRelLocalizacao iniciado.
+08:33 - Pesquisou localizacao.
+08:33 - Formulário FrmRelLocalizacao foi finalizado.
+08:34 - Formulário FrmRelLocalizacao iniciado.
+08:34 - Formulário FrmRelLocalizacao iniciado.
+08:34 - Pesquisou localizacao.
+08:34 - Formulário FrmRelLocalizacao foi finalizado.
+08:39 - SISTEMA Seven - Admnistração foi finalizado.
+08:39 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:41 - Formulário FrmRelLocalizacao iniciado.
+08:41 - Formulário FrmRelLocalizacao iniciado.
+08:41 - Pesquisou localizacao.
+08:51 - Formulário FrmRelLocalizacao foi finalizado.
+08:51 - SISTEMA Seven - Admnistração foi finalizado.
+08:51 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:52 - Formulário FrmRelLocalizacao iniciado.
+08:52 - Formulário FrmRelLocalizacao iniciado.
+08:52 - Pesquisou localizacao.
+08:52 - Formulário FrmRelLocalizacao foi finalizado.
+08:54 - SISTEMA Seven - Admnistração foi finalizado.
+08:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:54 - Formulário FrmRelUsuario iniciado.
+08:55 - Pesquisou usuário.
+08:55 - Formulário FrmRelUsuario foi finalizado.
+08:55 - Formulário FrmRelLocalizacao iniciado.
+08:55 - Formulário FrmRelLocalizacao iniciado.
+08:55 - Pesquisou localizacao.
+08:55 - Formulário FrmRelLocalizacao foi finalizado.
+08:55 - SISTEMA Seven - Admnistração foi finalizado.
+08:57 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:57 - Formulário FrmRelLocalizacao iniciado.
+08:57 - Formulário FrmRelLocalizacao iniciado.
+08:57 - Pesquisou localizacao.
+08:59 - Formulário FrmRelLocalizacao foi finalizado.
+08:59 - SISTEMA Seven - Admnistração foi finalizado.
+08:59 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:59 - Formulário FrmRelLocalizacao iniciado.
+08:59 - Formulário FrmRelLocalizacao iniciado.
+08:59 - Pesquisou localizacao.
+08:59 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:00 - Pesquisou localizacao.
+09:01 - Formulário FrmRelLocalizacao foi finalizado.
+09:01 - SISTEMA Seven - Admnistração foi finalizado.
+09:01 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:01 - Formulário FrmRelLocalizacao iniciado.
+09:01 - Formulário FrmRelLocalizacao iniciado.
+09:01 - Pesquisou localizacao.
+09:01 - Pesquisou localizacao.
+09:02 - Pesquisou localizacao.
+09:02 - Pesquisou localizacao.
+09:02 - Pesquisou localizacao.
+09:02 - Pesquisou localizacao.
+09:02 - Pesquisou localizacao.
+09:02 - Formulário FrmRelContaReceber iniciado.
+09:02 - Formulário FrmRelContaReceber foi finalizado.
+09:06 - Pesquisou localizacao.
+09:06 - Pesquisou localizacao.
+09:06 - Pesquisou localizacao.
+09:06 - Pesquisou localizacao.
+09:06 - Pesquisou localizacao.
+09:06 - Pesquisou localizacao.
+09:06 - Formulário FrmRelLocalizacao foi finalizado.
+09:09 - Formulário FrmRelCliente iniciado.
+09:09 - Formulário FrmRelClieCons foi finalizado.
+09:09 - Formulário FrmRelLocalizacao iniciado.
+09:09 - Formulário FrmRelLocalizacao iniciado.
+09:09 - Pesquisou localizacao.
+09:10 - Formulário FrmRelLocalizacao foi finalizado.
+09:10 - SISTEMA Seven - Admnistração foi finalizado.
+09:10 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:10 - Formulário FrmRelLocalizacao iniciado.
+09:10 - Formulário FrmRelLocalizacao iniciado.
+09:10 - Pesquisou localizacao.
+09:11 - Formulário FrmInfImpressao iniciado.
+09:13 - Formulário FrmInfImpressao foi finalizado.
+09:14 - Formulário FrmRelLocalizacao foi finalizado.
+09:17 - Formulário FrmCadLocalizacao iniciado.
+09:23 - Formulário FrmCadLocalizacao foi finalizado.
+09:23 - SISTEMA Seven - Admnistração foi finalizado.
+09:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:24 - Formulário FrmRelHistoricoCaixa iniciado.
+09:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:24 - Formulário FrmCadLocalizacao iniciado.
+09:24 - Formulário FrmCadConsumidor iniciado.
+09:24 - Formulário FrmCadClieCons foi finalizado.
+09:24 - Pesquisou localizacao.
+09:25 - Localização cadastrado. Cod: 2 | Descrição: YOKO UNO
+09:25 - Localização alterada. Cod: 2 | Descrição: YOKO UNO
+09:26 - Formulário FrmCadLocalizacao foi finalizado.
+09:26 - SISTEMA Seven - Admnistração foi finalizado.
+09:26 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:26 - Formulário FrmCadLocalizacao iniciado.
+09:26 - Pesquisou localizacao.
+09:26 - Formulário FrmCadLocalizacao foi finalizado.
+09:26 - SISTEMA Seven - Admnistração foi finalizado.
+09:26 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:27 - Formulário FrmRelLocalizacao iniciado.
+09:27 - Formulário FrmRelLocalizacao iniciado.
+09:27 - Pesquisou localizacao.
+09:27 - Formulário FrmRelLocalizacao foi finalizado.
+09:27 - Formulário FrmCadLocalizacao iniciado.
+09:27 - Pesquisou localizacao.
+09:27 - Formulário FrmCadLocalizacao foi finalizado.
+09:27 - SISTEMA Seven - Admnistração foi finalizado.
+09:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:27 - Formulário FrmCadLocalizacao iniciado.
+09:27 - Pesquisou localizacao.
+09:27 - Formulário FrmCadLocalizacao foi finalizado.
+09:27 - SISTEMA Seven - Admnistração foi finalizado.
+09:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:28 - Formulário FrmCadLocalizacao iniciado.
+09:28 - Pesquisou localizacao.
+09:28 - Formulário FrmCadLocalizacao foi finalizado.
+09:28 - SISTEMA Seven - Admnistração foi finalizado.
+09:28 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:28 - Formulário FrmCadConsumidor iniciado.
+09:28 - Pesquisou consumidor.
+09:29 - Formulário FrmCadClieCons foi finalizado.
+09:29 - Formulário FrmCadConsumidor iniciado.
+09:29 - Formulário FrmCadClieCons foi finalizado.
+09:29 - Formulário FrmCadContasPagar iniciado.
+09:29 - Formulário FrmCadContasPagar foi finalizado.
+09:29 - Formulário FrmCadContasReceber iniciado.
+09:29 - Formulário FrmCadContasReceber foi finalizado.
+09:29 - Formulário FrmCadContasReceber iniciado.
+09:31 - Formulário FrmCadContasReceber foi finalizado.
+09:31 - SISTEMA Seven - Admnistração foi finalizado.
+09:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:32 - Formulário FrmCadContasPagar iniciado.
+09:32 - Formulário FrmCadContasPagar foi finalizado.
+09:32 - Formulário FrmCadConsumidor iniciado.
+09:32 - Formulário FrmCadClieCons foi finalizado.
+09:32 - Formulário FrmCadContasPagar iniciado.
+09:32 - Formulário FrmCadContasPagar foi finalizado.
+09:32 - Formulário FrmCadConsumidor iniciado.
+09:32 - Formulário FrmCadClieCons foi finalizado.
+09:32 - Formulário FrmCadContasPagar iniciado.
+09:32 - Formulário FrmCadContasPagar foi finalizado.
+09:32 - Formulário FrmCadContasReceber iniciado.
+09:32 - Formulário FrmCadContasReceber foi finalizado.
+09:33 - Formulário FrmCadEntidadeBancaria iniciado.
+09:33 - Formulário FrmCadEntidadeBancaria foi finalizado.
+09:33 - Formulário FrmCadFormaPagamento iniciado.
+09:33 - Formulário FrmCadFormaPagamento foi finalizado.
+09:33 - Formulário FrmCadFornecedor iniciado.
+09:33 - Formulário FrmCadFornecedor foi finalizado.
+09:33 - Formulário FrmCadGrupo iniciado.
+09:33 - Formulário FrmCadGrupo foi finalizado.
+09:33 - Formulário FrmCadLocalizacao iniciado.
+09:33 - Formulário FrmCadProduto iniciado.
+09:33 - Formulário FrmCadProduto foi finalizado.
+09:33 - Formulário FrmCadLocalizacao foi finalizado.
+09:33 - Formulário FrmCadGrupo iniciado.
+09:33 - Formulário FrmCadGrupo foi finalizado.
+09:43 - SISTEMA Seven - Admnistração foi finalizado.
+09:53 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:53 - Formulário FrmCadSubGrupo iniciado.
+09:53 - Pesquisou sub-grupo.
+09:53 - Formulário FrmCadSubGrupo foi finalizado.
+09:59 - SISTEMA Seven - Admnistração foi finalizado.
+09:59 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:59 - Formulário FrmCadGrupo iniciado.
+09:59 - Pesquisou grupo.
+09:59 - Formulário FrmCadGrupo foi finalizado.
+09:59 - Formulário FrmCadMarca iniciado.
+09:59 - Formulário FrmCadMarca foi finalizado.
+10:02 - SISTEMA Seven - Admnistração foi finalizado.
+10:02 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:02 - Formulário FrmCadMarca iniciado.
+10:03 - Formulário FrmCadMarca foi finalizado.
+10:08 - SISTEMA Seven - Admnistração foi finalizado.
+10:14 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:14 - Formulário FrmCadGrupo iniciado.
+10:14 - Formulário FrmCadGrupo foi finalizado.
+10:14 - Formulário FrmCadFuncionario iniciado.
+10:14 - Formulário FrmCadFuncionario foi finalizado.
+10:14 - Formulário FrmCadFornecedor iniciado.
+10:14 - Formulário FrmCadFornecedor foi finalizado.
+10:14 - Formulário FrmCadFormaPagamento iniciado.
+10:14 - Formulário FrmCadFormaPagamento foi finalizado.
+10:14 - Formulário FrmCadEntidadeBancaria iniciado.
+10:14 - Formulário FrmCadEntidadeBancaria foi finalizado.
+10:16 - Formulário FrmCadContasReceber iniciado.
+10:16 - Formulário FrmCadContasReceber foi finalizado.
+10:16 - Formulário FrmCadContasPagar iniciado.
+10:16 - Formulário FrmCadContasPagar foi finalizado.
+10:16 - Formulário FrmCadConsumidor iniciado.
+10:16 - Formulário FrmCadClieCons foi finalizado.
+10:16 - SISTEMA Seven - Admnistração foi finalizado.
+10:18 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:21 - Formulário FrmCadProduto iniciado.
+10:21 - Pesquisou produto.
+10:21 - Formulário FrmCadProduto foi finalizado.
+10:21 - SISTEMA Seven - Admnistração foi finalizado.
+10:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:21 - Formulário FrmCadProduto iniciado.
+10:21 - Pesquisou produto.
+10:21 - Pesquisou produto.
+10:21 - Formulário FrmCadProduto foi finalizado.
+10:21 - Formulário FrmCadSubGrupo iniciado.
+10:21 - Pesquisou sub-grupo.
+10:21 - Pesquisou sub-grupo.
+10:21 - Pesquisou sub-grupo.
+10:21 - Pesquisou sub-grupo.
+10:21 - Pesquisou sub-grupo.
+10:21 - Formulário FrmCadSubGrupo foi finalizado.
+10:21 - SISTEMA Seven - Admnistração foi finalizado.
+10:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:27 - Formulário FrmCadSubGrupo iniciado.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Pesquisou sub-grupo.
+10:27 - Formulário FrmCadSubGrupo foi finalizado.
+10:28 - Formulário FrmCadUsuario iniciado.
+10:28 - Pesquisou usuário.
+10:28 - Pesquisou usuário.
+10:28 - Pesquisou usuário.
+10:28 - Pesquisou usuário.
+11:01 - Pesquisou usuário.
+11:01 - Pesquisou usuário.
+11:01 - Pesquisou usuário.
+11:01 - Pesquisou usuário.
+11:01 - Formulário FrmCadUsuario foi finalizado.
+11:01 - SISTEMA Seven - Admnistração foi finalizado.
+11:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:06 - Formulário FrmCadUsuario iniciado.
+11:07 - Pesquisou usuário.
+11:07 - Formulário FrmCadUsuario foi finalizado.
+11:07 - Formulário FrmRelCliente iniciado.
+11:07 - Formulário FrmRelClieCons foi finalizado.
+11:07 - Formulário FrmRelCliente iniciado.
+11:07 - Formulário FrmRelClieCons foi finalizado.
+11:07 - Formulário FrmRelCaixas iniciado.
+11:07 - Formulário FrmRelCaixas foi finalizado.
+11:07 - Formulário FrmRelContaPagar iniciado.
+11:07 - Formulário FrmRelContaPagar foi finalizado.
+11:07 - Formulário FrmRelContaReceber iniciado.
+11:07 - Formulário FrmRelContaReceber foi finalizado.
+11:07 - Formulário FrmRelProduto iniciado.
+11:07 - Pesquisou produto.
+11:08 - Formulário FrmRelProduto foi finalizado.
+11:08 - Formulário FrmRelOrcamento iniciado.
+11:08 - Formulário FrmRelOrcamento foi finalizado.
+11:08 - Formulário FrmRelVenda iniciado.
+11:08 - Formulário FrmRelVenda foi finalizado.
+11:08 - Formulário FrmRelDevolucao iniciado.
+11:08 - Formulário FrmRelDevolucao foi finalizado.
+11:08 - Formulário FrmRelGrupo iniciado.
+11:08 - Formulário FrmRelGrupo foi finalizado.
+11:08 - Formulário FrmRelFuncionario iniciado.
+11:08 - Pesquisou funcionário.
+11:08 - Formulário FrmRelFuncionario foi finalizado.
+11:08 - Formulário FrmRelFormaPagamento iniciado.
+11:08 - Pesquisou forma de pagamento.
+11:08 - Formulário FrmRelFornecedor iniciado.
+11:08 - Pesquisou fornecedor.
+11:08 - Formulário FrmRelSubGrupo iniciado.
+11:20 - Formulário FrmRelSubGrupo foi finalizado.
+11:20 - Formulário FrmRelFornecedor foi finalizado.
+11:20 - Formulário FrmRelFormaPagamento foi finalizado.
+11:20 - SISTEMA Seven - Admnistração foi finalizado.
+11:20 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:20 - Formulário FrmRelSubGrupo iniciado.
+11:20 - Formulário FrmRelSubGrupo foi finalizado.
+14:21 - Formulário FrmRelLocalizacao iniciado.
+14:21 - Formulário FrmRelLocalizacao iniciado.
+14:21 - Pesquisou localizacao.
+14:21 - Pesquisou localizacao.
+14:21 - Formulário FrmRelLocalizacao foi finalizado.
+14:21 - Formulário FrmRelHistoricoCaixa iniciado.
+14:21 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:21 - Formulário FrmRelFluxoCaixa iniciado.
+14:21 - Formulário FrmRelFluxoCaixa foi finalizado.
+14:21 - Formulário FrmRelSaidasProdutos iniciado.
+14:21 - Formulário FrmRelSaidasProdutos foi finalizado.
+14:21 - Formulário FrmRelRegistroAtividade iniciado.
+14:21 - Formulário FrmRelRegistroAtividade foi finalizado.
+14:21 - Formulário FrmRelSangriaSuprimento iniciado.
+14:21 - Formulário FrmRelSangriaSupirmento foi finalizado.
+14:21 - Formulário FrmRelSangriaSuprimento iniciado.
+14:21 - Formulário FrmRelSangriaSupirmento foi finalizado.
+14:23 - SISTEMA Seven - Admnistração foi finalizado.
+14:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:23 - Formulário FrmRelSangriaSuprimento iniciado.
+14:24 - Formulário FrmRelSangriaSupirmento foi finalizado.
+14:24 - Formulário FrmRelRegistroAtividade iniciado.
+14:24 - Formulário FrmRelRegistroAtividade foi finalizado.
+14:24 - Formulário FrmRelUsuario iniciado.
+14:24 - Pesquisou usuário.
+14:24 - Pesquisou usuário.
+14:24 - Formulário FrmRelUsuario foi finalizado.
+15:23 - SISTEMA Seven - Admnistração foi finalizado.

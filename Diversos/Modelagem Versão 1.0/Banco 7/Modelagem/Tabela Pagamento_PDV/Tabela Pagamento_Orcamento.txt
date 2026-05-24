@@ -1,0 +1,15 @@
+ID_PAGAMENTO			INTEGER 	NOT NULL PK AI
+ID_FORMA_PAGAMENTO		SMALLINT	NOT NULL FK
+DESCRICAO_FORMA_PAGAMENTO	VARCHAR(30)	NOT NULL
+TIPO				VARCHAR(9)	NOT NULL
+VALOR_PAGO			DECIMAL(15,2)	NOT NULL
+ID_ORCAMENTO			INTEGER		NOT NULL FK
+
+create table pagamento_orcamento (
+    id_pagamento               integer not null,
+    id_forma_pagamento         smallint not null,
+    descricao_forma_pagamento  varchar(30) not null,
+    valor_pago                 decimal(15,2) not null,
+    id_orcamento               integer not null,
+    tipo 		       varchar(9) not null
+);

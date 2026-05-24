@@ -1,0 +1,18 @@
+PRIVILÉGIOS DE USUÁRIOS:
+7 Sistema PDV:
+Contas A Receber
+		Baixa de Contas A Receber
+					* Excluir pagamento parcial
+					* Ignorar Juros
+					* Ignorar Multa
+					* Permitir Pagamento Parcial
+					* Desfazer Baixa
+
+
+
+
+
+
+
+
+7 Sistema:

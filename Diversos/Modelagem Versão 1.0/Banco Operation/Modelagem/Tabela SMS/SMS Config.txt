@@ -1,0 +1,8 @@
+ID_SMS_CONFIGURACOES			CHAR(1) NOT NULL
+PORTA					VARHCAR(5) NOT NULL
+
+create table sms_configuracoes (
+    id_sms_configuracoes  char(1) not null,
+    porta                 varchar(5) not null
+    detalhe_envio_sms	  char(1) not null
+);

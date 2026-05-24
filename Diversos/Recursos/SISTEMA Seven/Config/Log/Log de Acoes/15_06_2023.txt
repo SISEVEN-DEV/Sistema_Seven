@@ -1,0 +1,877 @@
+08:32 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:38 - SISTEMA Seven - PDV foi finalizado.
+08:40 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:41 - SISTEMA Seven - PDV foi finalizado.
+08:41 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:41 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:41 - Formulário FrmConfiguracoes iniciado.
+08:41 - Formulário FrmConfiguracoes iniciado.
+08:41 - Formulário FrmBackup iniciado.
+08:41 - Formulário FrmBackup foi finalizado.
+08:41 - Formulário FrmConfiguracoes iniciado.
+08:47 - SISTEMA Seven - Admnistração foi finalizado.
+08:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:55 - Formulário FrmConfiguracoes iniciado.
+08:58 - Formulário FrmConfiguracoes iniciado.
+09:01 - SISTEMA Seven - Admnistração foi finalizado.
+09:01 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:01 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:01 - Formulário FrmConfiguracoes iniciado.
+09:02 - SISTEMA Seven - Admnistração foi finalizado.
+09:02 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:02 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:02 - Formulário FrmConfiguracoes iniciado.
+09:04 - SISTEMA Seven - Admnistração foi finalizado.
+09:04 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:04 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:04 - Formulário FrmConfiguracoes iniciado.
+09:04 - SISTEMA Seven - Admnistração foi finalizado.
+09:04 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:04 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:04 - Formulário FrmMinhaEmpresa iniciado.
+09:04 - Formulário FrmMinhaEmpresa foi finalizado.
+09:04 - Formulário FrmMinhaEmpresa iniciado.
+09:04 - Formulário FrmMinhaEmpresa foi finalizado.
+09:04 - Formulário FrmConfiguracoes iniciado.
+09:07 - SISTEMA Seven - Admnistração foi finalizado.
+09:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:12 - Formulário FrmFormaPagamento iniciado.
+09:12 - Formulário FrmFormaPagamento foi finalizado.
+09:13 - Formulário FrmMinhaEmpresa iniciado.
+09:13 - Formulário FrmMinhaEmpresa foi finalizado.
+09:13 - Formulário FrmConfiguracoes iniciado.
+09:14 - Formulário FrmFormaPagamento iniciado.
+09:14 - Formulário FrmFormaPagamento foi finalizado.
+09:17 - Formulário FrmMinhaEmpresa iniciado.
+09:17 - Formulário FrmMinhaEmpresa foi finalizado.
+09:17 - SISTEMA Seven - PDV foi finalizado.
+09:18 - Formulário FrmConfiguracoes iniciado.
+09:18 - Formulário FrmConfiguracoes iniciado.
+09:18 - SISTEMA Seven - Admnistração foi finalizado.
+09:18 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:18 - Formulário FrmFormaPagamento iniciado.
+09:19 - Formulário FrmFormaPagamento foi finalizado.
+09:19 - Erro: As configurações para acessar a impressora '' não são válidas. | Pagamento.
+09:19 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:19 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:19 - Formulário FrmConfiguracoes iniciado.
+09:19 - Formulário FrmFormaPagamento iniciado.
+09:19 - Formulário FrmFormaPagamento foi finalizado.
+09:21 - SISTEMA Seven - Admnistração foi finalizado.
+09:21 - SISTEMA Seven - PDV foi finalizado.
+09:23 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:23 - Formulário FrmFormaPagamento iniciado.
+09:23 - Formulário FrmFormaPagamento foi finalizado.
+09:29 - Formulário FrmFormaPagamento iniciado.
+09:30 - Formulário FrmFormaPagamento foi finalizado.
+09:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:31 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:32 - Formulário FrmRelVenda iniciado.
+09:32 - Formulário FrmConsultarItemVenda iniciado.
+09:32 - Formulário FrmConsultarItemVenda foi finalizado.
+09:32 - Formulário FrmConsultarPagamento iniciado.
+09:33 - Formulário FrmConsultarPagamento foi finalizado.
+09:33 - Formulário FrmInfImpressao iniciado.
+09:33 - Formulário FrmInfImpressao foi finalizado.
+09:35 - Formulário FrmInfImpressao iniciado.
+09:35 - Formulário FrmInfImpressao foi finalizado.
+09:35 - Formulário FrmInfImpressao iniciado.
+09:35 - Formulário FrmInfImpressao foi finalizado.
+09:37 - Formulário FrmRelVenda foi finalizado.
+09:37 - SISTEMA Seven - Admnistração foi finalizado.
+09:37 - SISTEMA Seven - PDV foi finalizado.
+09:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:38 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:38 - Formulário FrmRelVenda iniciado.
+09:39 - Formulário FrmRelVenda foi finalizado.
+09:39 - SISTEMA Seven - Admnistração foi finalizado.
+09:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:39 - Formulário FrmOrcamento iniciado.
+09:39 - Formulário FrmQuantidade iniciado.
+09:39 - Formulário FrmQuantidade foi finalizado.
+09:39 - Formulário FrmDescontoAcrescimoOrc iniciado.
+09:39 - Formulário FrmDescontoAcrescimoOrc foi finalizado.
+09:51 - Formulário FrmOrcamento foi finalizado.
+09:52 - Formulário FrmInformar iniciado.
+09:52 - Formulário FrmInformar foi finalizado.
+09:52 - Formulário FrmInfConsManual iniciado.
+09:52 - Formulário FrmQuantidade iniciado.
+09:52 - Formulário FrmQuantidade foi finalizado.
+09:52 - Formulário FrmOrcamento iniciado.
+09:52 - Formulário FrmPesqProduto iniciado.
+09:52 - Formulário FrmPesqProduto foi finalizado.
+09:52 - Formulário FrmOrcamento foi finalizado.
+09:52 - Formulário FrmCapturar iniciado.
+09:52 - Formulário FrmCapturar foi finalizado.
+09:52 - Formulário FrmCapturarOrcamento iniciado.
+09:52 - Formulário FrmCapturarOrcamento foi finalizado.
+09:52 - Formulário FrmInformar iniciado.
+09:52 - Formulário FrmInformar foi finalizado.
+09:52 - Formulário FrmCapturar iniciado.
+09:52 - Formulário FrmCapturar foi finalizado.
+09:52 - Formulário FrmCapturarDevolucao iniciado.
+09:52 - Formulário FrmCapturarDevolucao foi finalizado.
+09:52 - Formulário FrmDevolucao iniciado.
+09:53 - Formulário FrmDevolucao foi finalizado.
+09:54 - Formulário FrmFecharCaixa iniciado.
+09:54 - Abert/Fech de Caixa cadastrada. Cod: 2 | Descrição: FECHAMENTO DE CAIXA
+09:54 - Formulário FrmFecharCaixa foi finalizado.
+09:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:54 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:54 - Formulário FrmRelCaixas iniciado.
+09:54 - Formulário FrmRelFluxoCaixa iniciado.
+09:55 - Formulário FrmRelFluxoCaixa foi finalizado.
+09:55 - Formulário FrmRelHistoricoCaixa iniciado.
+10:11 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:11 - Formulário FrmRelVenda iniciado.
+10:29 - Formulário FrmRelHistoricoCaixa iniciado.
+10:29 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:30 - Formulário FrmRelCaixas foi finalizado.
+10:30 - Formulário FrmConsultarItemVenda iniciado.
+10:30 - Formulário FrmConsultarItemVenda foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmConsultarPagamento iniciado.
+10:30 - Formulário FrmConsultarPagamento foi finalizado.
+10:30 - Formulário FrmRelVenda foi finalizado.
+10:33 - SISTEMA Seven - Admnistração foi finalizado.
+10:33 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:33 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:34 - Formulário FrmRelCaixas iniciado.
+10:34 - Formulário FrmRelHistoricoCaixa iniciado.
+10:34 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:34 - Formulário FrmRelHistoricoCaixa iniciado.
+10:34 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:40 - Formulário FrmRelHistoricoCaixa iniciado.
+10:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:41 - Formulário FrmRelHistoricoCaixa iniciado.
+10:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:41 - Formulário FrmRelFluxoCaixa iniciado.
+10:41 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:41 - Formulário FrmAbrirCaixa iniciado.
+10:42 - Abert/Fech de Caixa cadastrada. Cod: 55 | Descrição: ABERTURA DE CAIXA
+10:42 - Formulário FrmAbrirCaixa foi finalizado.
+10:42 - Formulário FrmRelFluxoCaixa iniciado.
+10:42 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:42 - Formulário FrmRelFluxoCaixa iniciado.
+10:42 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:42 - Formulário FrmFormaPagamento iniciado.
+10:42 - Formulário FrmFormaPagamento foi finalizado.
+10:42 - Formulário FrmRelFluxoCaixa iniciado.
+10:42 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:42 - Formulário FrmRelHistoricoCaixa iniciado.
+10:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:43 - Formulário FrmRelFluxoCaixa iniciado.
+10:43 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:43 - Formulário FrmPesqProduto iniciado.
+10:43 - Pesquisou produto.
+10:43 - Formulário FrmPesqProduto foi finalizado.
+10:43 - Formulário FrmFormaPagamento iniciado.
+10:43 - Formulário FrmRelCaixas foi finalizado.
+10:43 - Formulário FrmConfiguracoes iniciado.
+10:43 - Formulário FrmFormaPagamento foi finalizado.
+10:44 - Formulário FrmPesqProduto iniciado.
+10:44 - Pesquisou produto.
+10:44 - Formulário FrmPesqProduto foi finalizado.
+10:44 - Formulário FrmFormaPagamento iniciado.
+10:44 - Formulário FrmFormaPagamento foi finalizado.
+10:44 - Formulário FrmRelCaixas iniciado.
+10:45 - Formulário FrmInfImpressao iniciado.
+10:45 - Formulário FrmInfImpressao foi finalizado.
+10:45 - Formulário FrmRelFluxoCaixa iniciado.
+10:45 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:45 - Formulário FrmRelHistoricoCaixa iniciado.
+10:46 - Formulário FrmPesqProduto iniciado.
+10:46 - Pesquisou produto.
+10:46 - Formulário FrmPesqProduto foi finalizado.
+10:46 - Formulário FrmFormaPagamento iniciado.
+10:46 - Formulário FrmFormaPagamento foi finalizado.
+10:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:46 - Formulário FrmRelHistoricoCaixa iniciado.
+10:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:46 - Formulário FrmRelHistoricoCaixa iniciado.
+10:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:46 - Formulário FrmConfiguracoes iniciado.
+10:57 - Formulário FrmFormaPagamento iniciado.
+10:57 - Formulário FrmFormaPagamento foi finalizado.
+10:57 - Formulário FrmRelHistoricoCaixa iniciado.
+10:57 - Formulário FrmFormaPagamento iniciado.
+10:57 - Formulário FrmFormaPagamento foi finalizado.
+10:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:58 - Formulário FrmRelHistoricoCaixa iniciado.
+10:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:58 - Formulário FrmRelHistoricoCaixa iniciado.
+10:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:58 - Formulário FrmRelHistoricoCaixa iniciado.
+10:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:58 - Formulário FrmFormaPagamento iniciado.
+10:58 - Formulário FrmFormaPagamento foi finalizado.
+10:58 - Formulário FrmRelHistoricoCaixa iniciado.
+10:59 - Formulário FrmFormaPagamento iniciado.
+10:59 - Formulário FrmFormaPagamento foi finalizado.
+10:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:59 - Formulário FrmRelHistoricoCaixa iniciado.
+11:00 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:00 - Formulário FrmRelCaixas foi finalizado.
+11:00 - Formulário FrmRelVenda iniciado.
+11:00 - Formulário FrmConsultarPagamento iniciado.
+11:00 - Formulário FrmConsultarPagamento foi finalizado.
+11:00 - Formulário FrmConsultarPagamento iniciado.
+11:00 - Formulário FrmConsultarPagamento foi finalizado.
+11:00 - Formulário FrmConsultarPagamento iniciado.
+11:00 - Formulário FrmConsultarPagamento foi finalizado.
+11:00 - Formulário FrmConsultarPagamento iniciado.
+11:00 - Formulário FrmConsultarPagamento foi finalizado.
+11:00 - Formulário FrmRelVenda foi finalizado.
+11:27 - Formulário FrmFecharCaixa iniciado.
+11:27 - Formulário FrmRelRegistroAtividade iniciado.
+11:27 - Pesquisou registro de atividades.
+11:27 - Formulário FrmRelRegistroAtividade foi finalizado.
+11:27 - Formulário FrmRelCaixas iniciado.
+11:27 - Formulário FrmRelHistoricoCaixa iniciado.
+11:27 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:27 - Formulário FrmRelFluxoCaixa iniciado.
+11:28 - Formulário FrmRelFluxoCaixa foi finalizado.
+11:28 - Formulário FrmRelCaixas foi finalizado.
+11:28 - Abert/Fech de Caixa cadastrada. Cod: 3 | Descrição: FECHAMENTO DE CAIXA
+11:28 - Formulário FrmRelHistoricoCaixa iniciado.
+11:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:28 - Formulário FrmFecharCaixa foi finalizado.
+11:32 - Formulário FrmAbrirCaixa iniciado.
+11:32 - Abert/Fech de Caixa cadastrada. Cod: 56 | Descrição: ABERTURA DE CAIXA
+11:32 - Formulário FrmAbrirCaixa foi finalizado.
+11:32 - Formulário FrmFormaPagamento iniciado.
+11:32 - Formulário FrmFormaPagamento foi finalizado.
+11:41 - Formulário FrmRelCaixas iniciado.
+11:41 - Formulário FrmRelHistoricoCaixa iniciado.
+11:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:41 - Formulário FrmRelFluxoCaixa iniciado.
+11:41 - Formulário FrmRelFluxoCaixa foi finalizado.
+11:41 - Formulário FrmRelCaixas foi finalizado.
+11:41 - Formulário FrmConfiguracoes iniciado.
+11:42 - Formulário FrmPesqProduto iniciado.
+11:42 - Formulário FrmPesqProduto foi finalizado.
+11:42 - Formulário FrmFormaPagamento iniciado.
+11:42 - Formulário FrmFormaPagamento foi finalizado.
+11:42 - Formulário FrmRelCaixas iniciado.
+11:42 - Formulário FrmRelHistoricoCaixa iniciado.
+11:42 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:43 - SISTEMA Seven - PDV foi finalizado.
+11:43 - Formulário FrmRelCaixas foi finalizado.
+11:43 - SISTEMA Seven - Admnistração foi finalizado.
+11:43 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:44 - Formulário FrmFormaPagamento iniciado.
+11:44 - Formulário FrmFormaPagamento foi finalizado.
+11:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:44 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:44 - Formulário FrmRelCaixas iniciado.
+11:44 - Formulário FrmRelHistoricoCaixa iniciado.
+11:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:44 - Formulário FrmConfiguracoes iniciado.
+11:44 - Formulário FrmRelHistoricoCaixa iniciado.
+11:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:44 - Formulário FrmRelHistoricoCaixa iniciado.
+11:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:45 - Formulário FrmFormaPagamento iniciado.
+11:45 - Formulário FrmFormaPagamento foi finalizado.
+11:46 - Formulário FrmRelHistoricoCaixa iniciado.
+11:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:46 - Formulário FrmRelHistoricoCaixa iniciado.
+11:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:49 - Formulário FrmFormaPagamento iniciado.
+11:49 - Formulário FrmFormaPagamento foi finalizado.
+11:49 - Formulário FrmRelHistoricoCaixa iniciado.
+11:49 - Formulário FrmFormaPagamento iniciado.
+11:49 - Formulário FrmFormaPagamento foi finalizado.
+11:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:49 - Formulário FrmRelHistoricoCaixa iniciado.
+11:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:49 - Formulário FrmRelHistoricoCaixa iniciado.
+11:51 - Formulário FrmFormaPagamento iniciado.
+11:51 - Formulário FrmFormaPagamento foi finalizado.
+11:51 - Formulário FrmRelHistoricoCaixa foi finalizado.
+11:51 - Formulário FrmRelHistoricoCaixa iniciado.
+14:18 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:18 - Formulário FrmRelCaixas foi finalizado.
+14:18 - Formulário FrmFecharCaixa iniciado.
+14:18 - Abert/Fech de Caixa cadastrada. Cod: 4 | Descrição: FECHAMENTO DE CAIXA
+14:18 - Formulário FrmFecharCaixa foi finalizado.
+14:18 - Formulário FrmAbrirCaixa iniciado.
+14:18 - Abert/Fech de Caixa cadastrada. Cod: 57 | Descrição: ABERTURA DE CAIXA
+14:18 - Formulário FrmAbrirCaixa foi finalizado.
+14:20 - Formulário FrmFormaPagamento iniciado.
+14:20 - Formulário FrmFormaPagamento foi finalizado.
+14:20 - Formulário FrmRelCaixas iniciado.
+14:20 - Formulário FrmRelHistoricoCaixa iniciado.
+14:20 - Formulário FrmFormaPagamento iniciado.
+14:20 - Formulário FrmFormaPagamento foi finalizado.
+14:20 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:20 - Formulário FrmRelHistoricoCaixa iniciado.
+14:20 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:21 - Formulário FrmConfiguracoes iniciado.
+14:21 - Formulário FrmFormaPagamento iniciado.
+14:21 - Formulário FrmFormaPagamento foi finalizado.
+14:21 - Formulário FrmRelHistoricoCaixa iniciado.
+14:21 - Formulário FrmFecharCaixa iniciado.
+14:22 - Abert/Fech de Caixa cadastrada. Cod: 5 | Descrição: FECHAMENTO DE CAIXA
+14:22 - Formulário FrmRelHistoricoCaixa iniciado.
+14:22 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:22 - Formulário FrmFecharCaixa foi finalizado.
+14:22 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:22 - Formulário FrmRelHistoricoCaixa iniciado.
+14:22 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:22 - Formulário FrmRelHistoricoCaixa iniciado.
+14:22 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:23 - Formulário FrmAbrirCaixa iniciado.
+14:23 - Abert/Fech de Caixa cadastrada. Cod: 58 | Descrição: ABERTURA DE CAIXA
+14:23 - Formulário FrmAbrirCaixa foi finalizado.
+14:23 - Formulário FrmFormaPagamento iniciado.
+14:23 - Formulário FrmFormaPagamento foi finalizado.
+14:24 - Formulário FrmRelHistoricoCaixa iniciado.
+14:24 - Formulário FrmFormaPagamento iniciado.
+14:24 - Formulário FrmFormaPagamento foi finalizado.
+14:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:24 - Formulário FrmRelHistoricoCaixa iniciado.
+14:24 - Formulário FrmFormaPagamento iniciado.
+14:24 - Formulário FrmFormaPagamento foi finalizado.
+14:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:24 - Formulário FrmRelHistoricoCaixa iniciado.
+14:26 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:26 - Formulário FrmRelHistoricoCaixa iniciado.
+14:31 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:31 - Formulário FrmRelHistoricoCaixa iniciado.
+14:31 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:31 - Formulário FrmRelHistoricoCaixa iniciado.
+14:31 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:31 - Formulário FrmRelHistoricoCaixa iniciado.
+14:35 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:35 - Formulário FrmRelCaixas foi finalizado.
+14:35 - SISTEMA Seven - Admnistração foi finalizado.
+14:35 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:36 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:36 - Formulário FrmRelCaixas iniciado.
+14:36 - Formulário FrmRelHistoricoCaixa iniciado.
+14:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:43 - Formulário FrmRelCaixas foi finalizado.
+14:43 - SISTEMA Seven - Admnistração foi finalizado.
+14:43 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:43 - Formulário FrmRelCaixas iniciado.
+14:43 - Formulário FrmRelHistoricoCaixa iniciado.
+14:43 - Erro: Dynamic SQL Error
+SQL error code = -204
+Ambiguous field name between table PAGAMENTO_VENDA and table VENDA 
+TIPO | Evento click do botão btnPesquisar.
+14:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:43 - Formulário FrmRelCaixas foi finalizado.
+14:43 - SISTEMA Seven - Admnistração foi finalizado.
+14:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:44 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:44 - Formulário FrmRelCaixas iniciado.
+14:44 - Formulário FrmRelHistoricoCaixa iniciado.
+14:48 - Formulário FrmRelHistoricoCaixa foi finalizado.
+14:48 - Formulário FrmRelHistoricoCaixa iniciado.
+15:05 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:05 - Formulário FrmRelCaixas foi finalizado.
+15:05 - SISTEMA Seven - Admnistração foi finalizado.
+15:05 - SISTEMA Seven - PDV foi finalizado.
+15:05 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:05 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:05 - SISTEMA Seven - Admnistração foi finalizado.
+15:08 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:08 - Formulário FrmFormaPagamento iniciado.
+15:08 - Formulário FrmFormaPagamento foi finalizado.
+15:10 - SISTEMA Seven - PDV foi finalizado.
+15:10 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:10 - Formulário FrmFormaPagamento iniciado.
+15:10 - Formulário FrmFormaPagamento foi finalizado.
+15:15 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:15 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:15 - Formulário FrmRelHistoricoCaixa iniciado.
+15:15 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+VENDA.ID_VENDA
+At line 1, column 163 | Evento click do botão btnPesquisar.
+15:15 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:17 - SISTEMA Seven - Admnistração foi finalizado.
+15:18 - SISTEMA Seven - PDV foi finalizado.
+15:18 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:18 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:18 - Formulário FrmRelCaixas iniciado.
+15:19 - Formulário FrmRelHistoricoCaixa iniciado.
+15:19 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:19 - Formulário FrmRelHistoricoCaixa iniciado.
+15:19 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:19 - Formulário FrmRelCaixas foi finalizado.
+15:19 - SISTEMA Seven - Admnistração foi finalizado.
+15:36 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:36 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:36 - Formulário FrmRelCaixas iniciado.
+15:36 - Formulário FrmRelHistoricoCaixa iniciado.
+15:36 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:36 - Formulário FrmRelCaixas foi finalizado.
+15:36 - SISTEMA Seven - Admnistração foi finalizado.
+15:52 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:52 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:52 - Formulário FrmRelCaixas iniciado.
+15:52 - Formulário FrmRelHistoricoCaixa iniciado.
+15:52 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:52 - Formulário FrmRelHistoricoCaixa iniciado.
+15:52 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:52 - Formulário FrmRelCaixas foi finalizado.
+15:53 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:53 - Formulário FrmFecharCaixa iniciado.
+15:53 - Abert/Fech de Caixa cadastrada. Cod: 6 | Descrição: FECHAMENTO DE CAIXA
+15:53 - Formulário FrmFecharCaixa foi finalizado.
+15:53 - Formulário FrmAbrirCaixa iniciado.
+15:53 - Abert/Fech de Caixa cadastrada. Cod: 59 | Descrição: ABERTURA DE CAIXA
+15:53 - Formulário FrmAbrirCaixa foi finalizado.
+15:53 - Formulário FrmRelCaixas iniciado.
+15:53 - Formulário FrmRelHistoricoCaixa iniciado.
+15:54 - Formulário FrmFormaPagamento iniciado.
+15:54 - Formulário FrmFormaPagamento foi finalizado.
+15:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:54 - Formulário FrmRelHistoricoCaixa iniciado.
+15:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:54 - Formulário FrmFormaPagamento iniciado.
+15:54 - Formulário FrmFormaPagamento foi finalizado.
+15:55 - Formulário FrmRelHistoricoCaixa iniciado.
+15:55 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:55 - Formulário FrmConfiguracoes iniciado.
+15:55 - Formulário FrmFormaPagamento iniciado.
+15:55 - Formulário FrmFormaPagamento foi finalizado.
+15:55 - Formulário FrmRelHistoricoCaixa iniciado.
+15:56 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:56 - Formulário FrmRelCaixas foi finalizado.
+15:56 - Formulário FrmConfiguracoes iniciado.
+15:56 - Formulário FrmFormaPagamento iniciado.
+15:56 - Formulário FrmFormaPagamento foi finalizado.
+15:56 - Formulário FrmRelCaixas iniciado.
+15:57 - Formulário FrmRelHistoricoCaixa iniciado.
+15:57 - Formulário FrmFormaPagamento iniciado.
+15:57 - Formulário FrmFormaPagamento foi finalizado.
+15:57 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:57 - Formulário FrmRelHistoricoCaixa iniciado.
+15:57 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:57 - Formulário FrmConfiguracoes iniciado.
+15:58 - Formulário FrmFormaPagamento iniciado.
+15:58 - Formulário FrmFormaPagamento foi finalizado.
+15:58 - Formulário FrmRelHistoricoCaixa iniciado.
+15:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:58 - Formulário FrmRelVenda iniciado.
+15:58 - Formulário FrmCancelamentoVenda iniciado.
+15:58 - Formulário FrmRelVenda foi FrmCancelamentoVenda.
+15:58 - Formulário FrmRelVenda foi finalizado.
+15:58 - Formulário FrmRelHistoricoCaixa iniciado.
+15:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:59 - Formulário FrmRelCaixas foi finalizado.
+15:59 - SISTEMA Seven - Admnistração foi finalizado.
+16:18 - SISTEMA Seven - PDV foi finalizado.
+16:18 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:18 - SISTEMA Seven - PDV foi finalizado.
+16:18 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:18 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:18 - Formulário FrmRelCaixas iniciado.
+16:19 - Formulário FrmRelHistoricoCaixa iniciado.
+16:20 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:20 - Formulário FrmRelCaixas foi finalizado.
+16:20 - Formulário FrmRelVenda iniciado.
+16:20 - Formulário FrmRelVenda foi finalizado.
+16:20 - Formulário FrmRelCaixas iniciado.
+16:23 - Formulário FrmRelCaixas foi finalizado.
+16:23 - SISTEMA Seven - Admnistração foi finalizado.
+16:23 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:23 - Formulário FrmFormaPagamento iniciado.
+16:23 - Formulário FrmFormaPagamento foi finalizado.
+16:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:24 - Formulário FrmRelCaixas iniciado.
+16:24 - Formulário FrmRelHistoricoCaixa iniciado.
+16:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:24 - Formulário FrmRelCaixas foi finalizado.
+16:24 - SISTEMA Seven - Admnistração foi finalizado.
+16:24 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:24 - Formulário FrmFormaPagamento iniciado.
+16:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:24 - Formulário FrmRelCaixas iniciado.
+16:25 - Formulário FrmRelHistoricoCaixa iniciado.
+16:25 - Formulário FrmFormaPagamento foi finalizado.
+16:25 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:25 - Formulário FrmRelHistoricoCaixa iniciado.
+16:26 - Formulário FrmFormaPagamento iniciado.
+16:26 - Formulário FrmFormaPagamento foi finalizado.
+16:26 - Formulário FrmInformar iniciado.
+16:26 - Formulário FrmInformar foi finalizado.
+16:26 - Formulário FrmPesqCliente iniciado.
+16:26 - Formulário FrmPesqCliente foi finalizado.
+16:26 - Formulário FrmInformar iniciado.
+16:26 - Formulário FrmInformar foi finalizado.
+16:26 - Formulário FrmInfConsManual iniciado.
+16:26 - Formulário FrmInformar iniciado.
+16:26 - Formulário FrmInformar foi finalizado.
+16:26 - Formulário FrmPesqCliente iniciado.
+16:27 - Pesquisou cliente.
+16:27 - Formulário FrmPesqCliente foi finalizado.
+16:27 - Formulário FrmFormaPagamento iniciado.
+16:27 - Formulário FrmFormaPagamento foi finalizado.
+16:27 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:27 - Formulário FrmRelHistoricoCaixa iniciado.
+16:27 - Formulário FrmInformar iniciado.
+16:27 - Formulário FrmInformar foi finalizado.
+16:27 - Formulário FrmFormaPagamento iniciado.
+16:27 - Formulário FrmPesqFormaPagamento iniciado.
+16:27 - Formulário pesquisar FrmPesqFormaPagamento foi finalizado.
+16:27 - Formulário FrmFormaPagamento foi finalizado.
+16:27 - Formulário FrmInformar iniciado.
+16:27 - Formulário FrmInformar foi finalizado.
+16:27 - Formulário FrmPesqCliente iniciado.
+16:27 - Pesquisou cliente.
+16:27 - Formulário FrmPesqCliente foi finalizado.
+16:27 - Formulário FrmFormaPagamento iniciado.
+16:27 - Formulário FrmValorCreditoLoja iniciado.
+16:28 - Formulário FrmLoginUsuarioPerm iniciado.
+16:28 - Formulário FrmLoginUsuarioPerm foi finalizado.
+16:28 - Formulário FrmFormaPagamento foi finalizado.
+16:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:28 - Formulário FrmRelHistoricoCaixa iniciado.
+16:28 - SISTEMA Seven - PDV foi finalizado.
+16:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:28 - Formulário FrmRelCaixas foi finalizado.
+16:28 - SISTEMA Seven - Admnistração foi finalizado.
+16:28 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:29 - Formulário FrmFormaPagamento iniciado.
+16:29 - Formulário FrmFormaPagamento foi finalizado.
+16:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:29 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:30 - Formulário FrmRelCaixas iniciado.
+16:30 - Formulário FrmRelHistoricoCaixa iniciado.
+16:33 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:33 - Formulário FrmRelHistoricoCaixa iniciado.
+16:34 - Formulário FrmFormaPagamento iniciado.
+16:34 - Formulário FrmFormaPagamento foi finalizado.
+16:34 - Formulário FrmInformar iniciado.
+16:34 - Formulário FrmInformar foi finalizado.
+16:34 - Formulário FrmPesqCliente iniciado.
+16:34 - Pesquisou cliente.
+16:34 - Formulário FrmPesqCliente foi finalizado.
+16:34 - Formulário FrmFormaPagamento iniciado.
+16:40 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:40 - Formulário FrmRelCaixas foi finalizado.
+16:40 - SISTEMA Seven - Admnistração foi finalizado.
+16:40 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:40 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:40 - Formulário FrmFormaPagamento foi finalizado.
+16:40 - SISTEMA Seven - PDV foi finalizado.
+16:40 - SISTEMA Seven - Admnistração foi finalizado.
+16:40 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:40 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:40 - Formulário FrmFormaPagamento iniciado.
+16:40 - Formulário FrmFormaPagamento foi finalizado.
+16:44 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:44 - Formulário FrmRelCaixas iniciado.
+16:44 - Formulário FrmRelHistoricoCaixa iniciado.
+16:45 - Formulário FrmRelContaPagar iniciado.
+16:45 - Formulário FrmRelContaPagar foi finalizado.
+16:45 - SISTEMA Seven - PDV foi finalizado.
+16:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+16:45 - Formulário FrmRelCaixas foi finalizado.
+16:45 - Formulário FrmCadUsuario iniciado.
+16:45 - Pesquisou usuário.
+16:45 - Pesquisou usuário.
+16:45 - Formulário FrmCadFuncaoUsuario iniciado.
+16:45 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:45 - Usuário alterado. Cod: 1 | Nome: ADM
+16:45 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:46 - Formulário FrmInformar iniciado.
+16:46 - Formulário FrmInformar foi finalizado.
+16:46 - Formulário FrmPesqCliente iniciado.
+16:46 - Pesquisou cliente.
+16:46 - Formulário FrmPesqCliente foi finalizado.
+16:46 - Formulário FrmFormaPagamento iniciado.
+16:46 - Formulário FrmLoginUsuarioPerm iniciado.
+16:46 - Formulário FrmLoginUsuarioPerm foi finalizado.
+16:46 - Formulário FrmLoginUsuarioPerm iniciado.
+16:46 - Formulário FrmLoginUsuarioPerm foi finalizado.
+17:06 - Formulário FrmFormaPagamento foi finalizado.
+17:13 - Formulário FrmCadUsuario foi finalizado.
+17:13 - Formulário FrmRelVenda iniciado.
+17:13 - Formulário FrmConsultarPagamento iniciado.
+17:13 - Formulário FrmConsultarPagamento foi finalizado.
+17:13 - Formulário FrmInfImpressao iniciado.
+17:13 - Formulário FrmInfImpressao foi finalizado.
+17:13 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Documentos\86106981574\PDV\NNF\202306\49.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 3502
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+17:13 - Formulário FrmInfImpressao iniciado.
+17:14 - Formulário FrmInfImpressao foi finalizado.
+17:14 - Formulário FrmInfImpressao iniciado.
+17:14 - Formulário FrmInfImpressao foi finalizado.
+17:14 - Formulário FrmRelVenda foi finalizado.
+17:14 - Formulário FrmRelSaidasProdutos iniciado.
+17:14 - Formulário FrmRelVenda iniciado.
+17:23 - Formulário FrmInfImpressao iniciado.
+17:23 - Formulário FrmInfImpressao foi finalizado.
+17:27 - Formulário FrmRelSaidasProdutos foi finalizado.
+17:27 - Formulário FrmRelVenda foi finalizado.
+17:27 - SISTEMA Seven - Admnistração foi finalizado.
+17:27 - SISTEMA Seven - PDV foi finalizado.
+21:46 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+21:53 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+21:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:55 - Formulário FrmCadConsumidor iniciado.
+21:55 - Pesquisou consumidor.
+21:56 - Formulário FrmCadClieCons foi finalizado.
+21:56 - Formulário FrmCadConsumidor iniciado.
+21:56 - Pesquisou consumidor.
+21:57 - Formulário FrmCadContasReceber iniciado.
+21:57 - Formulário FrmCadContasReceber foi finalizado.
+21:57 - Formulário FrmRelContaReceber iniciado.
+21:57 - Formulário FrmRelBaixaConta iniciado.
+21:58 - Formulário FrmRelBaixaConta foi finalizado.
+21:58 - Formulário FrmRelCaixas iniciado.
+21:58 - Formulário FrmRelHistoricoCaixa iniciado.
+22:06 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:06 - Formulário FrmRelCaixas foi finalizado.
+22:06 - Formulário FrmFecharCaixa iniciado.
+22:06 - Abert/Fech de Caixa cadastrada. Cod: 7 | Descrição: FECHAMENTO DE CAIXA
+22:06 - Formulário FrmFecharCaixa foi finalizado.
+22:08 - Formulário FrmRelContaReceber foi finalizado.
+22:08 - Formulário FrmCadClieCons foi finalizado.
+22:08 - Formulário FrmRelCaixas iniciado.
+22:08 - Formulário FrmAbrirCaixa iniciado.
+22:08 - Abert/Fech de Caixa cadastrada. Cod: 60 | Descrição: ABERTURA DE CAIXA
+22:08 - Formulário FrmAbrirCaixa foi finalizado.
+22:08 - Formulário FrmRelHistoricoCaixa iniciado.
+22:24 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:24 - Formulário FrmRelCaixas foi finalizado.
+22:24 - Formulário FrmFecharCaixa iniciado.
+22:25 - Abert/Fech de Caixa cadastrada. Cod: 8 | Descrição: FECHAMENTO DE CAIXA
+22:25 - Formulário FrmFecharCaixa foi finalizado.
+22:25 - SISTEMA Seven - PDV foi finalizado.
+22:25 - SISTEMA Seven - Admnistração foi finalizado.
+22:26 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+22:26 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:26 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:26 - Formulário FrmRelCaixas iniciado.
+22:26 - Formulário FrmRelHistoricoCaixa iniciado.
+22:26 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:26 - Formulário FrmAbrirCaixa iniciado.
+22:26 - Abert/Fech de Caixa cadastrada. Cod: 9 | Descrição: ABERTURA DE CAIXA
+22:26 - Formulário FrmAbrirCaixa foi finalizado.
+22:26 - Formulário FrmRelHistoricoCaixa iniciado.
+22:28 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:28 - Formulário FrmRelCaixas foi finalizado.
+22:28 - Formulário FrmCadConsumidor iniciado.
+22:28 - Pesquisou consumidor.
+22:29 - Pesquisou consumidor.
+22:29 - Formulário FrmFormaPagamento iniciado.
+22:29 - Formulário FrmFormaPagamento foi finalizado.
+22:29 - Formulário FrmInformar iniciado.
+22:29 - Formulário FrmInformar foi finalizado.
+22:29 - Formulário FrmPesqCliente iniciado.
+22:29 - Pesquisou cliente.
+22:29 - Formulário FrmPesqCliente foi finalizado.
+22:29 - Formulário FrmFormaPagamento iniciado.
+22:30 - consumidor alterado. Cod: 6 | Nome/Razão Social: TESTE
+22:30 - Formulário FrmFormaPagamento foi finalizado.
+22:30 - Pesquisou consumidor.
+22:30 - Formulário FrmRelCaixas iniciado.
+22:30 - Formulário FrmRelHistoricoCaixa iniciado.
+22:31 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:31 - Formulário FrmRelFluxoCaixa iniciado.
+22:32 - Formulário FrmRelFluxoCaixa foi finalizado.
+22:32 - Formulário FrmRelHistoricoCaixa iniciado.
+22:36 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:36 - Formulário FrmRelCaixas foi finalizado.
+22:36 - Formulário FrmCadClieCons foi finalizado.
+22:36 - Formulário FrmRelVenda iniciado.
+22:43 - Formulário FrmRelVenda foi finalizado.
+22:43 - SISTEMA Seven - Admnistração foi finalizado.
+22:43 - SISTEMA Seven - PDV foi finalizado.
+22:43 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:43 - Formulário FrmRelCaixas iniciado.
+22:43 - Formulário FrmRelHistoricoCaixa iniciado.
+22:44 - Erro: Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 1, column 116 | Evento click do botão btnPesquisar.
+22:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:44 - Formulário FrmRelHistoricoCaixa iniciado.
+22:44 - Erro: Dynamic SQL Error
+SQL error code = -104
+Unexpected end of command - line 1, column 116 | Evento click do botão btnPesquisar.
+22:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:44 - Formulário FrmRelCaixas foi finalizado.
+22:44 - SISTEMA Seven - Admnistração foi finalizado.
+22:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:44 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:44 - Formulário FrmRelCaixas iniciado.
+22:44 - Formulário FrmRelHistoricoCaixa iniciado.
+22:44 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:44 - Formulário FrmRelHistoricoCaixa iniciado.
+22:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:45 - Formulário FrmRelCaixas foi finalizado.
+22:45 - Formulário FrmRelContaReceber iniciado.
+22:46 - Formulário FrmRelBaixaConta iniciado.
+22:46 - Formulário FrmRelBaixaConta foi finalizado.
+22:46 - Formulário FrmRelContaReceber foi finalizado.
+22:46 - Formulário FrmRelCaixas iniciado.
+22:46 - Formulário FrmRelHistoricoCaixa iniciado.
+22:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:46 - Formulário FrmRelHistoricoCaixa iniciado.
+22:47 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:47 - Formulário FrmRelCaixas foi finalizado.
+22:47 - Formulário FrmRelContaPagar iniciado.
+22:47 - Formulário FrmRelContaPagar foi finalizado.
+22:47 - Formulário FrmRelContaReceber iniciado.
+22:47 - Formulário FrmRelBaixaConta iniciado.
+22:48 - Formulário FrmRelBaixaConta foi finalizado.
+22:49 - Formulário FrmRelContaReceber foi finalizado.
+22:49 - Formulário FrmRelCaixas iniciado.
+22:49 - Formulário FrmRelHistoricoCaixa iniciado.
+22:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+22:54 - Formulário FrmRelCaixas foi finalizado.
+22:54 - SISTEMA Seven - Admnistração foi finalizado.
+22:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:54 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+22:54 - Formulário FrmRelCaixas iniciado.
+22:54 - Formulário FrmRelHistoricoCaixa iniciado.
+23:02 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:02 - Formulário FrmRelCaixas foi finalizado.
+23:02 - SISTEMA Seven - Admnistração foi finalizado.
+23:02 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:02 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:02 - Formulário FrmRelCaixas iniciado.
+23:02 - Formulário FrmRelHistoricoCaixa iniciado.
+23:02 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:02 - Formulário FrmRelFluxoCaixa iniciado.
+23:05 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:05 - Formulário FrmRelCaixas foi finalizado.
+23:05 - Formulário FrmRelFluxoCaixa iniciado.
+23:09 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:09 - Formulário FrmRelContaReceber iniciado.
+23:16 - Formulário FrmRelBaixaConta iniciado.
+23:23 - Formulário FrmRelBaixaConta foi finalizado.
+23:23 - Formulário FrmRelContaReceber foi finalizado.
+23:23 - SISTEMA Seven - Admnistração foi finalizado.
+23:24 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:25 - Formulário FrmFormaPagamento iniciado.
+23:25 - Formulário FrmFormaPagamento foi finalizado.
+23:25 - Formulário FrmInformar iniciado.
+23:26 - Formulário FrmInformar foi finalizado.
+23:26 - Formulário FrmPesqCliente iniciado.
+23:26 - Pesquisou cliente.
+23:26 - Formulário FrmPesqCliente foi finalizado.
+23:26 - Formulário FrmFormaPagamento iniciado.
+23:26 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:27 - Formulário FrmRelCaixas iniciado.
+23:27 - Formulário FrmRelCaixas foi finalizado.
+23:27 - Formulário FrmCadConsumidor iniciado.
+23:27 - Pesquisou consumidor.
+23:27 - Formulário FrmCadClieCons foi finalizado.
+23:27 - Formulário FrmFormaPagamento foi finalizado.
+23:27 - Formulário FrmCadConsumidor iniciado.
+23:27 - Pesquisou consumidor.
+23:28 - Formulário FrmRelContaReceber iniciado.
+23:28 - Formulário FrmRelBaixaConta iniciado.
+23:37 - Erro: Referência de objeto não definida para uma instância de um objeto. | Evento click do botão btnSalvar.
+23:37 - Formulário FrmRelBaixaConta foi finalizado.
+23:37 - Formulário FrmRelContaReceber foi finalizado.
+23:37 - Formulário FrmCadClieCons foi finalizado.
+23:37 - SISTEMA Seven - Admnistração foi finalizado.
+23:37 - SISTEMA Seven - PDV foi finalizado.
+23:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:37 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:38 - Formulário FrmRelContaReceber iniciado.
+23:38 - Formulário FrmRelBaixaConta iniciado.
+23:38 - Formulário FrmRelBaixaConta foi finalizado.
+23:38 - Formulário FrmRelContaReceber foi finalizado.
+23:38 - Formulário FrmCadConsumidor iniciado.
+23:38 - Pesquisou consumidor.
+23:38 - Formulário FrmCadClieCons foi finalizado.
+23:38 - Formulário FrmRelCaixas iniciado.
+23:38 - Formulário FrmRelFluxoCaixa iniciado.
+23:39 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:39 - Formulário FrmRelFluxoCaixa iniciado.
+23:39 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:39 - Formulário FrmRelFluxoCaixa iniciado.
+23:39 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:39 - Formulário FrmRelFluxoCaixa iniciado.
+23:40 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:40 - Formulário FrmRelCaixas foi finalizado.
+23:40 - Formulário FrmRelContaReceber iniciado.
+23:40 - Formulário FrmRelBaixaConta iniciado.
+23:41 - Formulário FrmRelBaixaConta foi finalizado.
+23:41 - Formulário FrmRelContaReceber foi finalizado.
+23:41 - Formulário FrmRelCaixas iniciado.
+23:41 - Formulário FrmRelFluxoCaixa iniciado.
+23:41 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:41 - Formulário FrmRelFluxoCaixa iniciado.
+23:41 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:41 - Formulário FrmRelHistoricoCaixa iniciado.
+23:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:42 - Formulário FrmRelCaixas foi finalizado.
+23:42 - Formulário FrmCadConsumidor iniciado.
+23:42 - Pesquisou consumidor.
+23:42 - Formulário FrmCadClieCons foi finalizado.
+23:45 - Formulário FrmRelContaReceber iniciado.
+23:45 - Formulário FrmRelContaReceber foi finalizado.
+23:45 - SISTEMA Seven - Admnistração foi finalizado.
+23:45 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:46 - Formulário FrmFormaPagamento iniciado.
+23:46 - Formulário FrmFormaPagamento foi finalizado.
+23:46 - Formulário FrmInformar iniciado.
+23:46 - Formulário FrmInformar foi finalizado.
+23:46 - Formulário FrmPesqCliente iniciado.
+23:46 - Pesquisou cliente.
+23:46 - Formulário FrmPesqCliente foi finalizado.
+23:46 - Formulário FrmFormaPagamento iniciado.
+23:46 - Formulário FrmTipoEntNotaPromissoria niciado.
+23:46 - Formulário FrmFormaPagamento foi finalizado.
+23:46 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:46 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+23:47 - Formulário FrmCadConsumidor iniciado.
+23:47 - Pesquisou consumidor.
+23:47 - Formulário FrmRelContaReceber iniciado.
+23:47 - Formulário FrmRelBaixaConta iniciado.
+23:48 - Formulário FrmRelBaixaConta foi finalizado.
+23:48 - Formulário FrmRelContaReceber foi finalizado.
+23:48 - Formulário FrmCadClieCons foi finalizado.
+23:48 - Formulário FrmRelCaixas iniciado.
+23:48 - Formulário FrmRelFluxoCaixa iniciado.
+23:49 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:49 - Formulário FrmRelHistoricoCaixa iniciado.
+23:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:51 - Formulário FrmRelCaixas foi finalizado.
+23:53 - Formulário FrmRelContaReceber iniciado.
+23:53 - Formulário FrmRelContaReceber foi finalizado.
+23:54 - Formulário FrmRelCaixas iniciado.
+23:54 - Formulário FrmRelFluxoCaixa iniciado.
+23:59 - Formulário FrmRelFluxoCaixa foi finalizado.
+23:59 - Formulário FrmRelHistoricoCaixa iniciado.
+23:59 - Formulário FrmRelHistoricoCaixa foi finalizado.
+23:59 - Formulário FrmFecharCaixa iniciado.
+23:59 - Abert/Fech de Caixa cadastrada. Cod: 9 | Descrição: FECHAMENTO DE CAIXA

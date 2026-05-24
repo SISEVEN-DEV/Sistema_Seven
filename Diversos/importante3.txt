@@ -1,0 +1,4 @@
+Avisar estoque minimo e máximo via email ou whatsapp ou sms.
+
+adicionar na lista de saídas as formas de pagamento que aquele produto saiu.
+em vendas, clientes.

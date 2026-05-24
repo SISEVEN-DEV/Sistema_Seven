@@ -1,0 +1,1 @@
+Colocar um procedimento que limpe pastas da pasta 7 sistema

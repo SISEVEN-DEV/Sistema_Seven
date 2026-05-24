@@ -1,0 +1,4 @@
+
+
+
+Quando o valor dos novos produtos é maior que o valor da venda a ser devolvida o sistema mantém a venda a ser devolvida e gera uma nova venda com o total da venda a ser devolvida mais novos produtos sendo que entra um valor de desconto que corresponde ao total da venda a ser devolvida.

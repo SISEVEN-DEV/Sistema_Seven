@@ -1,0 +1,1 @@
+update produtos set prec2prod=round(prec1prod+(prec1prod*7/100), 2);

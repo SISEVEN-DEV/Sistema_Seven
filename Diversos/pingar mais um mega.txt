@@ -1,0 +1,1 @@
+ping getway padrão -l 10480 -t

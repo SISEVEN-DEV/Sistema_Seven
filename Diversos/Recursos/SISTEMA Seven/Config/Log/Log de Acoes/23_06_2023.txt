@@ -1,0 +1,25 @@
+08:32 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:51 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:51 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:51 - Formulário FrmRelCaixas iniciado.
+08:51 - Formulário FrmRelCaixas foi finalizado.
+08:51 - Formulário FrmRelContaPagar iniciado.
+08:51 - Formulário FrmRelContaPagar foi finalizado.
+08:52 - Formulário FrmRelCliente iniciado.
+08:54 - Formulário FrmRelClieCons foi finalizado.
+08:54 - Formulário FrmCadConsumidor iniciado.
+08:54 - Pesquisou consumidor.
+08:54 - Formulário FrmCadClieCons foi finalizado.
+09:03 - SISTEMA Seven - Admnistração foi finalizado.
+09:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:13 - Formulário FrmRelCaixas iniciado.
+09:13 - Formulário FrmRelCaixas foi finalizado.
+09:13 - Formulário FrmRelCliente iniciado.
+09:13 - Formulário FrmRelClieCons foi finalizado.
+09:13 - Formulário FrmRelContaReceber iniciado.
+09:13 - Formulário FrmRelContaReceber foi finalizado.
+09:13 - Formulário FrmRelUsuario iniciado.
+09:13 - Formulário FrmRelUsuario foi finalizado.
+09:13 - SISTEMA Seven - Admnistração foi finalizado.

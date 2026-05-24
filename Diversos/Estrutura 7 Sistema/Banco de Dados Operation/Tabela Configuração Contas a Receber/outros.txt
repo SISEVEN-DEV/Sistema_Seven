@@ -1,0 +1,2 @@
+Contas a Receber, Permitir inserir data retroativa, permitir refazer desfazer conta por tempo indeterminado indeterminado,
+permitir dispensar juros e multas e ou descontos

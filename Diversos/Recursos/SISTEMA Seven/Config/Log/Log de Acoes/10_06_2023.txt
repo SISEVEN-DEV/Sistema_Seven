@@ -1,0 +1,223 @@
+08:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:42 - Formulário FrmFormaPagamento iniciado.
+08:42 - Formulário FrmValorCreditoLoja iniciado.
+08:43 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:43 - Formulário FrmRelVenda iniciado.
+08:45 - Formulário FrmRelVenda foi finalizado.
+08:45 - SISTEMA Seven - Admnistração foi finalizado.
+08:45 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:45 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:45 - SISTEMA Seven - PDV foi finalizado.
+08:45 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:46 - Formulário FrmFormaPagamento iniciado.
+08:46 - Formulário FrmValorCreditoLoja iniciado.
+08:50 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:50 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:50 - Formulário FrmConfiguracoes iniciado.
+08:54 - Formulário FrmMinhaEmpresa iniciado.
+08:54 - Formulário FrmImagemOpcoes iniciado.
+08:54 - Formulário FrmImagemOpcoes foi finalizado.
+08:54 - Minha Empresa alterada. Cod: 1 | Nome/Razão Social: ALEXANDRE FERNANDES DA COSTA SANCHES
+08:54 - Formulário FrmMinhaEmpresa foi finalizado.
+08:55 - SISTEMA Seven - Admnistração foi finalizado.
+08:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:55 - Formulário FrmRelVenda iniciado.
+08:55 - Formulário FrmRelVenda foi finalizado.
+08:55 - Formulário FrmRelVenda iniciado.
+08:56 - Formulário FrmRelVenda foi finalizado.
+08:56 - Formulário FrmRelCaixas iniciado.
+08:56 - Formulário FrmRelHistoricoCaixa iniciado.
+08:56 - Formulário FrmRelHistoricoCaixa foi finalizado.
+08:56 - Formulário FrmRelVenda iniciado.
+08:57 - Formulário FrmConsultarPagamento iniciado.
+08:57 - Formulário FrmConsultarPagamento foi finalizado.
+08:57 - Formulário FrmConsultarPagamento iniciado.
+08:57 - Formulário FrmConsultarPagamento foi finalizado.
+08:57 - Formulário FrmRelVenda foi finalizado.
+08:57 - Formulário FrmRelCaixas foi finalizado.
+08:57 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:57 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:57 - SISTEMA Seven - Admnistração foi finalizado.
+08:57 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:59 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+08:59 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+08:59 - Formulário FrmTipoConfConexao iniciado.
+08:59 - Formulário FrmLocalizarBanco iniciado.
+08:59 - Formulário FrmCadastroComputadores iniciado.
+08:59 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+09:00 - Formulário FrmFormaPagamento iniciado.
+09:00 - Formulário FrmInformar iniciado.
+09:00 - Formulário FrmInformar foi finalizado.
+09:00 - Formulário FrmPesqCliente iniciado.
+09:00 - Pesquisou cliente.
+09:00 - Formulário FrmPesqCliente foi finalizado.
+09:00 - Formulário FrmFormaPagamento iniciado.
+09:00 - Formulário FrmValorCreditoLoja iniciado.
+09:00 - Formulário FrmValorCreditoLoja iniciado.
+09:00 - Formulário FrmFormaPagamento iniciado.
+09:00 - Formulário FrmValorCreditoLoja iniciado.
+09:00 - Formulário FrmValorCreditoLoja iniciado.
+09:00 - Formulário FrmValorCreditoLoja iniciado.
+09:03 - Formulário FrmFormaPagamento iniciado.
+09:03 - SISTEMA Seven - PDV foi finalizado.
+09:04 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+09:04 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+09:04 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:05 - Formulário FrmFormaPagamento iniciado.
+09:05 - Formulário FrmValorCreditoLoja iniciado.
+09:05 - SISTEMA Seven - PDV foi finalizado.
+09:06 - Formulário FrmCadastroComputadores foi finalizado.
+09:06 - Formulário FrmLocalizarBanco foi finalizado.
+09:06 - Formulário FrmTipoConfConexao foi finalizado.
+09:06 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:06 - Formulário FrmFormaPagamento iniciado.
+09:06 - SISTEMA Seven - PDV foi finalizado.
+09:07 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:07 - Formulário FrmFormaPagamento iniciado.
+09:07 - Formulário FrmValorCreditoLoja iniciado.
+09:07 - Formulário FrmValorCreditoLoja iniciado.
+09:10 - Formulário FrmValorCreditoLoja iniciado.
+09:10 - Formulário FrmValorCreditoLoja iniciado.
+09:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:12 - Formulário FrmRelContaReceber iniciado.
+09:16 - Formulário FrmRelContaReceber foi finalizado.
+09:16 - Formulário FrmRelVenda iniciado.
+09:17 - Formulário FrmConsultarPagamento iniciado.
+09:17 - Formulário FrmConsultarPagamento foi finalizado.
+09:17 - Formulário FrmConsultarPagamento iniciado.
+09:17 - Formulário FrmConsultarPagamento foi finalizado.
+09:17 - Formulário FrmConsultarPagamento iniciado.
+09:19 - Formulário FrmConsultarPagamento foi finalizado.
+09:19 - Formulário FrmRelVenda foi finalizado.
+09:19 - SISTEMA Seven - PDV foi finalizado.
+09:19 - SISTEMA Seven - Admnistração foi finalizado.
+09:19 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:19 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:20 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:20 - Formulário FrmInformar iniciado.
+09:20 - Formulário FrmInformar foi finalizado.
+09:20 - Formulário FrmPesqCliente iniciado.
+09:20 - Pesquisou cliente.
+09:20 - Formulário FrmPesqCliente foi finalizado.
+09:20 - Formulário FrmFormaPagamento iniciado.
+09:20 - Formulário FrmValorCreditoLoja iniciado.
+09:24 - SISTEMA Seven - PDV foi finalizado.
+09:26 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:27 - Formulário FrmFormaPagamento iniciado.
+09:27 - Formulário FrmValorCreditoLoja iniciado.
+09:31 - Formulário FrmInformar iniciado.
+09:31 - Formulário FrmInformar foi finalizado.
+09:31 - Formulário FrmPesqCliente iniciado.
+09:31 - Pesquisou cliente.
+09:31 - Formulário FrmPesqCliente foi finalizado.
+09:40 - SISTEMA Seven - PDV foi finalizado.
+09:40 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:40 - Formulário FrmPesqProduto iniciado.
+09:40 - Pesquisou produto.
+09:40 - Formulário FrmPesqProduto foi finalizado.
+09:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:42 - SISTEMA Seven - PDV foi finalizado.
+09:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:42 - SISTEMA Seven - PDV foi finalizado.
+09:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:45 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:50 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:50 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+09:50 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+09:50 - Formulário FrmTipoConfConexao iniciado.
+09:51 - Formulário FrmConexoes iniciado.
+09:51 - Conexão cadastrada. Cod: 1 | Tipo de Conexao: LOCAL
+09:51 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:52 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:55 - Erro: I/O error for file "C:\"
+Error while trying to open file | Evento click do botão btnLogar.
+09:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:55 - Formulário FrmRelCaixas iniciado.
+09:55 - SISTEMA Seven - PDV foi finalizado.
+09:55 - SISTEMA Seven - PDV foi finalizado.
+09:56 - Formulário FrmFecharCaixa iniciado.
+09:56 - Abert/Fech de Caixa cadastrada. Cod: 81 | Descrição: FECHAMENTO DE CAIXA
+09:56 - Formulário FrmFecharCaixa foi finalizado.
+09:56 - Formulário FrmRelCaixas foi finalizado.
+09:56 - Formulário FrmRelCaixas iniciado.
+09:57 - Formulário FrmRelHistoricoCaixa iniciado.
+09:57 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:57 - Formulário FrmRelFluxoCaixa iniciado.
+09:57 - Formulário FrmRelFluxoCaixa foi finalizado.
+09:57 - Formulário FrmRelHistoricoCaixa iniciado.
+09:57 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:57 - Formulário FrmRelFluxoCaixa iniciado.
+09:57 - Formulário FrmInfImpressao iniciado.
+09:57 - Formulário FrmInfImpressao foi finalizado.
+09:57 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:06 - Formulário FrmRelCaixas foi finalizado.
+10:06 - Formulário FrmRelVenda iniciado.
+10:07 - Formulário FrmRelVenda foi finalizado.
+10:08 - Formulário FrmMinhaEmpresa iniciado.
+10:08 - Formulário FrmMinhaEmpresa foi finalizado.
+10:08 - Formulário FrmConfiguracoes iniciado.
+10:08 - Formulário FrmConfiguracoes iniciado.
+10:08 - SISTEMA Seven - Admnistração foi finalizado.
+10:08 - SISTEMA Seven - PDV foi finalizado.
+10:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:09 - Formulário FrmBackup iniciado.
+10:11 - Formulário FrmBackup foi finalizado.
+10:11 - SISTEMA Seven - Admnistração foi finalizado.
+10:11 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:11 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:11 - Formulário FrmBackup iniciado.
+10:12 - Formulário FrmBackup foi finalizado.
+10:12 - Formulário FrmConfiguracoes iniciado.
+10:30 - SISTEMA Seven - Admnistração foi finalizado.
+10:32 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:32 - SISTEMA Seven - Admnistração foi finalizado.
+10:32 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:33 - Formulário FrmRelFluxoCaixa iniciado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Formulário FrmInfImpressao iniciado.
+10:33 - Formulário FrmInfImpressao foi finalizado.
+10:33 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Relatorios\86106981574\Fluxo de Caixa\Fluxo de Caixa.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   em PdfSharp.Pdf.PdfDocument.Save(String path)
+   em Seven_Sistema.FrmRelFluxoCaixa.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelFluxoCaixa.cs:linha 1516
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:33 - Formulário FrmRelFluxoCaixa foi finalizado.
+10:34 - Formulário FrmRelDevolucao iniciado.
+10:34 - Formulário FrmInfImpressao iniciado.
+10:34 - Formulário FrmInfImpressao foi finalizado.
+10:39 - Formulário FrmRelDevolucao foi finalizado.
+10:40 - Formulário FrmBackup iniciado.
+10:40 - Formulário FrmBackup foi finalizado.
+10:40 - Formulário FrmConfiguracoes iniciado.
+10:40 - Formulário FrmMinhaEmpresa iniciado.
+10:40 - Formulário FrmMinhaEmpresa foi finalizado.
+10:41 - Formulário FrmRelCaixas iniciado.
+10:41 - Formulário FrmInfImpressao iniciado.
+10:41 - Formulário FrmInfImpressao foi finalizado.
+10:41 - Formulário FrmRelCaixas foi finalizado.
+10:42 - Formulário FrmRelCliente iniciado.
+10:42 - Formulário FrmDocumentos iniciado.
+10:43 - Formulário FrmRelContaReceber iniciado.
+10:43 - Formulário FrmArquivos foi finalizado.
+10:44 - Arquivo salvo.
+10:44 - Formulário FrmRelContaReceber iniciado.
+10:44 - Formulário FrmArquivos foi finalizado.
+10:44 - Formulário FrmDocumentos foi finalizado.
+10:45 - Formulário FrmRelClieCons foi finalizado.
+10:45 - SISTEMA Seven - Admnistração foi finalizado.
+10:46 - Formulário FrmConexoes foi finalizado.
+10:46 - Formulário FrmTipoConfConexao foi finalizado.

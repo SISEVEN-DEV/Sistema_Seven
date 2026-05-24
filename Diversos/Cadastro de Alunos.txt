@@ -1,0 +1,25 @@
+Código
+Matrícula
+Nome
+Situação do aluno
+Data de nascimento
+CPF
+RG
+Sexo
+Telefone
+Celular
+Celular(2)
+Email
+Numero
+Endereço
+Complemento
+Bairro
+UF
+Cidade
+CEP
+Responsável
+Cod. da Indicação
+Nome da Indicação
+Cod. da Turma
+Nome da Turma
+Observações

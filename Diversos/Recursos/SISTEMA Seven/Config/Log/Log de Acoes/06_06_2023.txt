@@ -1,0 +1,247 @@
+08:40 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:40 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:41 - Formulário FrmRelCaixas iniciado.
+08:42 - Formulário FrmRelCaixas foi finalizado.
+08:42 - SISTEMA Seven - Admnistração foi finalizado.
+08:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:42 - Formulário FrmDevolucao iniciado.
+08:42 - Formulário FrmDevolucao foi finalizado.
+08:43 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:43 - Formulário FrmRelCaixas iniciado.
+08:44 - Formulário FrmRelCaixas foi finalizado.
+08:44 - SISTEMA Seven - Admnistração foi finalizado.
+08:48 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:48 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:48 - SISTEMA Seven - Admnistração foi finalizado.
+08:48 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:55 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:55 - Formulário FrmFecharCaixa iniciado.
+08:56 - Abert/Fech de Caixa cadastrada. Cod: 64 | Descrição: FECHAMENTO DE CAIXA
+08:56 - Formulário FrmInfImpressao iniciado.
+08:56 - Formulário FrmInfImpressao foi finalizado.
+08:56 - Formulário FrmFecharCaixa foi finalizado.
+08:57 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:57 - Formulário FrmAbrirCaixa iniciado.
+08:57 - Abert/Fech de Caixa cadastrada. Cod: 33 | Descrição: ABERTURA DE CAIXA
+08:57 - Formulário FrmAbrirCaixa foi finalizado.
+08:57 - Formulário FrmFecharCaixa iniciado.
+08:57 - Abert/Fech de Caixa cadastrada. Cod: 65 | Descrição: FECHAMENTO DE CAIXA
+08:57 - Formulário FrmInfImpressao iniciado.
+08:58 - Formulário FrmInfImpressao foi finalizado.
+08:58 - Formulário FrmInfImpressao iniciado.
+08:58 - Formulário FrmInfImpressao foi finalizado.
+08:58 - Formulário FrmFecharCaixa foi finalizado.
+08:59 - Formulário FrmAbrirCaixa iniciado.
+08:59 - Abert/Fech de Caixa cadastrada. Cod: 35 | Descrição: ABERTURA DE CAIXA
+08:59 - Formulário FrmAbrirCaixa foi finalizado.
+08:59 - Formulário FrmRelHistoricoCaixa iniciado.
+09:00 - Formulário FrmInfImpressao iniciado.
+09:00 - Formulário FrmInfImpressao foi finalizado.
+09:00 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:00 - Formulário FrmFecharCaixa iniciado.
+09:00 - Abert/Fech de Caixa cadastrada. Cod: 66 | Descrição: FECHAMENTO DE CAIXA
+09:00 - Formulário FrmInfImpressao iniciado.
+09:01 - Formulário FrmInfImpressao foi finalizado.
+09:01 - Formulário FrmFecharCaixa foi finalizado.
+09:02 - Formulário FrmAbrirCaixa iniciado.
+09:02 - Abert/Fech de Caixa cadastrada. Cod: 36 | Descrição: ABERTURA DE CAIXA
+09:02 - Formulário FrmAbrirCaixa foi finalizado.
+09:02 - Formulário FrmFecharCaixa iniciado.
+09:33 - Formulário FrmFecharCaixa foi finalizado.
+09:33 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:33 - Formulário FrmFecharCaixa iniciado.
+09:33 - Abert/Fech de Caixa cadastrada. Cod: 67 | Descrição: FECHAMENTO DE CAIXA
+09:33 - Formulário FrmRelHistoricoCaixa iniciado.
+09:36 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:36 - Formulário FrmFecharCaixa foi finalizado.
+09:36 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:36 - Formulário FrmAbrirCaixa iniciado.
+09:36 - Abert/Fech de Caixa cadastrada. Cod: 37 | Descrição: ABERTURA DE CAIXA
+09:36 - Formulário FrmAbrirCaixa foi finalizado.
+09:36 - Formulário FrmFecharCaixa iniciado.
+09:36 - Abert/Fech de Caixa cadastrada. Cod: 68 | Descrição: FECHAMENTO DE CAIXA
+09:36 - Formulário FrmRelHistoricoCaixa iniciado.
+09:42 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:42 - Formulário FrmFecharCaixa foi finalizado.
+09:43 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:43 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:49 - Formulário FrmRelHistoricoCaixa iniciado.
+09:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+09:49 - SISTEMA Seven - Admnistração foi finalizado.
+09:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:01 - Formulário FrmAbrirCaixa iniciado.
+10:01 - Abert/Fech de Caixa cadastrada. Cod: 38 | Descrição: ABERTURA DE CAIXA
+10:01 - Formulário FrmAbrirCaixa foi finalizado.
+10:01 - Formulário FrmFecharCaixa iniciado.
+10:01 - Abert/Fech de Caixa cadastrada. Cod: 69 | Descrição: FECHAMENTO DE CAIXA
+10:03 - Formulário FrmFecharCaixa foi finalizado.
+10:04 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:04 - Formulário FrmAbrirCaixa iniciado.
+10:05 - Abert/Fech de Caixa cadastrada. Cod: 39 | Descrição: ABERTURA DE CAIXA
+10:05 - Formulário FrmAbrirCaixa foi finalizado.
+10:05 - Formulário FrmFecharCaixa iniciado.
+10:05 - Abert/Fech de Caixa cadastrada. Cod: 70 | Descrição: FECHAMENTO DE CAIXA
+10:06 - Formulário FrmRelHistoricoCaixa iniciado.
+10:06 - Formulário FrmInfImpressao iniciado.
+10:06 - Formulário FrmInfImpressao foi finalizado.
+10:07 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:07 - Formulário FrmFecharCaixa foi finalizado.
+10:08 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:08 - Formulário FrmAbrirCaixa iniciado.
+10:08 - Abert/Fech de Caixa cadastrada. Cod: 40 | Descrição: ABERTURA DE CAIXA
+10:08 - Formulário FrmAbrirCaixa foi finalizado.
+10:08 - Formulário FrmFecharCaixa iniciado.
+10:08 - Abert/Fech de Caixa cadastrada. Cod: 71 | Descrição: FECHAMENTO DE CAIXA
+10:09 - Formulário FrmRelHistoricoCaixa iniciado.
+10:09 - Formulário FrmInfImpressao iniciado.
+10:09 - Formulário FrmInfImpressao foi finalizado.
+10:10 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:10 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:10 - Formulário FrmRelHistoricoCaixa iniciado.
+10:10 - Formulário FrmPesqComputadorPDV iniciado.
+10:10 - Formulário FrmPesqComputadorPDV foi finalizado.
+10:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:10 - SISTEMA Seven - Admnistração foi finalizado.
+10:10 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:10 - Formulário FrmFecharCaixa foi finalizado.
+10:18 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:18 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:18 - SISTEMA Seven - Admnistração foi finalizado.
+10:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:21 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:21 - SISTEMA Seven - Admnistração foi finalizado.
+10:21 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:21 - Formulário FrmAbrirCaixa iniciado.
+10:22 - Abert/Fech de Caixa cadastrada. Cod: 41 | Descrição: ABERTURA DE CAIXA
+10:22 - Formulário FrmAbrirCaixa foi finalizado.
+10:22 - Formulário FrmFecharCaixa iniciado.
+10:22 - Abert/Fech de Caixa cadastrada. Cod: 72 | Descrição: FECHAMENTO DE CAIXA
+10:22 - Formulário FrmFecharCaixa foi finalizado.
+10:23 - Formulário FrmAbrirCaixa iniciado.
+10:23 - Abert/Fech de Caixa cadastrada. Cod: 42 | Descrição: ABERTURA DE CAIXA
+10:23 - Formulário FrmAbrirCaixa foi finalizado.
+10:24 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:25 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:25 - Formulário FrmFecharCaixa iniciado.
+10:25 - Abert/Fech de Caixa cadastrada. Cod: 73 | Descrição: FECHAMENTO DE CAIXA
+10:25 - Formulário FrmRelHistoricoCaixa iniciado.
+10:26 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:26 - Formulário FrmFecharCaixa foi finalizado.
+10:27 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:27 - Formulário FrmAbrirCaixa iniciado.
+10:27 - Abert/Fech de Caixa cadastrada. Cod: 43 | Descrição: ABERTURA DE CAIXA
+10:27 - Formulário FrmAbrirCaixa foi finalizado.
+10:27 - Formulário FrmFecharCaixa iniciado.
+10:27 - Abert/Fech de Caixa cadastrada. Cod: 74 | Descrição: FECHAMENTO DE CAIXA
+10:27 - Formulário FrmRelHistoricoCaixa iniciado.
+10:39 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:39 - Formulário FrmFecharCaixa foi finalizado.
+10:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:40 - Formulário FrmAbrirCaixa iniciado.
+10:40 - Abert/Fech de Caixa cadastrada. Cod: 44 | Descrição: ABERTURA DE CAIXA
+10:40 - Formulário FrmAbrirCaixa foi finalizado.
+10:40 - Formulário FrmFecharCaixa iniciado.
+10:40 - Abert/Fech de Caixa cadastrada. Cod: 75 | Descrição: FECHAMENTO DE CAIXA
+10:40 - Formulário FrmRelHistoricoCaixa iniciado.
+10:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:41 - Formulário FrmFecharCaixa foi finalizado.
+10:42 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:42 - Formulário FrmAbrirCaixa iniciado.
+10:42 - Abert/Fech de Caixa cadastrada. Cod: 45 | Descrição: ABERTURA DE CAIXA
+10:42 - Formulário FrmAbrirCaixa foi finalizado.
+10:42 - Formulário FrmFecharCaixa iniciado.
+10:42 - Abert/Fech de Caixa cadastrada. Cod: 76 | Descrição: FECHAMENTO DE CAIXA
+10:42 - Formulário FrmRelHistoricoCaixa iniciado.
+10:43 - Formulário FrmPesqUsuario iniciado.
+10:43 - Pesquisou usuário.
+10:43 - Formulário FrmPesqUsuario foi finalizado.
+10:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:44 - Formulário FrmFecharCaixa foi finalizado.
+10:44 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:44 - Formulário FrmAbrirCaixa iniciado.
+10:48 - Formulário FrmAbrirCaixa foi finalizado.
+10:51 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:51 - Formulário FrmAbrirCaixa iniciado.
+10:51 - Formulário FrmAbrirCaixa foi finalizado.
+10:51 - Formulário FrmAbrirCaixa iniciado.
+10:51 - Abert/Fech de Caixa cadastrada. Cod: 46 | Descrição: ABERTURA DE CAIXA
+10:51 - Formulário FrmAbrirCaixa foi finalizado.
+10:51 - Formulário FrmFecharCaixa iniciado.
+10:52 - Formulário FrmFecharCaixa foi finalizado.
+10:52 - Formulário FrmFecharCaixa iniciado.
+10:52 - Formulário FrmFecharCaixa foi finalizado.
+10:52 - Formulário FrmFecharCaixa iniciado.
+10:52 - Abert/Fech de Caixa cadastrada. Cod: 77 | Descrição: FECHAMENTO DE CAIXA
+10:52 - Formulário FrmRelHistoricoCaixa iniciado.
+10:53 - Formulário FrmInfImpressao iniciado.
+10:53 - Formulário FrmInfImpressao foi finalizado.
+10:53 - Formulário FrmInfImpressao iniciado.
+10:53 - Formulário FrmInfImpressao foi finalizado.
+10:54 - Formulário FrmInfImpressao iniciado.
+10:54 - Formulário FrmInfImpressao foi finalizado.
+10:54 - Formulário FrmPesqUsuario iniciado.
+10:54 - Pesquisou usuário.
+10:55 - Formulário FrmPesqUsuario foi finalizado.
+10:55 - Formulário FrmRelHistoricoCaixa foi finalizado.
+10:57 - Formulário FrmFecharCaixa foi finalizado.
+11:04 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:05 - Formulário FrmAbrirCaixa iniciado.
+11:05 - Abert/Fech de Caixa cadastrada. Cod: 47 | Descrição: ABERTURA DE CAIXA
+11:05 - Formulário FrmAbrirCaixa foi finalizado.
+11:05 - Formulário FrmFecharCaixa iniciado.
+11:05 - Formulário FrmFecharCaixa foi finalizado.
+11:05 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+11:06 - Formulário FrmFecharCaixa iniciado.
+11:06 - Formulário FrmFecharCaixa foi finalizado.
+14:11 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:15 - Formulário FrmCadProduto iniciado.
+14:15 - Pesquisou produto.
+14:15 - Formulário FrmCadProduto foi finalizado.
+15:16 - Formulário FrmDevolucao iniciado.
+15:16 - Formulário FrmDevolucao foi finalizado.
+15:17 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:18 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:18 - Formulário FrmRelRegistroAtividade iniciado.
+15:18 - Pesquisou registro de atividades.
+15:23 - Formulário FrmRelRegistroAtividade foi finalizado.
+15:23 - SISTEMA Seven - Admnistração foi finalizado.
+15:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:24 - SISTEMA Seven - Admnistração foi finalizado.
+15:24 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:24 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:36 - Formulário FrmRelProduto iniciado.
+15:36 - Pesquisou produto.
+15:37 - Pesquisou produto.
+15:37 - Formulário FrmRelProduto foi finalizado.
+15:39 - Formulário FrmRelHistoricoCaixa iniciado.
+15:39 - Formulário FrmRelHistoricoCaixa foi finalizado.
+15:39 - Formulário FrmRelCaixas iniciado.
+15:39 - Formulário FrmRelCaixas foi finalizado.
+15:39 - Formulário FrmRelCliente iniciado.
+15:39 - Formulário FrmRelClieCons foi finalizado.
+15:39 - Formulário FrmRelContaPagar iniciado.
+15:39 - Formulário FrmRelContaPagar foi finalizado.
+15:39 - Formulário FrmRelContaReceber iniciado.
+15:39 - Formulário FrmRelContaReceber foi finalizado.
+15:39 - Formulário FrmRelProduto iniciado.
+15:39 - Formulário FrmRelProduto foi finalizado.
+15:39 - Formulário FrmRelOrcamento iniciado.
+15:46 - Formulário FrmRelOrcamento foi finalizado.
+15:46 - SISTEMA Seven - Admnistração foi finalizado.
+15:46 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:46 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:47 - Formulário FrmRelOrcamento iniciado.
+15:47 - Formulário FrmRelOrcamento foi finalizado.
+15:47 - SISTEMA Seven - Admnistração foi finalizado.
+15:47 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:47 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:47 - Formulário FrmRelVenda iniciado.
+15:47 - Formulário FrmRelVenda foi finalizado.
+15:50 - SISTEMA Seven - Admnistração foi finalizado.
+15:51 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:52 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:58 - SISTEMA Seven - Admnistração foi finalizado.

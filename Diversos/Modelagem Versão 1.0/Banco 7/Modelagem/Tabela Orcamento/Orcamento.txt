@@ -1,0 +1,40 @@
+ID_ORCAMENTO              INTEGER       NOT NULL PK AI
+ID_CLIENTE                INTEGER       NOT NULL
+NOME_CLIENTE              VARCHAR(60)
+ID_FUNCIONARIO            SMALLINT      NOT NULL FK
+NOME_FUNCIONARIO          VARCHAR(60)   NOT NULL
+DATA		          DATE          NOT NULL
+VALIDADE                  DATE
+OBSERVACAO                VARCHAR(400)
+VALOR_TOTAL_PRODUTOS      DECIMAL(15,2) NOT NULL
+VALOR_TOTAL_ORCAMENTO     DECIMAL(15,2) NOT NULL
+VALOR_DESCONTO		  DECIMAL(15,2) NOT NULL
+DESCONTO_PORC	          DECIMAL(15,2) NOT NULL
+VALOR_ACRESCIMO           DECIMAL(15,2) NOT NULL
+ACRESCIMO_PORC            DECIMAL(15,2) NOT NULL
+TROCO                     DECIMAL(15,2) NOT NULL
+VALOR_TOTAL_PAGO	  DECIMAL(15,2) NOT NULL
+HORA			  TIME 		NOT NULL
+
+create table orcamento (
+    id_orcamento           integer not null,
+    id_cliente             integer not null,
+    nome_cliente           varchar(60),
+    id_funcionario         smallint not null,
+    nome_funcionario       varchar(60) not null,
+    data                   date not null,
+    validade               date,
+    observacao             varchar(400),
+    valor_total_produtos   decimal(15,2) not null,
+    valor_total_orcamento  decimal(15,2) not null,
+    valor_desconto         decimal(15,2) not null,
+    desconto_porc          decimal(15,2) not null,
+    valor_acrescimo        decimal(15,2) not null,
+    acrescimo_porc         decimal(15,2) not null,
+    troco                  decimal(15,2) not null,
+    valor_total_pago       decimal(15,2) not null,
+    hora                   time not null
+);
+
+alter table orcamento add constraint pk_orcamento primary key (id_orcamento);
+alter table orcamento add constraint fk_orcamento_1 foreign key (id_funcionario) references funcionario (id_funcionario);

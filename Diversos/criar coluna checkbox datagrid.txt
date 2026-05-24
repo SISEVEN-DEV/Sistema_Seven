@@ -1,0 +1,4 @@
+DataColumn dtCol = new DataColumn();            
+            dtCol.DataType = typeof(bool);
+            dtCol.ColumnName = "chk";            
+            DtVenda.Columns.Add(dtCol);

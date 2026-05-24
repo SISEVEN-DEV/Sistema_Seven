@@ -1,0 +1,7 @@
+atualizações dos arquivos do sistema 
+
+
+1- Tabela IBPT - A atualização da tabela ibpt funciona apenas alterando o arquivo presente na pasta do servidor "/sistema_seven/atualizacao/2_ibpt". Se o usuário contiver em 
+seu banco de dados na tabela versão, no campo "tabela_ibpt" um nome diferente do arquivo presente no servidor na pasta "/sistema_seven/atualizacao/2_ibpt" um aviso de download
+de atualização será emitido pelo sistema e/ou o usuário ficará com uma atualização pendente onde ao baixar essa arquivo de atualização vindo do servidor, o próprio sistema
+pelo lado do cliente irá fazer as inserções do conteúdo desse arquivo. Arquivo do tipo sql.

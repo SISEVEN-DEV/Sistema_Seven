@@ -1,0 +1,135 @@
+https://blog.contaazul.com/como-calcular-a-margem-de-lucro
+
+Definição de margem de lucro de um produto ou serviço
+Basicamente, o lucro é a diferença entre o faturamento obtido com as vendas de um produto ou serviço e os custos de execução do trabalho (a fórmula para calcular é: lucro bruto = receitas totais – custos). 
+
+A margem de lucro bruta é um valor percentual obtido da relação entre o lucro bruto e a receita total (a fórmula é: margem de lucro = lucro bruto / receitas totais).
+
+Vamos a um exemplo prático da área de TI para facilitar: seu cliente precisou da atualização de um software e digamos que esse serviço custe R$200,00. E os gastos diretos com transporte, licença e mão de obra somem, digamos, R$120,00 — lembrando que entram nessa lista, se for o caso, despesas com peças, materiais auxiliares, alimentação, entre outros itens ligados diretamente ao atendimento. Fazendo as contas, chegamos a um lucro de R$80,00 neste serviço.
+
+Para calcular o lucro de um determinado período, o esquema é o mesmo. Você vai somar todo o faturamento e, desse total, tirar tudo o que foi gasto para realizar os serviços. O que sobrar será o lucro do período. A partir dessa informação, o empreendedor já consegue ter uma boa noção de como anda o negócio. Mas há ainda mais uma conta a ser feita, a da porcentagem de lucro, que dará um desenho mais exato da situação da empresa.
+
+O cálculo da margem de lucro é feito a partir de uma fórmula simples: divida o lucro pela receita total e multiplique o resultado por 100. Para ajudar, vamos dar um exemplo de uma empresa que faturou R$ 20 mil em um mês e teve custos de R$ 13 mil no mesmo período.
+
+Receita total: R$20.000
+
+Custos: R$13.000
+
+Lucro: R$20.000 - R$13.000 = R$7.000
+
+Margem de lucro: R$7.000/R$20.000 = 0.35 x 100 = 35%
+
+Pelos cálculos, a margem de lucro da empresa foi de 35%. Esse é, portanto, o número que o empresário deve fornecer a um investidor ou banco, quando for questionado sobre a lucratividade. Informar apenas o lucro em reais não é suficiente por não dar uma dimensão tão precisa do cenário da empresa. Os R$7 mil sobre R$20 mil de receita do nosso exemplo mostram uma situação bem mais confortável do que uma outra empresa que obtivesse os mesmos R$7 mil com receita de R$100 mil (portanto, custos de R$93 mil e margem de 7%).
+
+Margem de lucro bruta x margem de lucro líquida
+Até agora, explicamos como calcular a margem de lucro bruta. Um outro dado relevante é a margem líquida. A diferença é que, neste caso, além dos custos para a execução dos serviços, é necessário abater também:
+
+Impostos sobre faturamento;
+
+Tributação e encargos sobre folha e outros;
+
+Aluguel ou manutenção da sede;
+
+Telefone, água, luz, Internet etc.;
+
+Despesas com pessoal administrativo
+
+Em outras palavras, o lucro líquido de um serviço ou de um produto é obtido a partir do lucro bruto, menos tributação e despesas fixas e variáveis. Para a margem líquida, divida esse valor pelo total da receita. O cálculo é quase igual: Margem líquida = Lucro líquido após os impostos / Receita total x 100.
+
+Vamos novamente a um exemplo de serviço de TI:
+
+Receita total: R$20.000
+
+Custos de execução dos serviços: R$13.000
+
+Impostos: R$1.000
+
+Despesas fixas e variáveis: R$2.000
+
+Lucro líquido: R$20.000 - R$13.000 - R$1.000 - R$2.000 = R$4.000
+
+Margem de lucro líquido: R$4.000/R$20.000 = 0,20 x 100 = 20%
+
+Margem de lucro operacional
+Existe também outra forma de pensar no lucro, com base nas despesas operacionais, que impactam essa margem. Por isso, a chamada margem de lucro operacional é calculada subtraindo, da receita total, todas as despesas comerciais. 
+
+Você sabe como é obtido o lucro operacional?
+Despesas comerciais são aquelas relativas ao funcionamento do negócio, da operação. Nela entram bem mais do que os custos referentes à produção, mas até a própria depreciação pode ser levada em conta.
+
+Assim, dilui-se no montante os custos de fabricação, as despesas administrativas e demais inerentes ao negócio, além da amortização, que é a perda de valor de algum bem ou de algo intangível, mas que impacta a empresa.
+
+Aplicando ao exemplo, imagine que houve uma despesa operacional de R $1.000,00, além dos valores de execução dos serviços. Deduzindo da receita total, de R$ 20.000,00, esse valor mais os custos de R$13.000,00 e os impostos, temos R$ R$5.000,00. Para chegar ao lucro operacional, precisamos dividir esse valor pela receita total, tendo algo como 0,25.
+
+Multiplicando por 100, chegamos à porcentagem de 25%.
+
+Por que calcular margem de lucro?
+Com a margem líquida, você pode identificar quanto realmente sobra do preço cobrado. Saber que, a cada R$100 que entram de receita no caixa, R$80 são usados para pagar todos os custos e sobram R$20 pode ajudar você a avaliar a saúde financeira do negócio.
+
+Não se engane olhando apenas para os números de faturamento. Antes de tomar decisões, investigue mais, faça essas contas e tenha um desenho mais preciso. 
+
+Infelizmente, muitos empresários se concentram apenas nos números das vendas, sem se atentarem aos custos e seus impactos para as finanças.
+
+A porcentagem de lucro ideal para cada empresa depende de uma série de fatores, entre eles o tipo de atuação. 
+
+Especialistas afirmam que para as empresas de serviços o ideal é trabalhar com uma margem a partir de 20%, bem superior aos 8% da indústria, que possui algumas variáveis mais específicas. 
+
+Ainda assim, a receita por cliente ou contrato e o volume total de faturamento são levados em conta na hora de definir o patamar saudável.
+
+Como saber se sua margem de lucro é boa? 
+A questão da margem de lucro é algo que varia muito de empresa para empresa. Por isso, o que é considerado uma margem de lucro boa para algumas, pode não ser para outras. Tudo deve estar atrelado aos objetivos de cada negócio, e a seu planejamento estratégico.
+
+Nesse sentido, uma pergunta que muitas empresas fazem é: existe margem de lucro ideal? Não necessariamente. Para saber como calcular uma venda e descobrir se a margem foi boa, é preciso pensar mais amplo.
+
+Uma empresa pode decidir diminuir sua margem, por exemplo, se estiver passando por um mau período e precisar aumentar a competitividade. Quando o mercado está oportuno, ela pode aumentar essa margem, segundo a lei da oferta e procura.
+
+Portanto, não existe “margem de lucro ideal” para todas as empresas. Existe margem de lucro ideal para cada momento, de acordo com cada empresa.
+
+4 dicas para estabelecer a margem de lucro ideal
+Agora que você entendeu tudo isso, é hora de conhecer algumas dicas para estabelecer a sua margem de lucro ideal. Para saber como calcular lucro de uma venda e se ele será o suficiente para você, é importante se basear nelas.
+
+Veja a seguir os conselhos que preparamos:
+
+1. Precifique adequadamente
+Pense no tipo de empresa que você tem e em seu segmento de mercado. Pode ser que você venda produtos em maior volume e por isso consiga lucrar por quantidade.
+
+Se esse for o caso, sua margem de lucro por unidade pode até não ser alta, mas o montante valerá a pena.
+
+Por essa razão, compare sempre com os concorrentes e veja se, de acordo com seu ramo,você está sabendo precificar adequadamente os itens.
+
+2. Planeje custos e despesas
+Outra coisa importante: jamais precifique um produto de acordo com o quanto você “quer” ou acha que deve ganhar, mas tenha consciência desse preço com base nos custos e despesas que sua empresa possui também.
+
+Pense na mão-de-obra e na quantidade de horas que seus colaboradores empregam para a produção ou execução do trabalho.
+
+Tudo isso deve ser levado em consideração no momento de montar o seu preço, que inclusive pode ser maior, desde que seu produto tenha algum diferencial.
+
+3. Não foque no lucro, foque na margem de lucro
+Essa dica se refere a precificar seu item também de acordo com a demanda que ele tem no mercado. Produtos recorrentes podem custar mais barato e oferecer uma margem de lucro unitária menor, mas o que vale é o fim do mês.
+
+Pense na margem de lucro global e na possibilidade de conquistar mais mercado como um todo. Vale ressaltar que um bom ERP auxilia muito a empresa em seus desafios de organização, gestão do financeiro e da empresa como um todo.
+
+Isso porque, algo que contribui muito para entender qual a margem de lucro melhor para o negócio é colocar em ordem sua contabilidade. Desse modo, sem achismos, você consegue enxergar o quanto entra e o quanto sai de dinheiro em sua empresa, definindo melhores objetivos e formas de precificar equilibrar as contas para ela.
+
+4. Margem de lucro nas receitas recorrentes 
+Por último, pense em segurança para o seu negócio. Isso pode significar trabalhar com modelos inovadores, que criem maior fidelização e previsibilidade de receita.
+
+É o caso justamente das receitas recorrentes, que consistem em vender um produto ou serviço com repetição. O cliente não compra um produto, mas um “pacote”, que lhe oferece todo mês ou periodicamente o serviço.
+
+Para ele, a vantagem às vezes é ganhar tempo e comodidade. Para a empresa, por outro lado, significa ter menor índice de inadimplência ou vulnerabilidade. 
+
+Pode sair muito mais fácil conquistar clientes recorrentes do que correr atrás de uma meta x por mês, todos os meses. Consequentemente, ela tem maior garantia de faturamento e melhoria da margem de lucro. Cabe lembrar que isso ajuda a empresa inclusive a passar com um pouco mais de tranquilidade por momentos de crise.
+
+Com fôlego para comercializar uma quantidade frequente e maior de produtos, ela aumenta o quanto lucra no geral. 
+
+Depois do lucro, a rentabilidade por cliente
+No caso de empresas prestadoras de serviço, depois de identificar a margem de lucro, você precisa fazer uma análise mais precisa sobre cada cliente. Isso porque é fundamental identificar se há algum contrato rendendo mais ou menos do que a média, puxando a lucratividade para baixo, exigindo muitos recursos da empresa e sugando energia sem o devido retorno.
+
+Em uma análise superficial seria elenca custos, receitas e margens de lucro para cada um dos clientes, dividindo igualmente entre eles as despesas fixas e variáveis mais gerais. O problema dessa abordagem é que ela não leva em conta algumas particularidades de cada contrato.
+
+Fazendo assim, você não estaria considerando o volume de demandas separadamente, pois algum dos clientes pode demandar muito mais trabalho do que os outros. Vamos supor que você tem quatro clientes e, para cada um, distribuirá 25% das despesas gerais. Eventualmente, um cliente pode consumir 50% ou 60% da estrutura, e essa diferença fica escondida pela análise mais rasa.
+
+A forma mais correta de fazer a análise dos clientes é calculando separadamente os recursos utilizados. Assim, você pode distribuir melhor os esforços e conseguir atender melhor aqueles que considerar mais importantes.
+
+A ideia é que vale a pena cuidar de detalhes da análise para ter um panorama mais preciso da realidade financeira da empresa e conseguir fazer o negócio dar certo! Lucratividade e rentabilidade são maneiras básicas mas importantes para avançar nesse tipo de decisão.
+
+Se tiver dificuldades para calcular essas margens, vale a pena conversar com o contador. Por ter acesso a várias informações financeiras de seu negócio, a assessoria contábil tem condições de apoiar sua análise, considerando particularidades de sua atividade.

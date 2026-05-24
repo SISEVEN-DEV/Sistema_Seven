@@ -1,0 +1,166 @@
+20:49 - SISTEMA Seven - Admnistração foi finalizado.
+21:05 - SISTEMA Seven - Admnistração foi finalizado.
+21:06 - SISTEMA Seven - Admnistração foi finalizado.
+21:07 - SISTEMA Seven - Admnistração foi finalizado.
+21:08 - SISTEMA Seven - Admnistração foi finalizado.
+21:10 - SISTEMA Seven - Admnistração foi finalizado.
+21:19 - SISTEMA Seven - Admnistração foi finalizado.
+21:20 - SISTEMA Seven - Admnistração foi finalizado.
+21:27 - SISTEMA Seven - Admnistração foi finalizado.
+21:55 - Formulário FrmBackup iniciado.
+21:55 - Formulário FrmBackup foi finalizado.
+21:55 - SISTEMA Seven - Admnistração foi finalizado.
+21:57 - Formulário FrmBackup iniciado.
+21:57 - Formulário FrmBackup foi finalizado.
+21:57 - SISTEMA Seven - Admnistração foi finalizado.
+21:57 - Formulário FrmBackup iniciado.
+21:59 - Formulário FrmBackup foi finalizado.
+21:59 - SISTEMA Seven - Admnistração foi finalizado.
+22:00 - Formulário FrmBackup iniciado.
+22:00 - Formulário FrmBackup foi finalizado.
+22:01 - SISTEMA Seven - Admnistração foi finalizado.
+22:01 - Formulário FrmBackup iniciado.
+22:01 - Formulário FrmBackup foi finalizado.
+22:02 - Formulário FrmBackup iniciado.
+22:02 - Formulário FrmBackup foi finalizado.
+22:02 - SISTEMA Seven - Admnistração foi finalizado.
+22:03 - Formulário FrmBackup iniciado.
+22:04 - Formulário FrmBackup foi finalizado.
+22:04 - SISTEMA Seven - Admnistração foi finalizado.
+22:36 - Formulário FrmBackup iniciado.
+22:36 - Formulário FrmBackup foi finalizado.
+22:36 - SISTEMA Seven - Admnistração foi finalizado.
+22:36 - Formulário FrmBackup iniciado.
+22:37 - Formulário FrmBackup foi finalizado.
+22:37 - SISTEMA Seven - Admnistração foi finalizado.
+22:37 - Formulário FrmBackup iniciado.
+22:37 - Formulário FrmBackup foi finalizado.
+22:37 - Formulário FrmBackup iniciado.
+22:37 - Formulário FrmBackup foi finalizado.
+22:37 - SISTEMA Seven - Admnistração foi finalizado.
+22:37 - Formulário FrmBackup iniciado.
+22:39 - Formulário FrmBackup foi finalizado.
+22:40 - SISTEMA Seven - Admnistração foi finalizado.
+22:40 - Formulário FrmCadContasPagar iniciado.
+22:40 - Formulário FrmCadContasPagar foi finalizado.
+22:40 - Formulário FrmBackup iniciado.
+22:55 - Formulário FrmBackup foi finalizado.
+23:01 - SISTEMA Seven - Admnistração foi finalizado.
+23:01 - Formulário FrmBackup iniciado.
+23:02 - Formulário FrmBackup foi finalizado.
+23:02 - SISTEMA Seven - Admnistração foi finalizado.
+23:02 - Formulário FrmBackup iniciado.
+23:04 - Formulário FrmBackup foi finalizado.
+23:04 - SISTEMA Seven - Admnistração foi finalizado.
+23:04 - Formulário FrmBackup iniciado.
+23:05 - Formulário FrmBackup foi finalizado.
+23:05 - SISTEMA Seven - Admnistração foi finalizado.
+23:05 - Formulário FrmBackup iniciado.
+23:05 - Formulário FrmBackup foi finalizado.
+23:05 - SISTEMA Seven - Admnistração foi finalizado.
+23:05 - Formulário FrmBackup iniciado.
+23:06 - Formulário FrmBackup foi finalizado.
+23:06 - SISTEMA Seven - Admnistração foi finalizado.
+23:06 - Formulário FrmBackup iniciado.
+23:08 - Formulário FrmBackup foi finalizado.
+23:08 - SISTEMA Seven - Admnistração foi finalizado.
+23:08 - Formulário FrmBackup iniciado.
+23:08 - Formulário FrmBackup foi finalizado.
+23:08 - SISTEMA Seven - Admnistração foi finalizado.
+23:08 - Formulário FrmBackup iniciado.
+23:10 - Formulário FrmBackup foi finalizado.
+23:11 - SISTEMA Seven - Admnistração foi finalizado.
+23:11 - Formulário FrmBackup iniciado.
+23:12 - Formulário FrmBackup foi finalizado.
+23:12 - SISTEMA Seven - Admnistração foi finalizado.
+23:12 - Formulário FrmBackup iniciado.
+23:13 - Formulário FrmBackup foi finalizado.
+23:13 - SISTEMA Seven - Admnistração foi finalizado.
+23:13 - Formulário FrmBackup iniciado.
+23:14 - Formulário FrmBackup foi finalizado.
+23:14 - SISTEMA Seven - Admnistração foi finalizado.
+23:14 - Formulário FrmBackup iniciado.
+23:15 - Erro: System.ComponentModel.Win32Exception (0x80004005): O sistema não pode encontrar o arquivo especificado
+   em System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   em System.Diagnostics.Process.Start()
+   em System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   em System.Diagnostics.Process.Start(String fileName, String arguments)
+   em Seven_Sistema.FrmBackup.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmBackup.cs:linha 159
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+23:15 - Formulário FrmBackup foi finalizado.
+23:15 - SISTEMA Seven - Admnistração foi finalizado.
+23:15 - Formulário FrmBackup iniciado.
+23:15 - Formulário FrmBackup foi finalizado.
+23:15 - SISTEMA Seven - Admnistração foi finalizado.
+23:15 - Formulário FrmBackup iniciado.
+23:16 - Formulário FrmBackup foi finalizado.
+23:16 - SISTEMA Seven - Admnistração foi finalizado.
+23:16 - Formulário FrmBackup iniciado.
+23:18 - Formulário FrmBackup foi finalizado.
+23:18 - SISTEMA Seven - Admnistração foi finalizado.
+23:18 - Formulário FrmBackup iniciado.
+23:21 - Formulário FrmBackup foi finalizado.
+23:21 - SISTEMA Seven - Admnistração foi finalizado.
+23:21 - Formulário FrmBackup iniciado.
+23:22 - Formulário FrmBackup foi finalizado.
+23:22 - SISTEMA Seven - Admnistração foi finalizado.
+23:22 - Formulário FrmBackup iniciado.
+23:23 - Formulário FrmBackup foi finalizado.
+23:23 - SISTEMA Seven - Admnistração foi finalizado.
+23:23 - Formulário FrmBackup iniciado.
+23:23 - Formulário FrmBackup foi finalizado.
+23:23 - SISTEMA Seven - Admnistração foi finalizado.
+23:23 - Formulário FrmBackup iniciado.
+23:24 - Formulário FrmBackup foi finalizado.
+23:24 - SISTEMA Seven - Admnistração foi finalizado.
+23:24 - Formulário FrmBackup iniciado.
+23:26 - Formulário FrmBackup foi finalizado.
+23:26 - SISTEMA Seven - Admnistração foi finalizado.
+23:26 - Formulário FrmBackup iniciado.
+23:28 - Formulário FrmBackup foi finalizado.
+23:28 - SISTEMA Seven - Admnistração foi finalizado.
+23:28 - Formulário FrmBackup iniciado.
+23:29 - Formulário FrmBackup foi finalizado.
+23:29 - SISTEMA Seven - Admnistração foi finalizado.
+23:29 - Formulário FrmBackup iniciado.
+23:29 - Formulário FrmBackup foi finalizado.
+23:29 - SISTEMA Seven - Admnistração foi finalizado.
+23:29 - Formulário FrmBackup iniciado.
+23:40 - Formulário FrmBackup foi finalizado.
+23:40 - SISTEMA Seven - Admnistração foi finalizado.
+23:40 - Formulário FrmBackup iniciado.
+23:41 - Formulário FrmBackup foi finalizado.
+23:41 - SISTEMA Seven - Admnistração foi finalizado.
+23:41 - Formulário FrmBackup iniciado.
+23:41 - Formulário FrmBackup foi finalizado.
+23:42 - SISTEMA Seven - Admnistração foi finalizado.
+23:42 - Formulário FrmBackup iniciado.
+23:43 - Formulário FrmBackup foi finalizado.
+23:43 - SISTEMA Seven - Admnistração foi finalizado.
+23:44 - Formulário FrmBackup iniciado.
+23:45 - Formulário FrmBackup foi finalizado.
+23:45 - SISTEMA Seven - Admnistração foi finalizado.
+23:45 - Formulário FrmBackup iniciado.
+23:45 - Formulário FrmBackup foi finalizado.
+23:45 - SISTEMA Seven - Admnistração foi finalizado.
+23:45 - Formulário FrmBackup iniciado.
+23:46 - Formulário FrmBackup foi finalizado.
+23:46 - SISTEMA Seven - Admnistração foi finalizado.
+23:46 - Formulário FrmBackup iniciado.
+23:48 - Formulário FrmBackup foi finalizado.
+23:48 - SISTEMA Seven - Admnistração foi finalizado.
+23:49 - Formulário FrmBackup iniciado.
+23:50 - Formulário FrmBackup foi finalizado.
+23:50 - SISTEMA Seven - Admnistração foi finalizado.
+23:51 - Formulário FrmBackup iniciado.
+23:51 - Formulário FrmBackup foi finalizado.
+23:51 - SISTEMA Seven - Admnistração foi finalizado.
+23:52 - Formulário FrmBackup iniciado.
+23:52 - Formulário FrmBackup foi finalizado.
+23:52 - SISTEMA Seven - Admnistração foi finalizado.
+23:52 - Formulário FrmBackup iniciado.
+23:56 - Formulário FrmBackup foi finalizado.
+23:56 - SISTEMA Seven - Admnistração foi finalizado.
+23:56 - SISTEMA Seven - Admnistração foi finalizado.
+23:57 - Formulário FrmBackup iniciado.

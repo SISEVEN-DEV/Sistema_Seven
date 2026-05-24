@@ -1,0 +1,11 @@
+Sei que o post é um pouco antigo mas deixo minha sugestão.
+
+Primeiro realize a instalação da impressora.
+
+Faça o compartilhamento dessa impressora (defina um nome para o compartilhamento. Ex.: "impressora01") acessando as propriedades dela. 
+
+Acessa o prompt de comando (CMD) e digite:
+
+net use lpt1 \\nome_do_computador\impressora01 /PERSISTENT:YES
+
+Após esse procedimento, toda impressão enviada para a porta lpt1 será encaminhada para a impressora instalada (usb).

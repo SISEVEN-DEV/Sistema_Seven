@@ -1,0 +1,342 @@
+00:00 - Formulário FrmBackup foi finalizado.
+00:00 - SISTEMA Seven - Admnistração foi finalizado.
+00:00 - Formulário FrmBackup iniciado.
+00:00 - Formulário FrmBackup foi finalizado.
+00:00 - SISTEMA Seven - Admnistração foi finalizado.
+00:01 - Formulário FrmBackup iniciado.
+00:03 - Formulário FrmBackup foi finalizado.
+00:03 - SISTEMA Seven - Admnistração foi finalizado.
+00:03 - Formulário FrmBackup iniciado.
+00:05 - Formulário FrmBackup foi finalizado.
+00:05 - SISTEMA Seven - Admnistração foi finalizado.
+00:05 - Formulário FrmBackup iniciado.
+00:06 - Formulário FrmBackup foi finalizado.
+00:06 - SISTEMA Seven - Admnistração foi finalizado.
+00:06 - Formulário FrmBackup iniciado.
+00:08 - Formulário FrmBackup foi finalizado.
+00:09 - SISTEMA Seven - Admnistração foi finalizado.
+08:53 - Formulário FrmEsquemaComputadores iniciado.
+08:53 - Formulário FrmEsqDetalhes iniciado.
+08:53 - Formulário FrmEsqDetalhes foi finalizado.
+08:53 - Formulário FrmEsquemaComputadores foi finalizado.
+08:55 - SISTEMA Seven - Admnistração foi finalizado.
+09:11 - SISTEMA Seven - Admnistração foi finalizado.
+09:40 - Formulário FrmLocalizarBanco iniciado.
+09:40 - Formulário FrmLocalizarBanco foi finalizado.
+09:41 - Formulário FrmLocalizarBanco iniciado.
+09:42 - Formulário FrmLocalizarBanco foi finalizado.
+10:03 - Formulário FrmLocalizarBanco iniciado.
+10:03 - Formulário FrmLocalizarBanco foi finalizado.
+10:03 - Formulário FrmLocalizarBanco iniciado.
+10:05 - Formulário FrmLocalizarBanco foi finalizado.
+10:09 - Formulário FrmEsquemaComputadores iniciado.
+10:09 - Formulário FrmEsqDetalhes iniciado.
+10:09 - Formulário FrmEsqDetalhes foi finalizado.
+10:09 - Formulário FrmEsquemaComputadores foi finalizado.
+10:10 - SISTEMA Seven - Admnistração foi finalizado.
+10:12 - Formulário FrmBackup iniciado.
+10:17 - Formulário FrmBackup foi finalizado.
+10:17 - SISTEMA Seven - Admnistração foi finalizado.
+10:23 - Formulário FrmBackup iniciado.
+10:26 - Formulário FrmBackup foi finalizado.
+10:29 - SISTEMA Seven - Admnistração foi finalizado.
+10:34 - Formulário FrmBackup iniciado.
+10:36 - Formulário FrmBackup foi finalizado.
+10:36 - SISTEMA Seven - Admnistração foi finalizado.
+10:36 - Formulário FrmBackup iniciado.
+10:39 - Formulário FrmBackup foi finalizado.
+10:40 - SISTEMA Seven - Admnistração foi finalizado.
+10:41 - Erro: Não foi possível localizar uma parte do caminho 'C:\7 Sistema\Config\Miscellaneous\1.png'. | Evento load do FrmSistema.
+10:41 - Erro: O índice e a contagem devem se referir a um local dentro da cadeia de caracteres.
+Nome do parâmetro: count | Evento formclosing do formulário FrmSistema ADM.
+10:45 - Erro: Não foi possível localizar uma parte do caminho 'C:\7 Sistema\Config\Miscellaneous\1.png'. | Evento load do FrmSistema.
+10:45 - Erro: O índice e a contagem devem se referir a um local dentro da cadeia de caracteres.
+Nome do parâmetro: count | Evento formclosing do formulário FrmSistema ADM.
+10:48 - SISTEMA Seven - Admnistração foi finalizado.
+10:48 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:48 - Formulário FrmBackup iniciado.
+10:53 - Formulário FrmBackup foi finalizado.
+10:53 - SISTEMA Seven - Admnistração foi finalizado.
+10:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:54 - Formulário FrmBackup iniciado.
+10:55 - Formulário FrmBackup foi finalizado.
+10:56 - SISTEMA Seven - Admnistração foi finalizado.
+14:16 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:16 - Formulário FrmBackup iniciado.
+14:16 - Formulário FrmBackup foi finalizado.
+14:17 - Formulário FrmBackup iniciado.
+14:17 - Formulário FrmBackup foi finalizado.
+14:17 - Formulário FrmImagemOpcoes iniciado.
+14:17 - Formulário FrmImagemOpcoes foi finalizado.
+14:20 - Formulário FrmImagemOpcoes iniciado.
+14:20 - Formulário FrmImagemOpcoes foi finalizado.
+14:20 - Formulário FrmImagemOpcoes iniciado.
+14:20 - Formulário FrmImagemOpcoes foi finalizado.
+14:20 - Formulário FrmImagemOpcoes iniciado.
+14:20 - Formulário FrmCapturarImagemWebCam iniciado.
+14:20 - Formulário FrmCapturarImagemWebCam foi finalizado.
+14:20 - Formulário FrmImagemOpcoes foi finalizado.
+14:21 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:21 - SISTEMA Seven - Admnistração foi finalizado.
+14:21 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:21 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:23 - Erro: O índice e a contagem devem se referir a um local dentro da cadeia de caracteres.
+Nome do parâmetro: count | Evento formclosing do formulário FrmSistema ADM.
+14:24 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:24 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:28 - SISTEMA Seven - Admnistração foi finalizado.
+14:28 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:28 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:28 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:28 - Formulário FrmImagemOpcoes iniciado.
+14:28 - Formulário FrmImagemOpcoes foi finalizado.
+14:28 - Formulário FrmImagemOpcoes iniciado.
+14:28 - Formulário FrmImagemOpcoes foi finalizado.
+14:28 - Erro: Não foi possível localizar o arquivo 'C:\Users\xande\OneDrive\Imagens\ASTRA.png'. | Evento load do FrmSistema.
+14:29 - Formulário FrmImagemOpcoes iniciado.
+14:29 - Formulário FrmImagemOpcoes foi finalizado.
+14:32 - SISTEMA Seven - Admnistração foi finalizado.
+14:34 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:34 - Formulário FrmConfiguracoes iniciado.
+14:36 - Formulário FrmCapturarImagemWebCam iniciado.
+14:36 - SISTEMA Seven - Admnistração foi finalizado.
+14:36 - Formulário FrmCapturarImagemWebCam foi finalizado.
+14:36 - Formulário FrmCapturarImagemWebCam foi finalizado.
+14:38 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:38 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:39 - SISTEMA Seven - Admnistração foi finalizado.
+14:39 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:39 - Formulário FrmCadLocalizacao iniciado.
+14:39 - Pesquisou localizacao.
+14:39 - Formulário FrmCadLocalizacao foi finalizado.
+14:39 - Formulário FrmCadMarca iniciado.
+14:39 - Marca cadastrada. Cod: 1 | Descrição: L
+14:40 - Formulário FrmCadMarca foi finalizado.
+14:40 - Formulário FrmRelProduto iniciado.
+14:40 - Formulário FrmRelProduto foi finalizado.
+14:40 - SISTEMA Seven - Admnistração foi finalizado.
+14:41 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:41 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:44 - SISTEMA Seven - Admnistração foi finalizado.
+14:49 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:49 - Formulário FrmCadConsumidor iniciado.
+15:13 - Formulário FrmCadClieCons foi finalizado.
+15:13 - SISTEMA Seven - Admnistração foi finalizado.
+15:40 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:42 - SISTEMA Seven - Admnistração foi finalizado.
+15:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:42 - Formulário FrmCadContasPagar iniciado.
+15:42 - Pesquisou conta a pagar.
+15:42 - Pesquisou conta a pagar.
+15:43 - Formulário FrmCadContasPagar foi finalizado.
+15:43 - Formulário FrmRelContaPagar iniciado.
+15:43 - Formulário FrmRelContaPagar foi finalizado.
+15:43 - Formulário FrmCadContasReceber iniciado.
+15:43 - Conta a receber cadastrada. Cod: 373 | Descrição: 2222E2222
+15:43 - Formulário FrmCadContasReceber foi finalizado.
+15:44 - Formulário FrmCadFormaPagamento iniciado.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Formulário FrmCadFormaPagamento foi finalizado.
+15:44 - Formulário FrmRelFormaPagamento iniciado.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Pesquisou forma de pagamento.
+15:44 - Formulário FrmRelFormaPagamento foi finalizado.
+15:44 - Formulário FrmCadFornecedor iniciado.
+15:45 - Pesquisou fornecedor.
+15:45 - Pesquisou fornecedor.
+15:45 - Pesquisou fornecedor.
+15:45 - Formulário FrmRelFornecedor iniciado.
+15:45 - Pesquisou fornecedor.
+15:45 - Pesquisou fornecedor.
+15:45 - Formulário FrmRelFornecedor foi finalizado.
+15:45 - Formulário FrmCadFornecedor foi finalizado.
+15:45 - Formulário FrmCadFuncionario iniciado.
+15:45 - Pesquisou funcionário.
+15:45 - Pesquisou funcionário.
+15:45 - Pesquisou funcionário.
+15:45 - Formulário FrmRelFuncionario iniciado.
+15:45 - Pesquisou funcionário.
+15:45 - Pesquisou funcionário.
+15:45 - Pesquisou funcionário.
+15:45 - Formulário FrmRelFuncionario foi finalizado.
+15:45 - Pesquisou funcionário.
+15:46 - Formulário FrmCadFuncionario foi finalizado.
+15:46 - Formulário FrmCadFormaPagamento iniciado.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Pesquisou forma de pagamento.
+15:46 - Formulário FrmCadFormaPagamento foi finalizado.
+15:46 - Formulário FrmCadFuncionario iniciado.
+15:47 - Pesquisou funcionário.
+15:47 - Pesquisou funcionário.
+15:47 - Formulário FrmRelFuncionario iniciado.
+15:47 - Pesquisou funcionário.
+15:47 - Formulário FrmRelFuncionario foi finalizado.
+15:47 - Formulário FrmCadFuncionario foi finalizado.
+15:47 - Formulário FrmCadGrupo iniciado.
+15:47 - Pesquisou grupo.
+15:47 - Pesquisou grupo.
+15:47 - Formulário FrmRelGrupo iniciado.
+15:47 - Formulário FrmRelGrupo foi finalizado.
+15:47 - Formulário FrmCadGrupo foi finalizado.
+15:47 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_LOCALIZACAO
+At line 1, column 24 | Evento click do deLocalizaçãoToolStripMenuItem.
+15:48 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_LOCALIZACAO
+At line 1, column 24 | Evento click do deLocalizaçãoToolStripMenuItem.
+15:48 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_LOCALIZACAO
+At line 1, column 24 | Evento click do deLocalizaçãoToolStripMenuItem.
+15:48 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_MARCA
+At line 1, column 18 | Evento click do deMarcasToolStripMenuItem1.
+15:48 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_LOCALIZACAO
+At line 1, column 24 | Evento click do deLocalizaçãoToolStripMenuItem.
+15:49 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_LOCALIZACAO
+At line 1, column 24 | Evento click do deLocalizaçãoToolStripMenuItem.
+15:50 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_MARCA
+At line 1, column 18 | Evento click do deMarcasToolStripMenuItem1.
+16:20 - SISTEMA Seven - Admnistração foi finalizado.
+16:20 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:21 - Formulário FrmCadUsuario iniciado.
+16:21 - Pesquisou usuário.
+16:21 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REL_MARCA
+At line 1, column 1255 | Evento click do botão btnAlterar.
+16:21 - Pesquisou usuário.
+16:21 - Formulário FrmCadFuncaoUsuario iniciado.
+16:21 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:21 - Formulário FrmCadFuncaoUsuario iniciado.
+16:21 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:21 - Formulário FrmCadFuncaoUsuario iniciado.
+16:21 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:21 - Erro: O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index | Evento click do botão btnSalvar.
+16:22 - Pesquisou usuário.
+16:22 - Formulário FrmCadFuncaoUsuario iniciado.
+16:22 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:22 - Formulário FrmCadUsuario foi finalizado.
+16:23 - Formulário FrmCadUsuario iniciado.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Pesquisou usuário.
+16:23 - Formulário FrmCadUsuario foi finalizado.
+16:23 - SISTEMA Seven - Admnistração foi finalizado.
+16:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:23 - Formulário FrmCadUsuario iniciado.
+16:23 - Pesquisou usuário.
+16:23 - Formulário FrmCadFuncaoUsuario iniciado.
+16:24 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:24 - Usuário alterado. Cod: 1 | Nome: ADM
+16:24 - Formulário FrmCadFuncaoUsuario iniciado.
+16:24 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:26 - Formulário FrmCadUsuario foi finalizado.
+16:26 - SISTEMA Seven - Admnistração foi finalizado.
+16:26 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:26 - Formulário FrmCadUsuario iniciado.
+16:26 - Pesquisou usuário.
+16:26 - Formulário FrmCadFuncaoUsuario iniciado.
+16:26 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:26 - Usuário alterado. Cod: 1 | Nome: ADM
+16:26 - Formulário FrmCadFuncaoUsuario iniciado.
+16:26 - Formulário FrmCadFuncaoUsuario foi finalizado.
+17:25 - Formulário FrmCadUsuario foi finalizado.
+17:25 - SISTEMA Seven - Admnistração foi finalizado.
+20:30 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:24 - Formulário FrmCadUsuario iniciado.
+21:24 - Pesquisou usuário.
+21:24 - Formulário FrmCadFuncaoUsuario iniciado.
+21:24 - Formulário FrmCadFuncaoUsuario foi finalizado.
+21:24 - Usuário alterado. Cod: 1 | Nome: ADM
+21:24 - Formulário FrmCadLocalizacao iniciado.
+21:24 - Pesquisou localizacao.
+21:25 - Formulário FrmCadLocalizacao foi finalizado.
+21:25 - Formulário FrmCadUsuario foi finalizado.
+21:26 - Formulário FrmRelUsuario iniciado.
+21:26 - Formulário FrmRelUsuario foi finalizado.
+21:26 - Formulário FrmRelFluxoCaixa iniciado.
+21:29 - Formulário FrmRelFluxoCaixa foi finalizado.
+21:29 - Formulário FrmCadLocalizacao iniciado.
+21:29 - Formulário FrmCadLocalizacao foi finalizado.
+21:29 - SISTEMA Seven - Admnistração foi finalizado.
+21:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:43 - Formulário FrmRelLocalizacao iniciado.
+21:43 - Formulário FrmRelLocalizacao iniciado.
+21:54 - Formulário FrmRelLocalizacao foi finalizado.
+21:54 - Formulário FrmRelHistoricoCaixa iniciado.
+21:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:54 - Formulário FrmRelLocalizacao iniciado.
+21:54 - Formulário FrmRelLocalizacao iniciado.
+21:54 - Formulário FrmRelLocalizacao foi finalizado.
+21:54 - Formulário FrmRelLocalizacao iniciado.
+21:54 - Formulário FrmRelLocalizacao iniciado.
+21:54 - Formulário FrmCadConsumidor iniciado.
+21:54 - Formulário FrmRelLocalizacao foi finalizado.
+21:54 - Formulário FrmCadClieCons foi finalizado.
+21:58 - Formulário FrmRelLocalizacao iniciado.
+21:58 - Formulário FrmRelLocalizacao iniciado.
+22:51 - Formulário FrmRelLocalizacao foi finalizado.
+22:51 - SISTEMA Seven - Admnistração foi finalizado.
+22:51 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:51 - Formulário FrmRelLocalizacao iniciado.
+22:51 - Formulário FrmRelLocalizacao iniciado.
+22:51 - Erro: conversion error from string "21.07.1994 00:00:00" | Evento click do botão btnPesquisar.
+22:51 - Pesquisou localizacao.
+22:51 - Pesquisou localizacao.
+22:52 - Pesquisou localizacao.
+22:53 - Formulário FrmRelLocalizacao foi finalizado.
+22:53 - SISTEMA Seven - Admnistração foi finalizado.
+22:53 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:55 - Formulário FrmRelLocalizacao iniciado.
+22:55 - Formulário FrmRelLocalizacao iniciado.
+22:55 - Pesquisou localizacao.
+22:56 - Formulário FrmRelLocalizacao foi finalizado.
+22:56 - SISTEMA Seven - Admnistração foi finalizado.
+22:56 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+22:56 - Formulário FrmRelLocalizacao iniciado.
+22:56 - Formulário FrmRelLocalizacao iniciado.
+22:56 - Pesquisou localizacao.
+23:03 - Formulário FrmRelLocalizacao foi finalizado.
+23:03 - SISTEMA Seven - Admnistração foi finalizado.
+23:03 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+23:04 - Formulário FrmRelLocalizacao iniciado.
+23:04 - Formulário FrmRelLocalizacao iniciado.
+23:04 - Pesquisou localizacao.
+23:04 - Formulário FrmInfImpressao iniciado.
+23:04 - Formulário FrmInfImpressao foi finalizado.
+23:04 - Formulário FrmRelLocalizacao foi finalizado.
+23:05 - SISTEMA Seven - Admnistração foi finalizado.

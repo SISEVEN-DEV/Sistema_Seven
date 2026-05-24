@@ -1,0 +1,5 @@
+*Adicionar botão imprimir cupom referente da conta a receber se for oriunda do sistema.
+
+Não alterar dados da do consumidor de conta que já foi fechada.
+
+Não permitir selecionar consumidor sem cpf cnpj ie ou rg.

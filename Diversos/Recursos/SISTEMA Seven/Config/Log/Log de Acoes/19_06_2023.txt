@@ -1,0 +1,204 @@
+19:18 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:18 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:18 - Formulário FrmEsquemaComputadores iniciado.
+19:18 - Formulário FrmEsquemaComputadores foi finalizado.
+19:18 - Formulário FrmCadConsumidor iniciado.
+19:18 - Formulário FrmCadClieCons foi finalizado.
+19:18 - Formulário FrmRelCaixas iniciado.
+19:18 - Formulário FrmRelHistoricoCaixa iniciado.
+19:18 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento click do botão btnPesquisar.
+19:18 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:18 - Formulário FrmRelFluxoCaixa iniciado.
+19:18 - Formulário FrmRelFluxoCaixa foi finalizado.
+19:18 - Formulário FrmRelCaixas foi finalizado.
+19:28 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:28 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:28 - SISTEMA Seven - Admnistração foi finalizado.
+19:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:29 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:29 - Formulário FrmRelCaixas iniciado.
+19:29 - Formulário FrmRelHistoricoCaixa iniciado.
+19:29 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento click do botão btnPesquisar.
+19:29 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:29 - Formulário FrmRelCaixas foi finalizado.
+19:29 - SISTEMA Seven - Admnistração foi finalizado.
+19:32 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:32 - Formulário FrmCadConsumidor iniciado.
+19:32 - Formulário FrmCadClieCons foi finalizado.
+19:32 - Formulário FrmRelCaixas iniciado.
+19:32 - Formulário FrmRelHistoricoCaixa iniciado.
+19:32 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento load do formulário FrmRelHistoricoCaixa.
+19:32 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:32 - Formulário FrmRelHistoricoCaixa iniciado.
+19:33 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento load do formulário FrmRelHistoricoCaixa.
+19:33 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:33 - Formulário FrmRelHistoricoCaixa iniciado.
+19:33 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento load do formulário FrmRelHistoricoCaixa.
+19:33 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:33 - Formulário FrmRelCaixas foi finalizado.
+19:33 - SISTEMA Seven - Admnistração foi finalizado.
+19:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:38 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:38 - Formulário FrmRelCaixas iniciado.
+19:38 - Formulário FrmRelHistoricoCaixa iniciado.
+19:41 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento click do botão btnPesquisar.
+19:41 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:41 - Formulário FrmRelCaixas foi finalizado.
+19:41 - SISTEMA Seven - Admnistração foi finalizado.
+19:41 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:42 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:42 - Formulário FrmRelHistoricoCaixa iniciado.
+19:42 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:42 - Formulário FrmRelCaixas iniciado.
+19:42 - Formulário FrmRelHistoricoCaixa iniciado.
+19:42 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento click do botão btnPesquisar.
+19:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:43 - Formulário FrmRelCaixas foi finalizado.
+19:43 - SISTEMA Seven - Admnistração foi finalizado.
+19:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:46 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:46 - Formulário FrmRelCliente iniciado.
+19:46 - Formulário FrmRelClieCons foi finalizado.
+19:46 - Formulário FrmRelCaixas iniciado.
+19:46 - Formulário FrmRelHistoricoCaixa iniciado.
+19:48 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 53
+WHERE | Evento click do botão btnPesquisar.
+19:48 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:48 - Formulário FrmRelCaixas foi finalizado.
+19:48 - SISTEMA Seven - Admnistração foi finalizado.
+19:48 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:49 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:49 - Formulário FrmRelCaixas iniciado.
+19:49 - Formulário FrmRelHistoricoCaixa iniciado.
+19:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:49 - Formulário FrmRelCaixas foi finalizado.
+19:49 - SISTEMA Seven - Admnistração foi finalizado.
+19:50 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+19:50 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+19:50 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+19:50 - Formulário FrmFecharCaixa iniciado.
+19:52 - Abert/Fech de Caixa cadastrada. Cod: 13 | Descrição: FECHAMENTO DE CAIXA
+19:52 - Formulário FrmFecharCaixa foi finalizado.
+19:52 - Formulário FrmAbrirCaixa iniciado.
+19:52 - Abert/Fech de Caixa cadastrada. Cod: 14 | Descrição: ABERTURA DE CAIXA
+19:52 - Formulário FrmAbrirCaixa foi finalizado.
+19:52 - Formulário FrmRelCaixas iniciado.
+19:52 - Formulário FrmRelHistoricoCaixa iniciado.
+19:52 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:52 - Formulário FrmFormaPagamento iniciado.
+19:53 - Formulário FrmFormaPagamento foi finalizado.
+19:53 - SISTEMA Seven - PDV foi finalizado.
+19:53 - Formulário FrmInformar iniciado.
+19:53 - Formulário FrmInformar foi finalizado.
+19:53 - Formulário FrmPesqCliente iniciado.
+19:53 - Pesquisou cliente.
+19:53 - Formulário FrmPesqCliente foi finalizado.
+19:53 - Formulário FrmFormaPagamento iniciado.
+19:53 - Formulário FrmFormaPagamento foi finalizado.
+19:53 - Formulário FrmRelHistoricoCaixa iniciado.
+19:54 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:54 - Formulário FrmRelCaixas foi finalizado.
+19:54 - Formulário FrmRelCaixas iniciado.
+19:54 - Formulário FrmRelCaixas foi finalizado.
+19:54 - Formulário FrmRelContaReceber iniciado.
+19:54 - Formulário FrmRelBaixaConta iniciado.
+19:55 - Formulário FrmRelBaixaConta foi finalizado.
+19:55 - Formulário FrmRelCaixas iniciado.
+19:55 - Formulário FrmRelHistoricoCaixa iniciado.
+19:55 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:55 - Formulário FrmRelFluxoCaixa iniciado.
+19:55 - Formulário FrmRelFluxoCaixa foi finalizado.
+19:55 - Formulário FrmRelCaixas foi finalizado.
+19:55 - Formulário FrmRelBaixaConta iniciado.
+19:55 - Formulário FrmRelBaixaConta foi finalizado.
+19:55 - Formulário FrmRelCaixas iniciado.
+19:56 - Formulário FrmRelHistoricoCaixa iniciado.
+19:58 - Formulário FrmRelHistoricoCaixa foi finalizado.
+19:58 - Formulário FrmRelCaixas foi finalizado.
+19:58 - Formulário FrmRelContaReceber foi finalizado.
+19:58 - Formulário FrmPesqProduto iniciado.
+19:58 - Formulário FrmPesqProduto foi finalizado.
+19:58 - Formulário FrmFormaPagamento iniciado.
+19:58 - Formulário FrmFormaPagamento foi finalizado.
+19:59 - Formulário FrmRelCaixas iniciado.
+19:59 - Formulário FrmRelHistoricoCaixa iniciado.
+20:00 - Formulário FrmRelHistoricoCaixa foi finalizado.
+20:00 - Formulário FrmRelCaixas foi finalizado.
+20:00 - Formulário FrmRelContaReceber iniciado.
+21:37 - Formulário FrmRelContaReceber foi finalizado.
+21:37 - SISTEMA Seven - Admnistração foi finalizado.
+21:37 - SISTEMA Seven - PDV foi finalizado.
+21:38 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:41 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:41 - Formulário FrmRelCaixas iniciado.
+21:41 - Formulário FrmRelHistoricoCaixa iniciado.
+21:43 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 65
+. | Evento click do botão btnPesquisar.
+21:43 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:43 - Formulário FrmRelCaixas foi finalizado.
+21:43 - SISTEMA Seven - Admnistração foi finalizado.
+21:44 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:45 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:45 - Formulário FrmRelCaixas iniciado.
+21:45 - Formulário FrmRelHistoricoCaixa iniciado.
+21:45 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 65
+. | Evento click do botão btnPesquisar.
+21:45 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:45 - Formulário FrmRelHistoricoCaixa iniciado.
+21:46 - Erro: Dynamic SQL Error
+SQL error code = -104
+Token unknown - line 1, column 65
+. | Evento click do botão btnPesquisar.
+21:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:46 - Formulário FrmRelCaixas foi finalizado.
+21:46 - Formulário FrmRelHistoricoCaixa iniciado.
+21:46 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:46 - SISTEMA Seven - Admnistração foi finalizado.
+21:47 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:47 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:48 - Formulário FrmRelCaixas iniciado.
+21:48 - Formulário FrmRelHistoricoCaixa iniciado.
+21:49 - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+REGISTRO_ATIVIDADES.ID_PDV_COMPUTADOR
+At line 1, column 163 | Evento click do botão btnPesquisar.
+21:49 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:49 - Formulário FrmRelCaixas foi finalizado.
+21:49 - SISTEMA Seven - Admnistração foi finalizado.
+21:49 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+21:49 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+21:50 - Formulário FrmRelCaixas iniciado.
+21:50 - Formulário FrmRelHistoricoCaixa iniciado.
+21:52 - Formulário FrmRelHistoricoCaixa foi finalizado.
+21:52 - Formulário FrmRelCaixas foi finalizado.
+21:52 - Formulário FrmConfiguracoes iniciado.
+22:12 - SISTEMA Seven - Admnistração foi finalizado.

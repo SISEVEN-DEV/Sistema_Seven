@@ -1,0 +1,43 @@
+Vou mostrar abaixo como utilizar o gfix, que é um utilitário de reparação de banco de dados do próprio Firebird. E vamos usar em conjunto o gbak, que também é do próprio Firebird, e faz o backup e restore do banco de dados.
+
+LEMBRE-SE DE TER UMA CÓPIA DO BANCO DE DADOS ANTES DE INICIAR!
+
+Todo o procedimento deve ser realizado através do prompt de comando. No windows, basta clicar em iniciar > executar > digitar “cmd”.
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+Assim que abrir o prompt, localize o caminho da pasta “bin” do Firebird, geralmente fica em: C:\Program Files (x86)\Firebird\Firebird_2_5\bin
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+Ainda no prompt de comando, siga os passos a seguir:
+
+1. Verificar se o banco de dados realmente retorna alguma mensagem de erro:
+
+gfix -v -full caminho_da_base -user nome_usuario -pass senha_usuário
+(Exemplo: gfix -v -full C:\Sistema\banco.fdb -user SYSDBA -pass masterkey)
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+2. Caso retorne algum erro, vamos tentar repará-lo:
+
+gfix -m -i caminho_da_base -user nome_usuario -pass senha_usuário
+(Exemplo: gfix -mend -full -ignore C:\Sistema\banco.fdb -user SYSDBA -pass masterkey)
+Diagnosticando e Recuperando Banco de Dados Firebird Corrompido
+
+3. Teste novamente o banco de dados (Passo1):
+
+gfix -v -full caminho_da_base -user nome_usuario -pass senha_usuário
+(Exemplo: gfix -v -full C:\Sistema\banco.fdb -user SYSDBA -pass masterkey)
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+4. Caso o erro persista, você deve fazer um backup completo e restaurá-lo:
+
+gbak -backup -v -ignore database.fdb database.gbk
+(Exemplo: gbak -backup -v -ignore C:\Sistema\banco.fdb C:\Sistema\novo_banco.gbk -user SYSDBA -pass masterkey)
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+5. Agora crie um novo banco de dados através deste backup:
+
+gbak -create -v database.gbk database.fdb
+(Exemplo: gbak -create -v C:\Sistema\novo_banco.gbk C:\Sistema\novo_banco.fdb -user SYSDBA -pass masterkey)
+Diagnosticando e Reparando Banco de Dados Firebird Corrompido
+
+Pronto, agora teste a nova base de dados.

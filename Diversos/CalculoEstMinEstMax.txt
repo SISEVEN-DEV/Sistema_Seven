@@ -1,0 +1,25 @@
+Como calcular o estoque mínimo
+Calcular o estoque mínimo é bem simples, como você vai notar. Para isso, entretanto, você vai precisar de dados como:
+o consumo médio diário do produto, que é o número das unidades deste produto vendidas em determinado período ou dia;
+o tempo que você leva para repor ele no seu estoque.
+Depois disso, e simples. Basta aplicar a seguinte fórmula:
+Estoque mínimo = consumo médio diário X tempo de reposição
+Para explicar melhor, vamos a um exemplo simples:
+Em 30 dias você teve o consumo de 180 unidades de uma mercadoria. Para descobrir o consumo médio diário, basta dividir o consumo pelo período de tempo, assim:
+180/30 = 6
+Ou seja, o consumo médio diário deste produto é 6.
+Digamos que para repor esta mercadoria você leva 20 dias. Então, você deve multiplicar o consumo médio diário pelo prazo de reposição, assim:
+20 * 6 = 120
+Ou seja, o seu estoque mínimo, é de 120 unidades deste produto.
+Muito simples, não é? Se você preferir, você pode ver um exemplo de como calcular o estoque mínimo, no vídeo abaixo:
+
+O que é estoque máximo
+O estoque máximo também é bem simples de ser compreendido. Ao contrário do estoque mínimo, o estoque máximo visa evitar prejuízos causados pelo exagero.
+Nem todos os produtos têm a rotatividade que o empresário deseja. Então, tão ruim quanto deixar faltar produtos é deixar sobrando e estragando nos estoques.
+Isso não significa evitar somente o desperdício de mercadorias, mas sim, o desperdício de dinheiro também. Como você bem sabe, a armazenagem de produtos tem custos para sua empresa, que vai ter que arcar com gastos de luz, de aluguel, entre muitos outros, sempre na mesma proporção do tamanho do seu estoque.
+Como calcular o estoque máximo
+Para esse exemplo de como fazer o cálculo do estoque máximo nós vamos utilizar os mesmos números do exemplo acima, para facilitar o entendimento. Para calcular o estoque máximo você deve aplicar a seguinte fórmula:
+Estoque máximo= estoque mínimo + lote de reposição
+Ou seja, levando em conta que o valor do seu estoque mínimo seja de 120 unidades e o lote de reposição costuma ter 50 unidades. Você deve apenas somar um valor ao outro, assim:
+120 + 50 = 170
+Ou seja, o seu estoque máximo deve ser de 170 unidades deste produto. Bem simples também, não é?

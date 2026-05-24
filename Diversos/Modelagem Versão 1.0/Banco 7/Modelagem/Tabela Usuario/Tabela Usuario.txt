@@ -1,0 +1,32 @@
+ID_USUARIO			SMALLINT NOT NULL PK AI
+NOME_USUARIO			VARCHAR(10)	NOT NULL
+SENHA				VARCHAR(10)	NOT NULL
+ID_FUNCIONARIO			SMALLINT	NOT NULL
+NOME_FUNCIONARIO		VARCHAR(60)
+
+create generator gen_usuario_id;
+
+create table usuario (
+    id_usuario        smallint not null,
+    nome_usuario      varchar(10) not null,
+    senha             varchar(10) not null,
+    id_funcionario    smallint not null,
+    nome_funcionario  varchar(60)
+);
+
+
+create trigger usuario_bi for usuario
+active before insert position 0
+as
+begin
+  if (new.id_usuario is null) then
+    new.id_usuario = gen_id(gen_usuario_id,1);
+end
+^
+
+
+set term ; ^
+
+
+
+

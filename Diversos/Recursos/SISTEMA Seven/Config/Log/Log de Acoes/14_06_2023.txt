@@ -1,0 +1,79 @@
+08:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:54 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:54 - SISTEMA Seven - Admnistração foi finalizado.
+08:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:54 - SISTEMA Seven - PDV foi finalizado.
+08:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:12 - SISTEMA Seven - PDV foi finalizado.
+09:12 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:24 - SISTEMA Seven - PDV foi finalizado.
+09:25 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:30 - SISTEMA Seven - PDV foi finalizado.
+09:30 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:32 - SISTEMA Seven - PDV foi finalizado.
+09:32 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:39 - SISTEMA Seven - PDV foi finalizado.
+09:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:43 - SISTEMA Seven - PDV foi finalizado.
+09:43 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:44 - SISTEMA Seven - PDV foi finalizado.
+09:44 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:55 - SISTEMA Seven - PDV foi finalizado.
+09:55 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+10:23 - SISTEMA Seven - PDV foi finalizado.
+14:32 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:34 - SISTEMA Seven - PDV foi finalizado.
+14:34 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:35 - SISTEMA Seven - PDV foi finalizado.
+14:35 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:39 - SISTEMA Seven - PDV foi finalizado.
+14:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:40 - SISTEMA Seven - PDV foi finalizado.
+14:46 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:14 - SISTEMA Seven - PDV foi finalizado.
+15:14 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:15 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:16 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+15:16 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+15:16 - Formulário FrmTipoConfConexao iniciado.
+15:16 - Formulário FrmLocalizarBanco iniciado.
+15:16 - Formulário FrmCadastroComputadores iniciado.
+15:16 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+15:16 - Formulário FrmCadastroComputadores foi finalizado.
+15:16 - Formulário FrmLocalizarBanco foi finalizado.
+15:16 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:17 - SISTEMA Seven - PDV foi finalizado.
+15:17 - SISTEMA Seven - PDV foi finalizado.
+15:22 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:23 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:23 - Formulário FrmLocalizarBanco iniciado.
+15:23 - Formulário FrmCadastroComputadores iniciado.
+15:23 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+15:23 - SISTEMA Seven - PDV foi finalizado.
+15:24 - SISTEMA Seven - PDV foi finalizado.
+15:27 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:30 - SISTEMA Seven - PDV foi finalizado.
+15:30 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - PDV foi finalizado.
+15:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:42 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:09 - Formulário FrmConfiguracoes iniciado.
+16:10 - SISTEMA Seven - Admnistração foi finalizado.
+16:10 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:10 - Formulário FrmFormaPagamento iniciado.
+16:10 - Formulário FrmFormaPagamento foi finalizado.
+16:53 - Formulário FrmFormaPagamento iniciado.
+16:53 - Formulário FrmFormaPagamento foi finalizado.
+16:54 - Formulário FrmFormaPagamento iniciado.
+16:54 - Formulário FrmFormaPagamento foi finalizado.
+17:10 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+17:10 - Formulário FrmCadastroComputadores foi finalizado.
+17:10 - Formulário FrmLocalizarBanco foi finalizado.
+17:10 - Formulário FrmLocalizarBanco iniciado.
+17:10 - Formulário FrmCadastroComputadores iniciado.
+17:10 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+17:10 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+17:16 - Formulário FrmCadastroComputadores foi finalizado.
+17:16 - Formulário FrmLocalizarBanco foi finalizado.
+17:16 - Formulário FrmTipoConfConexao foi finalizado.
+17:23 - SISTEMA Seven - PDV foi finalizado.

@@ -1,0 +1,2 @@
+Futuras implementações:
+*Sistema avisar e/ou emitir alerta quando houverem contas a receber/pagar vencidas.

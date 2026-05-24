@@ -1,0 +1,10 @@
+UPDATE cliente SET cliente.nome='ROBERTO ALMEIDA DOS SANTOS LIMITADA', cliente.fantasia='HIPER SAO PAULO', cliente.endereco='RUA XV DE NOVEMBRO', cliente.numero=75, cliente.bairro='CENTRO', cliente.celular='(75) 98187-1001', cliente.ie_rg='025.845.781' WHERE cliente.cpf_cnpj='15.646.763/0001-81';
+UPDATE cliente SET cliente.nome='UNIAO LESTE BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA', cliente.fantasia=null, cliente.endereco='RUA GENERAL MOURAO FILHO', cliente.numero=19, cliente.bairro='SERRARIA BRASIL', cliente.cidade='FEIRA DE SANTANA', cliente.codigo_municipio='2910800' WHERE cliente.cpf_cnpj='17.261.509/0008-67';
+UPDATE cliente SET cliente.nome='SINDICATO DOS EMPREGADOS NO COMERCIO VAREJISTA E ATACADISTA', cliente.fantasia='SINDICATO DOS COMERCIARIOS DE CRUZ DAS ALMAS', cliente.endereco='PRACA SENADOR THEMISTOCLES', cliente.numero=502, cliente.bairro='CENTRO' WHERE cliente.cpf_cnpj='19.375.020/0001-75';
+UPDATE cliente SET cliente.nome='PASQUAL DO ROSARIO MARIANO', cliente.fantasia='COMERCIAL DE ALIMENTOS YAGOS', cliente.endereco='RUA COMENDADOR ALBINO', cliente.numero=19, cliente.bairro='CENTRO', cliente.cidade='CACHOEIRA', cliente.codigo_municipio='2904902', cliente.ie_rg='072.565.900' WHERE cliente.cpf_cnpj='01.734.840/0001-40';
+UPDATE cliente SET cliente.nome='ASSOCIACAO DOS REGISTRADORES CIVIS DAS PESSOAS NATURAIS', cliente.endereco='AVENIDA TANCREDO NEVES', cliente.numero=002539, cliente.bairro='CAMINHO DAS ARVORES', cliente.cidade='SALVADOR', cliente.codigo_municipio='2927408' WHERE cliente.cpf_cnpj='17.622.109/0001-63';
+DELETE FROM cliente WHERE cliente.cpf_cnpj='06.214.330/0001-66';
+DELETE FROM cliente WHERE cliente.cpf_cnpj='861.069.815-74';
+UPDATE cliente SET cliente.pessoa='0' WHERE cliente.id_cliente=2;
+UPDATE cliente SET cliente.pessoa='0' WHERE cliente.id_cliente=5;
+UPDATE cliente SET cliente.pessoa='0' WHERE cliente.id_cliente=10;

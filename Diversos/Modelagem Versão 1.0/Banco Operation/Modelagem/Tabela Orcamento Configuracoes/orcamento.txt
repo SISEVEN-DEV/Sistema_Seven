@@ -1,0 +1,26 @@
+ID_ORCAMENTO_CONFIGURACOES		CHAR(1)		NOT NULL PK
+TIPO_IMP_ORC				VARCHAR(25)	
+NOME_IMPRESSORA				VARCHAR(45)	
+PERMITIR_ALT_FUNC			CHAR(1)		NOT NULL
+MOSTRAR_OPC_IMP				CHAR(1)		NOT NULL
+NUMERO_COPIA				SMALLINT 	NOT NULL
+MOSTRAR_LOGO_IMP			CHAR(1) 	NOT NULL
+MARGEM_ESQ				INTEGER		NOT NULL
+MARGEM_TOPO				INTEGER		NOT NULL
+PERM_ORC_CLIE_S_CPF_CNPJ		CHAR(1)		NOT NULL
+
+
+create table orcamento_configuracoes (
+    id_orcamento_configuracoes  char(1) not null,
+    tipo_imp_orc                varchar(25),
+    nome_impressora             varchar(45),
+    permitir_alt_func           char(1) not null,
+    mostrar_opc_imp             char(1) not null,
+    numero_copia		smallint not null,
+    mostrar_logo_imp            char(1) not null,
+    margem_esq			integer not null,
+    margem_topo  		integer not null,
+    perm_orc_clie_s_cpf_cnpj	char(1) not null
+);
+
+alter table orcamento_configuracoes add constraint pk_orcamento_configuracoes primary key (id_orcamento_configuracoes);

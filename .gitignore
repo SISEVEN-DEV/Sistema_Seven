@@ -1,0 +1,77 @@
+# Arquivos compilados
+*.exe
+*.dll
+*.pdb
+
+# Pastas de build
+bin/
+obj/
+
+# Outras pastas
+ico/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais
+appsettings.Development.json
+
+# Publicação
+publish/
+
+# Banco local
+*.mdf
+*.ldf
+
+# Cache
+*.cache
+*.dbmdl
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Backup
+Backup/
+backup/
+
+# JetBrains
+.idea/
+
+# Azure
+PublishProfiles/
+
+# Testes
+TestResults/
+
+# Arquivos de deploy
+*.Publish.xml
+
+# SQLite
+*.sqlite
+*.db
+
+# Node modules (caso tenha frontend junto)
+node_modules/
+
+# Arquivos do VS Code
+.vscode/

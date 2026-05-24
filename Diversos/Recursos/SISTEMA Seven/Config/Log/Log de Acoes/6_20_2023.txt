@@ -1,0 +1,10 @@
+11:36 PM - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ID_PDV_COMPUTADOR
+At line 1, column 552 | Pagamento.
+11:48 PM - Erro: Dynamic SQL Error
+SQL error code = -206
+Column unknown
+ID_PDV_COMPUTADOR
+At line 1, column 552 | Pagamento.

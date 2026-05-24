@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8943E90-A564-4D94-8399-3DF27F3F7A2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Seven_Sistema</RootNamespace>
+    <AssemblyName>Seven_PDV</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>7pdv.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ACBrLib.Core, Version=1.2.17.0, Culture=neutral, PublicKeyToken=86b0cf55a49c9caf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ACBR\C#\NCMs\Demos\ACBrLib.NCM.Demo\bin\Debug\ACBrLib.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ACBrLib.NCMMT, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ACBR\C#\NCMs\Import\bin\Debug\net452\ACBrLib.NCMMT.dll</HintPath>
+    </Reference>
+    <Reference Include="ACBrLib.NFeMT, Version=1.0.12.0, Culture=neutral, PublicKeyToken=86b0cf55a49c9caf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ACBR\C#\NFe\Demo\ACBrLib.NFe.Demo\bin\Debug\ACBrLib.NFeMT.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.50.5147.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.50.5147\lib\net20\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp.Charting, Version=1.50.5147.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PDFsharp.1.50.5147\lib\net20\PdfSharp.Charting.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.7.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.7.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAdicionarItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdicionarItem.Designer.cs">
+      <DependentUpon>FrmAdicionarItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCapturar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapturar.Designer.cs">
+      <DependentUpon>FrmCapturar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCapturarDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapturarDevolucao.Designer.cs">
+      <DependentUpon>FrmCapturarDevolucao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCapturarOrcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapturarOrcamento.Designer.cs">
+      <DependentUpon>FrmCapturarOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatePicker.Designer.cs">
+      <DependentUpon>FrmDatePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDatePicker2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatePicker2.Designer.cs">
+      <DependentUpon>FrmDatePicker2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDescontoAcrescimoOrc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDescontoAcrescimoOrc.Designer.cs">
+      <DependentUpon>FrmDescontoAcrescimoOrc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevolucao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevolucao.Designer.cs">
+      <DependentUpon>FrmDevolucao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevTipo.Designer.cs">
+      <DependentUpon>FrmDevTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDevValor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDevValor.Designer.cs">
+      <DependentUpon>FrmDevValor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInformar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformar.Designer.cs">
+      <DependentUpon>FrmInformar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLayoutPDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLayoutPDV.Designer.cs">
+      <DependentUpon>FrmLayoutPDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoginUsuarioPerm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoginUsuarioPerm.Designer.cs">
+      <DependentUpon>FrmLoginUsuarioPerm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlanoNotaPromissoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlanoNotaPromissoria.Designer.cs">
+      <DependentUpon>FrmPlanoNotaPromissoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInfConsManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInfConsManual.Designer.cs">
+      <DependentUpon>FrmInfConsManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInfImpressao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInfImpressao.Designer.cs">
+      <DependentUpon>FrmInfImpressao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoginUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoginUsuario.Designer.cs">
+      <DependentUpon>FrmLoginUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmObservacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmObservacao.Designer.cs">
+      <DependentUpon>FrmObservacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenuBigPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenuBigPicture.Designer.cs">
+      <DependentUpon>FrmMenuBigPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesqFormaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesqFormaPagamento.Designer.cs">
+      <DependentUpon>FrmPesqFormaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFormaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFormaPagamento.Designer.cs">
+      <DependentUpon>FrmFormaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesqConsumidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesqConsumidor.Designer.cs">
+      <DependentUpon>FrmPesqConsumidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmContCheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmContCheque.Designer.cs">
+      <DependentUpon>FrmContCheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesqGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesqGrupo.Designer.cs">
+      <DependentUpon>FrmPesqGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSistemaBigPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSistemaBigPicture.Designer.cs">
+      <DependentUpon>FrmSistemaBigPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesqProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesqProduto.Designer.cs">
+      <DependentUpon>FrmPesqProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesqSubGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesqSubGrupo.Designer.cs">
+      <DependentUpon>FrmPesqSubGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuantidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuantidade.Designer.cs">
+      <DependentUpon>FrmQuantidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSangriaSuprimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSangriaSuprimento.Designer.cs">
+      <DependentUpon>FrmSangriaSuprimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSistema.Designer.cs">
+      <DependentUpon>FrmSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoEntNotaPromissoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoEntNotaPromissoria.Designer.cs">
+      <DependentUpon>FrmTipoEntNotaPromissoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTroco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTroco.Designer.cs">
+      <DependentUpon>FrmTroco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmValorCreditoLoja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmValorCreditoLoja.Designer.cs">
+      <DependentUpon>FrmValorCreditoLoja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAdicionarItem.resx">
+      <DependentUpon>FrmAdicionarItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCapturar.resx">
+      <DependentUpon>FrmCapturar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCapturarDevolucao.resx">
+      <DependentUpon>FrmCapturarDevolucao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCapturarOrcamento.resx">
+      <DependentUpon>FrmCapturarOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatePicker.resx">
+      <DependentUpon>FrmDatePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatePicker2.resx">
+      <DependentUpon>FrmDatePicker2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDescontoAcrescimoOrc.resx">
+      <DependentUpon>FrmDescontoAcrescimoOrc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevolucao.resx">
+      <DependentUpon>FrmDevolucao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevTipo.resx">
+      <DependentUpon>FrmDevTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDevValor.resx">
+      <DependentUpon>FrmDevValor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFormaPagamento.resx">
+      <DependentUpon>FrmFormaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformar.resx">
+      <DependentUpon>FrmInformar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLayoutPDV.resx">
+      <DependentUpon>FrmLayoutPDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoginUsuarioPerm.resx">
+      <DependentUpon>FrmLoginUsuarioPerm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlanoNotaPromissoria.resx">
+      <DependentUpon>FrmPlanoNotaPromissoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInfConsManual.resx">
+      <DependentUpon>FrmInfConsManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInfImpressao.resx">
+      <DependentUpon>FrmInfImpressao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoginUsuario.resx">
+      <DependentUpon>FrmLoginUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmObservacao.resx">
+      <DependentUpon>FrmObservacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenuBigPicture.resx">
+      <DependentUpon>FrmMenuBigPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesqConsumidor.resx">
+      <DependentUpon>FrmPesqConsumidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesqFormaPagamento.resx">
+      <DependentUpon>FrmPesqFormaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmContCheque.resx">
+      <DependentUpon>FrmContCheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesqGrupo.resx">
+      <DependentUpon>FrmPesqGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSistemaBigPicture.resx">
+      <DependentUpon>FrmSistemaBigPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesqProduto.resx">
+      <DependentUpon>FrmPesqProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesqSubGrupo.resx">
+      <DependentUpon>FrmPesqSubGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuantidade.resx">
+      <DependentUpon>FrmQuantidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSangriaSuprimento.resx">
+      <DependentUpon>FrmSangriaSuprimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSistema.resx">
+      <DependentUpon>FrmSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoEntNotaPromissoria.resx">
+      <DependentUpon>FrmTipoEntNotaPromissoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTroco.resx">
+      <DependentUpon>FrmTroco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmValorCreditoLoja.resx">
+      <DependentUpon>FrmValorCreditoLoja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{e9cab0f7-f5c3-413a-8786-97ae24a195de}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Seven_ADM\Seven_ADM.csproj">
+      <Project>{35da02da-8b21-4cd0-8a51-ffcc6708351d}</Project>
+      <Name>Seven_ADM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="7pdv.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

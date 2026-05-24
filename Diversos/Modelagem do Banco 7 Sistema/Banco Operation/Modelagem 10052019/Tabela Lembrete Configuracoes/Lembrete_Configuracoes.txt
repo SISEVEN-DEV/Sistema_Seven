@@ -1,0 +1,2 @@
+id_lembrete_configuracoes char(1) not null primary key
+alt_exc_lemb_fechado char(1)

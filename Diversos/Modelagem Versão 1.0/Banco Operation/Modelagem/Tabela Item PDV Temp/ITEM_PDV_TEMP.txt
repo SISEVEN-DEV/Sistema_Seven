@@ -1,0 +1,21 @@
+ID_ITEM			SMALLINT 	NOT NULL PK
+ID_PRODUTO		INTEGER		NOT NULL
+DESCRICAO		VARCHAR(60)	NOT NULL
+UM			CHAR(2)		NOT NULL
+VALOR_UNITARIO		DECIMAL(15, 2)	NOT NULL
+VALOR_TOTAL		DECIMAL(15, 2)	NOT NULL
+QUANTIDADE		DECIMAL(15, 2) 	NOT NULL
+IMAGEM_PROD		VARCHAR(100)
+
+create table item_pdv_temp (
+    id_item         smallint not null,
+    id_produto      integer not null,
+    descricao       varchar(60) not null,
+    um		    char(2) not null,
+    valor_unitario  decimal(15,2) not null,
+    valor_total     decimal(15,2) not null,
+    quantidade      decimal(15,2) not null,
+    imagem_prod     varchar(100)
+);	
+
+alter table item_pdv_temp add constraint pk_id_item primary key (id_item);

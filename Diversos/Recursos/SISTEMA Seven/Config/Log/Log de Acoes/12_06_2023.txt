@@ -1,0 +1,658 @@
+08:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+08:37 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+08:37 - Formulário FrmRelVenda iniciado.
+08:38 - Formulário FrmRelVenda foi finalizado.
+08:38 - Formulário FrmMinhaEmpresa iniciado.
+08:38 - Formulário FrmMinhaEmpresa foi finalizado.
+08:38 - Formulário FrmConfiguracoes iniciado.
+08:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+08:39 - Formulário FrmAbrirCaixa iniciado.
+08:39 - Abert/Fech de Caixa cadastrada. Cod: 51 | Descrição: ABERTURA DE CAIXA
+08:39 - Formulário FrmAbrirCaixa foi finalizado.
+08:39 - Formulário FrmFormaPagamento iniciado.
+08:39 - Formulário FrmFormaPagamento foi finalizado.
+09:21 - SISTEMA Seven - Admnistração foi finalizado.
+09:21 - SISTEMA Seven - PDV foi finalizado.
+09:22 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+09:22 - SISTEMA Seven - PDV foi finalizado.
+09:22 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:22 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:22 - Formulário FrmRelVenda iniciado.
+09:23 - Formulário FrmRelVenda foi finalizado.
+09:23 - SISTEMA Seven - Admnistração foi finalizado.
+09:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:23 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:23 - Formulário FrmRelVenda iniciado.
+09:25 - Formulário FrmRelVenda foi finalizado.
+09:25 - SISTEMA Seven - Admnistração foi finalizado.
+09:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:27 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:28 - Formulário FrmRelVenda iniciado.
+09:28 - Formulário FrmRelVenda foi finalizado.
+09:28 - SISTEMA Seven - Admnistração foi finalizado.
+09:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:30 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:30 - SISTEMA Seven - Admnistração foi finalizado.
+09:30 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+09:30 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+09:30 - Formulário FrmRelVenda iniciado.
+10:06 - Formulário FrmRelVenda foi finalizado.
+10:06 - SISTEMA Seven - Admnistração foi finalizado.
+10:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:06 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:06 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:06 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:07 - Formulário FrmRelVenda iniciado.
+10:08 - Erro: System.NotSupportedException: Não há suporte para o formato do caminho dado.
+   em System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   em System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   em System.IO.Directory.CreateDirectory(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4246
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:08 - Formulário FrmRelVenda foi finalizado.
+10:08 - SISTEMA Seven - Admnistração foi finalizado.
+10:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:08 - Formulário FrmRelVenda iniciado.
+10:09 - Erro: System.NotSupportedException: Não há suporte para o formato do caminho dado.
+   em System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   em System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   em System.IO.Directory.CreateDirectory(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4246
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:09 - Formulário FrmRelVenda foi finalizado.
+10:09 - SISTEMA Seven - Admnistração foi finalizado.
+10:09 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:09 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:09 - Formulário FrmRelVenda iniciado.
+10:11 - Erro: System.NotSupportedException: Não há suporte para o formato do caminho dado.
+   em System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   em System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   em System.IO.Directory.CreateDirectory(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4247
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:11 - Formulário FrmRelVenda foi finalizado.
+10:11 - SISTEMA Seven - Admnistração foi finalizado.
+10:12 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:12 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:12 - Formulário FrmRelVenda iniciado.
+10:15 - Erro: System.NotSupportedException: Não há suporte para o formato do caminho dado.
+   em System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   em System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   em System.IO.Directory.CreateDirectory(String path)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4248
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:15 - Formulário FrmRelVenda foi finalizado.
+10:15 - SISTEMA Seven - Admnistração foi finalizado.
+10:15 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:15 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:15 - Formulário FrmRelVenda iniciado.
+10:16 - Erro: System.IO.IOException: O arquivo de destino "C:\Users\xande\OneDrive\Área de Trabalho\12_06_2023_10_15_51" é um diretório e não um arquivo.
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4251
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:22 - Erro: System.IO.IOException: O arquivo de destino "C:\Users\xande\OneDrive\Área de Trabalho\12_06_2023_10_22_17" é um diretório e não um arquivo.
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4251
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:24 - Formulário FrmRelVenda foi finalizado.
+10:24 - SISTEMA Seven - Admnistração foi finalizado.
+10:25 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:26 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:26 - Formulário FrmRelVenda iniciado.
+10:26 - Erro: System.IO.IOException: O processo não pode acessar o arquivo 'C:\SISTEMA Seven\Documentos\86106981574\PDV\NNF\202306\309.pdf' porque ele está sendo usado por outro processo.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4249
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:29 - Formulário FrmRelVenda foi finalizado.
+10:29 - SISTEMA Seven - Admnistração foi finalizado.
+10:29 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:32 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:32 - Formulário FrmRelVenda iniciado.
+10:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:37 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+10:37 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+10:37 - Formulário FrmTipoConfConexao iniciado.
+10:37 - Formulário FrmLocalizarBanco iniciado.
+10:37 - Formulário FrmCadastroComputadores iniciado.
+10:38 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+10:38 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:38 - Formulário FrmRelVenda iniciado.
+10:41 - Formulário FrmRelVenda foi finalizado.
+10:41 - SISTEMA Seven - Admnistração foi finalizado.
+10:41 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+10:41 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+10:41 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:41 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:41 - Formulário FrmRelVenda iniciado.
+10:41 - Erro: System.IO.IOException: O arquivo de destino "C:\Users\xande\OneDrive\Área de Trabalho\Exportacoes_Vendas_12_06_2023_10_41_35" é um diretório e não um arquivo.
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e) na C:\Users\xande\OneDrive\Documentos\Visual Studio 2022\Projects\7_Sistema\SIE_7_Sistema\FrmRelVenda.cs:linha 4248
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:41 - Formulário FrmRelVenda foi finalizado.
+10:41 - SISTEMA Seven - Admnistração foi finalizado.
+10:42 - Formulário FrmCadastroComputadores foi finalizado.
+10:42 - Formulário FrmLocalizarBanco foi finalizado.
+10:42 - Formulário FrmTipoConfConexao foi finalizado.
+10:42 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:42 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:42 - Formulário FrmRelVenda iniciado.
+10:50 - Erro: System.IO.IOException: O arquivo de destino "C:\Users\xande\OneDrive\Área de Trabalho\Exportacoes_Vendas_12_06_2023_10_42_18" é um diretório e não um arquivo.
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   em Seven_Sistema.FrmRelVenda.bckwIndeterminado_DoWork(Object sender, DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.OnDoWork(DoWorkEventArgs e)
+   em System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument) | Evento runworkercompleted do bckwIndeterminado.
+10:50 - Formulário FrmRelVenda foi finalizado.
+10:50 - SISTEMA Seven - Admnistração foi finalizado.
+10:50 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+10:50 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+10:50 - Formulário FrmRelVenda iniciado.
+11:33 - Formulário FrmRelVenda foi finalizado.
+11:33 - SISTEMA Seven - Admnistração foi finalizado.
+11:33 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:33 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:33 - Formulário FrmRelVenda iniciado.
+11:45 - Formulário FrmRelVenda foi finalizado.
+11:45 - SISTEMA Seven - Admnistração foi finalizado.
+11:51 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:52 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:52 - Formulário FrmRelVenda iniciado.
+11:55 - Formulário FrmRelVenda foi finalizado.
+11:55 - SISTEMA Seven - Admnistração foi finalizado.
+11:55 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:55 - Formulário FrmRelVenda iniciado.
+11:56 - Formulário FrmRelVenda foi finalizado.
+11:56 - SISTEMA Seven - Admnistração foi finalizado.
+11:56 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+11:56 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+11:56 - Formulário FrmRelVenda iniciado.
+14:23 - Formulário FrmRelVenda foi finalizado.
+14:23 - SISTEMA Seven - Admnistração foi finalizado.
+14:23 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:23 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:24 - Formulário FrmRelVenda iniciado.
+14:24 - Formulário FrmRelVenda foi finalizado.
+14:24 - Erro: Referência de objeto não definida para uma instância de um objeto. | Evento runworkercompleted do bckwIndeterminado.
+14:24 - Formulário FrmRelVenda iniciado.
+14:24 - Formulário FrmRelVenda foi finalizado.
+14:24 - Erro: Referência de objeto não definida para uma instância de um objeto. | Evento runworkercompleted do bckwIndeterminado.
+14:25 - Formulário FrmRelVenda iniciado.
+14:25 - Formulário FrmInfImpressao iniciado.
+14:25 - Formulário FrmInfImpressao foi finalizado.
+14:25 - Formulário FrmInfImpressao iniciado.
+14:25 - Formulário FrmInfImpressao foi finalizado.
+14:25 - Formulário FrmInfImpressao iniciado.
+14:25 - Formulário FrmInfImpressao foi finalizado.
+14:25 - Formulário FrmInfImpressao iniciado.
+14:25 - Formulário FrmInfImpressao foi finalizado.
+14:26 - Formulário FrmRelVenda foi finalizado.
+14:26 - Erro: Referência de objeto não definida para uma instância de um objeto. | Evento runworkercompleted do bckwIndeterminado.
+14:26 - Formulário FrmRelVenda iniciado.
+14:26 - Formulário FrmRelVenda foi finalizado.
+14:27 - Formulário FrmRelCaixas iniciado.
+14:27 - Formulário FrmRelCaixas foi finalizado.
+14:27 - Formulário FrmRelOrcamento iniciado.
+14:27 - Formulário FrmRelOrcamento foi finalizado.
+14:28 - Formulário FrmRelUsuario iniciado.
+14:28 - Formulário FrmRelUsuario foi finalizado.
+14:28 - Formulário FrmCadUsuario iniciado.
+14:28 - Pesquisou usuário.
+14:28 - Formulário FrmCadFuncaoUsuario iniciado.
+14:28 - Formulário FrmCadFuncaoUsuario foi finalizado.
+14:28 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:28 - Formulário FrmPesqProduto iniciado.
+14:28 - Formulário FrmPesqProduto foi finalizado.
+14:28 - Formulário FrmFormaPagamento iniciado.
+14:29 - Formulário FrmFormaPagamento foi finalizado.
+14:29 - Formulário FrmInformar iniciado.
+14:29 - Formulário FrmInformar foi finalizado.
+14:29 - Formulário FrmPesqCliente iniciado.
+14:29 - Pesquisou cliente.
+14:29 - Formulário FrmPesqCliente foi finalizado.
+14:29 - Formulário FrmFormaPagamento iniciado.
+14:29 - Formulário FrmValorCreditoLoja iniciado.
+14:29 - Formulário FrmLoginUsuarioPerm iniciado.
+14:29 - Formulário FrmLoginUsuarioPerm foi finalizado.
+14:29 - Formulário FrmFormaPagamento foi finalizado.
+14:31 - Formulário FrmCadUsuario foi finalizado.
+14:31 - Formulário FrmRelVenda iniciado.
+14:32 - Formulário FrmConsultarPagamento iniciado.
+14:32 - Formulário FrmConsultarPagamento foi finalizado.
+14:32 - Formulário FrmRelContaPagar iniciado.
+14:32 - Formulário FrmRelContaPagar foi finalizado.
+14:33 - Formulário FrmLoginUsuario iniciado.
+14:33 - Formulário FrmLoginUsuario foi finalizado.
+14:54 - Formulário FrmRelVenda foi finalizado.
+14:54 - SISTEMA Seven - Admnistração foi finalizado.
+14:54 - SISTEMA Seven - PDV foi finalizado.
+14:54 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+14:54 - SISTEMA Seven - PDV foi finalizado.
+14:54 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+14:55 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+14:55 - Formulário FrmRelEntradasProdutos iniciado.
+14:55 - Formulário FrmInfImpressao iniciado.
+14:55 - Formulário FrmInfImpressao foi finalizado.
+15:00 - Formulário FrmRelEntradasProdutos foi finalizado.
+15:00 - SISTEMA Seven - Admnistração foi finalizado.
+15:03 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:03 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:03 - Formulário FrmRelSaidasProdutos iniciado.
+15:03 - Formulário FrmRelSaidasProdutos foi finalizado.
+15:03 - Formulário FrmRelEntradasProdutos iniciado.
+15:03 - Formulário FrmInfImpressao iniciado.
+15:03 - Formulário FrmInfImpressao foi finalizado.
+15:04 - Formulário FrmRelEntradasProdutos foi finalizado.
+15:04 - SISTEMA Seven - Admnistração foi finalizado.
+15:07 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:07 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:08 - Formulário FrmRelDevolucao iniciado.
+15:08 - Formulário FrmRelDevolucao foi finalizado.
+15:08 - Formulário FrmRelEntradasProdutos iniciado.
+15:08 - Formulário FrmRelEntradasProdutos foi finalizado.
+15:08 - SISTEMA Seven - Admnistração foi finalizado.
+15:08 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:08 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:14 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:14 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:15 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:15 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:31 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:32 - Formulário FrmRelDevolucao iniciado.
+15:32 - Formulário FrmConsultarPagamento iniciado.
+15:32 - Formulário FrmConsultarPagamento foi finalizado.
+15:32 - Formulário FrmInfImpressao iniciado.
+15:32 - Formulário FrmInfImpressao foi finalizado.
+15:32 - Formulário FrmInfImpressao iniciado.
+15:32 - Formulário FrmInfImpressao foi finalizado.
+15:32 - Formulário FrmConsultarPagamento iniciado.
+15:32 - Formulário FrmConsultarPagamento foi finalizado.
+15:32 - Formulário FrmInfImpressao iniciado.
+15:32 - Formulário FrmInfImpressao foi finalizado.
+15:36 - Formulário FrmRelDevolucao foi finalizado.
+15:36 - SISTEMA Seven - Admnistração foi finalizado.
+15:37 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+15:37 - Formulário FrmDevolucao iniciado.
+15:37 - Formulário FrmmDevTipo iniciado.
+15:37 - Formulário FrmDevTipo foi finalizado.
+15:37 - Formulário FrmDevolucao foi finalizado.
+15:38 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+15:38 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+15:38 - Formulário FrmRelDevolucao iniciado.
+15:38 - Formulário FrmConsultarItemVenda iniciado.
+15:38 - Formulário FrmConsultarItemVenda foi finalizado.
+15:38 - Formulário FrmConsultarItemVenda iniciado.
+15:38 - Formulário FrmConsultarItemVenda foi finalizado.
+15:38 - Formulário FrmConsultarPagamento iniciado.
+15:38 - Formulário FrmConsultarPagamento foi finalizado.
+15:41 - Formulário FrmDevolucao iniciado.
+15:41 - Formulário FrmmDevTipo iniciado.
+15:41 - Formulário FrmDevTipo foi finalizado.
+15:41 - Formulário FrmDevolucao foi finalizado.
+15:41 - Formulário FrmDevolucao iniciado.
+15:41 - Formulário FrmRelDevolucao foi finalizado.
+15:41 - Formulário FrmRelRegistroAtividade iniciado.
+15:42 - Pesquisou registro de atividades.
+15:42 - Formulário FrmRelRegistroAtividade foi finalizado.
+15:43 - Formulário FrmmDevTipo iniciado.
+15:43 - Formulário FrmDevTipo foi finalizado.
+15:43 - Formulário FrmDevolucao foi finalizado.
+15:44 - Formulário FrmDevolucao iniciado.
+15:44 - Formulário FrmPesqCliente iniciado.
+15:44 - Formulário FrmPesqCliente foi finalizado.
+15:44 - Formulário FrmmDevTipo iniciado.
+15:45 - Formulário FrmDevTipo foi finalizado.
+16:02 - SISTEMA Seven - Admnistração foi finalizado.
+16:02 - Formulário FrmDevolucao foi finalizado.
+16:11 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:11 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:11 - SISTEMA Seven - PDV foi finalizado.
+16:11 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:11 - Formulário FrmDevolucao iniciado.
+16:11 - Formulário FrmmDevTipo iniciado.
+16:11 - Formulário FrmDevTipo foi finalizado.
+16:12 - Formulário FrmDevolucao foi finalizado.
+16:18 - SISTEMA Seven - PDV foi finalizado.
+16:18 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:25 - Formulário FrmDevolucao iniciado.
+16:25 - Formulário FrmPesqProduto iniciado.
+16:26 - Pesquisou produto.
+16:26 - Formulário FrmQuantidade iniciado.
+16:26 - Formulário FrmQuantidade foi finalizado.
+16:26 - Formulário FrmPesqProduto foi finalizado.
+16:26 - Formulário FrmPesqProduto iniciado.
+16:26 - Pesquisou produto.
+16:26 - Formulário FrmQuantidade iniciado.
+16:26 - Formulário FrmQuantidade foi finalizado.
+16:26 - Formulário FrmPesqProduto foi finalizado.
+16:26 - Formulário FrmDevolucao foi finalizado.
+16:26 - Formulário FrmFormaPagamento iniciado.
+16:26 - Formulário FrmFormaPagamento foi finalizado.
+16:26 - Formulário FrmDevolucao iniciado.
+16:26 - Formulário FrmPesqProduto iniciado.
+16:26 - Pesquisou produto.
+16:26 - Formulário FrmQuantidade iniciado.
+16:27 - Formulário FrmQuantidade foi finalizado.
+16:27 - Formulário FrmPesqProduto foi finalizado.
+16:27 - Formulário FrmPesqProduto iniciado.
+16:27 - Pesquisou produto.
+16:27 - Formulário FrmQuantidade iniciado.
+16:27 - Formulário FrmQuantidade foi finalizado.
+16:27 - Formulário FrmPesqProduto foi finalizado.
+16:27 - Formulário FrmPesqProduto iniciado.
+16:27 - Pesquisou produto.
+16:27 - Formulário FrmQuantidade iniciado.
+16:27 - Formulário FrmQuantidade foi finalizado.
+16:27 - Formulário FrmPesqProduto foi finalizado.
+16:27 - Formulário FrmPesqProduto iniciado.
+16:27 - Pesquisou produto.
+16:27 - Formulário FrmQuantidade iniciado.
+16:27 - Formulário FrmQuantidade foi finalizado.
+16:27 - Formulário FrmPesqProduto foi finalizado.
+16:27 - Formulário FrmDevolucao foi finalizado.
+16:27 - Formulário FrmFormaPagamento iniciado.
+16:27 - Formulário FrmFormaPagamento foi finalizado.
+16:27 - SISTEMA Seven - PDV foi finalizado.
+16:27 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:28 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:28 - Formulário FrmCadUsuario iniciado.
+16:28 - Pesquisou usuário.
+16:28 - Formulário FrmCadFuncaoUsuario iniciado.
+16:28 - Formulário FrmCadFuncaoUsuario foi finalizado.
+16:28 - Usuário alterado. Cod: 1 | Nome: ADM
+16:28 - Formulário FrmCadUsuario foi finalizado.
+16:28 - SISTEMA Seven - Admnistração foi finalizado.
+16:28 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:28 - Formulário FrmFormaPagamento iniciado.
+16:28 - Formulário FrmFormaPagamento foi finalizado.
+16:28 - Formulário FrmDevolucao iniciado.
+16:28 - Formulário FrmPesqProduto iniciado.
+16:28 - Pesquisou produto.
+16:28 - Formulário FrmQuantidade iniciado.
+16:28 - Formulário FrmQuantidade foi finalizado.
+16:28 - Formulário FrmPesqProduto foi finalizado.
+16:29 - Formulário FrmPesqProduto iniciado.
+16:29 - Pesquisou produto.
+16:29 - Formulário FrmQuantidade iniciado.
+16:29 - Formulário FrmQuantidade foi finalizado.
+16:29 - Formulário FrmPesqProduto foi finalizado.
+16:29 - Formulário FrmDevolucao foi finalizado.
+16:29 - Formulário FrmFormaPagamento iniciado.
+16:34 - Formulário FrmFormaPagamento foi finalizado.
+16:34 - SISTEMA Seven - PDV foi finalizado.
+16:34 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:34 - Formulário FrmFormaPagamento iniciado.
+16:34 - Formulário FrmFormaPagamento foi finalizado.
+16:34 - Formulário FrmDevolucao iniciado.
+16:34 - Formulário FrmPesqProduto iniciado.
+16:34 - Pesquisou produto.
+16:34 - Formulário FrmQuantidade iniciado.
+16:34 - Formulário FrmQuantidade foi finalizado.
+16:34 - Formulário FrmPesqProduto foi finalizado.
+16:34 - Formulário FrmPesqProduto iniciado.
+16:34 - Pesquisou produto.
+16:34 - Formulário FrmQuantidade iniciado.
+16:34 - Formulário FrmQuantidade foi finalizado.
+16:34 - Formulário FrmPesqProduto foi finalizado.
+16:34 - Formulário FrmDevolucao foi finalizado.
+16:34 - Formulário FrmFormaPagamento iniciado.
+16:35 - Formulário FrmFormaPagamento foi finalizado.
+16:35 - Formulário FrmFormaPagamento iniciado.
+16:35 - Formulário FrmFormaPagamento foi finalizado.
+16:35 - SISTEMA Seven - PDV foi finalizado.
+16:35 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:35 - Formulário FrmFormaPagamento iniciado.
+16:35 - Formulário FrmFormaPagamento foi finalizado.
+16:35 - SISTEMA Seven - PDV foi finalizado.
+16:36 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+16:36 - Formulário FrmFormaPagamento iniciado.
+16:36 - Formulário FrmFormaPagamento foi finalizado.
+16:36 - Formulário FrmDevolucao iniciado.
+16:36 - Formulário FrmmDevTipo iniciado.
+16:36 - Formulário FrmDevTipo foi finalizado.
+16:36 - Formulário FrmPesqProduto iniciado.
+16:36 - Formulário FrmPesqProduto foi finalizado.
+16:36 - Formulário FrmmDevTipo iniciado.
+16:36 - Formulário FrmDevTipo foi finalizado.
+16:36 - Formulário FrmPesqProduto iniciado.
+16:36 - Pesquisou produto.
+16:36 - Formulário FrmQuantidade iniciado.
+16:36 - Formulário FrmQuantidade foi finalizado.
+16:36 - Formulário FrmPesqProduto foi finalizado.
+16:36 - Formulário FrmPesqProduto iniciado.
+16:36 - Pesquisou produto.
+16:36 - Formulário FrmQuantidade iniciado.
+16:36 - Formulário FrmQuantidade foi finalizado.
+16:36 - Formulário FrmPesqProduto foi finalizado.
+16:36 - Formulário FrmDevolucao foi finalizado.
+16:36 - Formulário FrmFormaPagamento iniciado.
+16:36 - Formulário FrmFormaPagamento foi finalizado.
+16:37 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+16:37 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+16:37 - Formulário FrmRelVenda iniciado.
+16:38 - Formulário FrmConsultarPagamento iniciado.
+16:38 - Formulário FrmConsultarPagamento foi finalizado.
+16:38 - Formulário FrmConsultarItemVenda iniciado.
+16:38 - Formulário FrmConsultarItemVenda foi finalizado.
+16:38 - Formulário FrmConsultarItemVenda iniciado.
+16:38 - Formulário FrmConsultarItemVenda foi finalizado.
+16:38 - Formulário FrmInfImpressao iniciado.
+16:38 - Formulário FrmInfImpressao foi finalizado.
+17:03 - Formulário FrmDevolucao iniciado.
+17:03 - Formulário FrmPesqProduto iniciado.
+17:03 - Pesquisou produto.
+17:03 - Formulário FrmQuantidade iniciado.
+17:03 - Formulário FrmQuantidade foi finalizado.
+17:03 - Formulário FrmPesqProduto foi finalizado.
+17:03 - Formulário FrmPesqProduto iniciado.
+17:03 - Pesquisou produto.
+17:04 - Formulário FrmQuantidade iniciado.
+17:04 - Formulário FrmQuantidade foi finalizado.
+17:04 - Formulário FrmPesqProduto foi finalizado.
+17:04 - Formulário FrmDevolucao foi finalizado.
+17:04 - Formulário FrmFormaPagamento iniciado.
+17:04 - Formulário FrmFormaPagamento foi finalizado.
+17:04 - SISTEMA Seven - PDV foi finalizado.
+17:04 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+17:04 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+17:04 - Formulário FrmRelVenda foi finalizado.
+17:04 - SISTEMA Seven - Admnistração foi finalizado.
+17:04 - SISTEMA Seven - Admnistração iniciado | versão 1.0 | Tela de Login
+17:04 - SISTEMA Seven - Admnistração finalizado | versão 1.0 | Tela de Login
+17:04 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+17:04 - Formulário FrmFormaPagamento iniciado.
+17:05 - Formulário FrmFormaPagamento foi finalizado.
+17:06 - Formulário FrmFormaPagamento iniciado.
+17:06 - Formulário FrmFormaPagamento foi finalizado.
+17:06 - SISTEMA Seven - PDV foi finalizado.
+17:06 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+17:07 - Formulário FrmFormaPagamento iniciado.
+17:07 - Formulário FrmFormaPagamento foi finalizado.
+17:07 - Formulário FrmDevolucao iniciado.
+17:07 - Formulário FrmPesqProduto iniciado.
+17:07 - Pesquisou produto.
+17:07 - Formulário FrmQuantidade iniciado.
+17:07 - Formulário FrmQuantidade foi finalizado.
+17:07 - Formulário FrmPesqProduto foi finalizado.
+17:07 - Formulário FrmPesqProduto iniciado.
+17:07 - Pesquisou produto.
+17:07 - Formulário FrmQuantidade iniciado.
+17:07 - Formulário FrmQuantidade foi finalizado.
+17:07 - Formulário FrmPesqProduto foi finalizado.
+17:07 - Formulário FrmDevolucao foi finalizado.
+17:07 - Formulário FrmFormaPagamento iniciado.
+17:07 - Formulário FrmFormaPagamento foi finalizado.
+17:07 - SISTEMA Seven - PDV foi finalizado.
+17:07 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+17:07 - Formulário FrmFormaPagamento iniciado.
+17:07 - Formulário FrmFormaPagamento foi finalizado.
+17:07 - SISTEMA Seven - PDV foi finalizado.
+22:59 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+22:59 - SISTEMA Seven - PDV foi finalizado.
+22:59 - SISTEMA Seven - PDV foi finalizado.
+23:00 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:00 - SISTEMA Seven - PDV foi finalizado.
+23:01 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:01 - SISTEMA Seven - PDV foi finalizado.
+23:01 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:02 - SISTEMA Seven - PDV foi finalizado.
+23:02 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:02 - SISTEMA Seven - PDV foi finalizado.
+23:26 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:27 - Formulário FrmDevolucao iniciado.
+23:27 - Formulário FrmPesqProduto iniciado.
+23:27 - Pesquisou produto.
+23:27 - Formulário FrmQuantidade iniciado.
+23:27 - Formulário FrmQuantidade foi finalizado.
+23:27 - Formulário FrmPesqProduto foi finalizado.
+23:27 - Formulário FrmPesqProduto iniciado.
+23:27 - Pesquisou produto.
+23:27 - Formulário FrmQuantidade iniciado.
+23:27 - Formulário FrmQuantidade foi finalizado.
+23:27 - Formulário FrmPesqProduto foi finalizado.
+23:27 - Formulário FrmPesqProduto iniciado.
+23:27 - Pesquisou produto.
+23:27 - Formulário FrmQuantidade iniciado.
+23:27 - Formulário FrmQuantidade foi finalizado.
+23:27 - Formulário FrmPesqProduto foi finalizado.
+23:27 - Formulário FrmDevolucao foi finalizado.
+23:28 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:30 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:30 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+23:30 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+23:30 - Formulário FrmTipoConfConexao iniciado.
+23:30 - Formulário FrmLocalizarBanco iniciado.
+23:30 - Formulário FrmCadastroComputadores iniciado.
+23:30 - Computador alterado. Cod: 1 | Nome do Computador: ALEXANDRE-PC
+23:31 - Formulário FrmFormaPagamento iniciado.
+23:31 - Formulário FrmFormaPagamento foi finalizado.
+23:31 - Formulário FrmDevolucao iniciado.
+23:31 - Formulário FrmPesqProduto iniciado.
+23:31 - Pesquisou produto.
+23:31 - Formulário FrmQuantidade iniciado.
+23:31 - Formulário FrmQuantidade foi finalizado.
+23:31 - Formulário FrmPesqProduto foi finalizado.
+23:31 - Formulário FrmPesqProduto iniciado.
+23:31 - Pesquisou produto.
+23:31 - Formulário FrmQuantidade iniciado.
+23:31 - Formulário FrmQuantidade foi finalizado.
+23:31 - Formulário FrmPesqProduto foi finalizado.
+23:31 - Formulário FrmPesqCliente iniciado.
+23:31 - Formulário FrmPesqCliente foi finalizado.
+23:31 - Formulário FrmDevolucao foi finalizado.
+23:31 - Formulário FrmFormaPagamento iniciado.
+23:32 - Formulário FrmFormaPagamento foi finalizado.
+23:32 - Formulário FrmDevolucao iniciado.
+23:32 - Formulário FrmPesqProduto iniciado.
+23:32 - Pesquisou produto.
+23:32 - Formulário FrmQuantidade iniciado.
+23:32 - Formulário FrmQuantidade foi finalizado.
+23:32 - Formulário FrmPesqProduto foi finalizado.
+23:32 - Formulário FrmPesqProduto iniciado.
+23:32 - Pesquisou produto.
+23:32 - Formulário FrmQuantidade iniciado.
+23:32 - Formulário FrmQuantidade foi finalizado.
+23:32 - Formulário FrmPesqProduto foi finalizado.
+23:32 - Formulário FrmDevolucao foi finalizado.
+23:32 - Formulário FrmFormaPagamento iniciado.
+23:35 - Formulário FrmFormaPagamento foi finalizado.
+23:35 - Formulário FrmDevolucao iniciado.
+23:35 - Formulário FrmPesqProduto iniciado.
+23:35 - Pesquisou produto.
+23:35 - Formulário FrmQuantidade iniciado.
+23:35 - Formulário FrmQuantidade foi finalizado.
+23:35 - Formulário FrmPesqProduto foi finalizado.
+23:35 - Formulário FrmPesqProduto iniciado.
+23:35 - Pesquisou produto.
+23:35 - Formulário FrmQuantidade iniciado.
+23:35 - Formulário FrmQuantidade foi finalizado.
+23:35 - Formulário FrmPesqProduto foi finalizado.
+23:36 - Formulário FrmPesqProduto iniciado.
+23:36 - Formulário FrmPesqProduto foi finalizado.
+23:36 - Formulário FrmDevolucao foi finalizado.
+23:36 - Formulário FrmFormaPagamento iniciado.
+23:36 - Formulário FrmFormaPagamento foi finalizado.
+23:36 - SISTEMA Seven - PDV foi finalizado.
+23:36 - SISTEMA Seven - Config | versão 1.0 | Tela de Login
+23:36 - SISTEMA Seven - Config finalizado | versão 1.0 | Tela de Login
+23:36 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:36 - Formulário FrmFormaPagamento iniciado.
+23:36 - Formulário FrmFormaPagamento foi finalizado.
+23:36 - SISTEMA Seven - PDV foi finalizado.
+23:39 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:39 - Formulário FrmDevolucao iniciado.
+23:40 - Formulário FrmPesqProduto iniciado.
+23:40 - Pesquisou produto.
+23:40 - Formulário FrmQuantidade iniciado.
+23:40 - Formulário FrmQuantidade foi finalizado.
+23:40 - Formulário FrmPesqProduto foi finalizado.
+23:40 - Formulário FrmPesqProduto iniciado.
+23:40 - Pesquisou produto.
+23:40 - Formulário FrmQuantidade iniciado.
+23:40 - Formulário FrmQuantidade foi finalizado.
+23:40 - Formulário FrmPesqProduto foi finalizado.
+23:40 - Formulário FrmDevolucao foi finalizado.
+23:40 - Formulário FrmFormaPagamento iniciado.
+23:40 - Formulário FrmFormaPagamento foi finalizado.
+23:40 - SISTEMA Seven - PDV foi finalizado.
+23:40 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:40 - Formulário FrmFormaPagamento iniciado.
+23:44 - Formulário FrmFormaPagamento foi finalizado.
+23:44 - Formulário FrmDevolucao iniciado.
+23:44 - Formulário FrmPesqProduto iniciado.
+23:44 - Pesquisou produto.
+23:44 - Formulário FrmQuantidade iniciado.
+23:44 - Formulário FrmQuantidade foi finalizado.
+23:44 - Formulário FrmPesqProduto foi finalizado.
+23:44 - Formulário FrmmDevTipo iniciado.
+23:45 - Formulário FrmDevTipo foi finalizado.
+23:45 - Formulário FrmDevolucao foi finalizado.
+23:45 - Formulário FrmFormaPagamento iniciado.
+23:45 - Formulário FrmFormaPagamento foi finalizado.
+23:45 - Formulário FrmDevolucao iniciado.
+23:45 - Formulário FrmPesqProduto iniciado.
+23:45 - Pesquisou produto.
+23:45 - Formulário FrmQuantidade iniciado.
+23:45 - Formulário FrmQuantidade foi finalizado.
+23:45 - Formulário FrmPesqProduto foi finalizado.
+23:45 - Formulário FrmmDevTipo iniciado.
+23:45 - Formulário FrmDevTipo foi finalizado.
+23:45 - Formulário FrmDevolucao foi finalizado.
+23:45 - Formulário FrmFormaPagamento iniciado.
+23:45 - Formulário FrmFormaPagamento foi finalizado.
+23:45 - SISTEMA Seven - PDV foi finalizado.
+23:45 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:46 - Formulário FrmFormaPagamento iniciado.
+23:46 - Formulário FrmFormaPagamento foi finalizado.
+23:46 - SISTEMA Seven - PDV foi finalizado.
+23:46 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:46 - Formulário FrmFormaPagamento iniciado.
+23:47 - Formulário FrmFormaPagamento foi finalizado.
+23:47 - SISTEMA Seven - PDV foi finalizado.
+23:47 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:50 - SISTEMA Seven - PDV foi finalizado.
+23:51 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:51 - Formulário FrmFormaPagamento iniciado.
+23:51 - Formulário FrmFormaPagamento foi finalizado.
+23:51 - SISTEMA Seven - PDV foi finalizado.
+23:53 - SISTEMA Seven - PDV iniciado | versão 1.0 | Tela de Login
+23:53 - Formulário FrmPesqProduto iniciado.
+23:53 - Formulário FrmPesqProduto foi finalizado.
+23:53 - SISTEMA Seven - PDV foi finalizado.
